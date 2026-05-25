@@ -1365,7 +1365,8 @@
         "volume-formula",
         "3d-solids"
       ],
-      "id": "d62c12"
+      "id": "d62c12",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"310\" height=\"220\" viewBox=\"0 0 310 220\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"110\" cy=\"175\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"25\" x2=\"30\" y2=\"175\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"25\" x2=\"190\" y2=\"175\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"175\" x2=\"190\" y2=\"175\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"140\" y=\"148\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 16.3 ft</text><line x1=\"110\" y1=\"25\" x2=\"110\" y2=\"175\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"157\" y=\"88\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 11.9 ft</text><text x=\"110\" y=\"214\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cone</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1401,7 +1402,8 @@
         "hemisphere",
         "3d-solids"
       ],
-      "id": "d663ff"
+      "id": "d663ff",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H = 36 in</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1438,7 +1440,8 @@
         "3d-solids",
         "volume-formula"
       ],
-      "id": "96ba1a"
+      "id": "96ba1a",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 33 in</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H = 36 in</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1475,7 +1478,8 @@
         "3d-solids",
         "computation"
       ],
-      "id": "835405"
+      "id": "835405",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 33 in</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H = 36 in</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1512,7 +1516,8 @@
         "3d-solids",
         "computation"
       ],
-      "id": "4c381a"
+      "id": "4c381a",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 33 in</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H = 36 in</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1548,7 +1553,8 @@
         "hemisphere",
         "pi"
       ],
-      "id": "b7faaf"
+      "id": "b7faaf",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"280\" height=\"195\" viewBox=\"0 0 280 195\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><path d=\"M 40 130 A 90 90 0 0 1 220 130\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"130\" rx=\"90\" ry=\"16\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"130\" x2=\"220\" y2=\"130\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"175\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><text x=\"130\" y=\"189\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1584,7 +1590,8 @@
         "hemisphere",
         "problem-setup"
       ],
-      "id": "751f07"
+      "id": "751f07",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"280\" height=\"195\" viewBox=\"0 0 280 195\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><path d=\"M 40 130 A 90 90 0 0 1 220 130\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"130\" rx=\"90\" ry=\"16\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"130\" x2=\"220\" y2=\"130\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"175\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 in</text><text x=\"130\" y=\"189\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1619,7 +1626,8 @@
         "sphere",
         "3d-solids"
       ],
-      "id": "983188"
+      "id": "983188",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"280\" height=\"195\" viewBox=\"0 0 280 195\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><path d=\"M 40 130 A 90 90 0 0 1 220 130\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"130\" rx=\"90\" ry=\"16\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"130\" x2=\"220\" y2=\"130\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"175\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r</text><text x=\"130\" y=\"189\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1655,7 +1663,8 @@
         "3d-solids",
         "substitution"
       ],
-      "id": "57878e"
+      "id": "57878e",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"280\" height=\"195\" viewBox=\"0 0 280 195\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><path d=\"M 40 130 A 90 90 0 0 1 220 130\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"130\" rx=\"90\" ry=\"16\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"130\" x2=\"220\" y2=\"130\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"175\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 3 m</text><text x=\"130\" y=\"189\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1727,7 +1736,8 @@
         "composite-solids",
         "formula-identification"
       ],
-      "id": "6daf6c"
+      "id": "6daf6c",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1763,7 +1773,8 @@
         "hemisphere",
         "rounding"
       ],
-      "id": "288194"
+      "id": "288194",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1799,7 +1810,8 @@
         "hemisphere",
         "problem-solving-strategy"
       ],
-      "id": "6b0b68"
+      "id": "6b0b68",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"310\" viewBox=\"0 0 360 310\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"165\" cy=\"255\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"155\" x2=\"100\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"230\" y1=\"155\" x2=\"230\" y2=\"255\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"165\" cy=\"155\" rx=\"65\" ry=\"17\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1\"/><path d=\"M 100 155 A 65 65 0 0 1 230 155\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"165\" y1=\"155\" x2=\"230\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"133\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r</text><line x1=\"68\" y1=\"155\" x2=\"68\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"63\" y1=\"155\" x2=\"73\" y2=\"155\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"63\" y1=\"255\" x2=\"73\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"60\" y=\"205.0\" text-anchor=\"end\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h</text><line x1=\"262\" y1=\"90\" x2=\"262\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"257\" y1=\"90\" x2=\"267\" y2=\"90\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"257\" y1=\"255\" x2=\"267\" y2=\"255\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"270\" y=\"172.5\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">H</text><text x=\"165\" y=\"304\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder + Hemisphere</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1835,7 +1847,8 @@
         "volume-word-problems",
         "inner-outer-radius"
       ],
-      "id": "0e8022"
+      "id": "0e8022",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"340\" height=\"240\" viewBox=\"0 0 340 240\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"155\" cy=\"185\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"185\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"75\" y1=\"45\" x2=\"75\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"235\" y1=\"45\" x2=\"235\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"105\" y1=\"45\" x2=\"105\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><line x1=\"205\" y1=\"45\" x2=\"205\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"155\" y1=\"45\" x2=\"235\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"21\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">R = 7.5 in</text><line x1=\"155\" y1=\"185\" x2=\"205\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"180\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 7.1 in</text><line x1=\"263\" y1=\"45\" x2=\"263\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"258\" y1=\"45\" x2=\"268\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"258\" y1=\"185\" x2=\"268\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"271\" y=\"115.0\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 22 in</text><text x=\"155\" y=\"234\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hollow Cylinder (Pipe)</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1870,7 +1883,8 @@
         "radius-diameter",
         "volume-of-cylinder"
       ],
-      "id": "92c5b1"
+      "id": "92c5b1",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"320\" height=\"210\" viewBox=\"0 0 320 210\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"130\" cy=\"165\" rx=\"70\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"35\" x2=\"60\" y2=\"165\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"35\" x2=\"200\" y2=\"165\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"35\" rx=\"70\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"35\" x2=\"200\" y2=\"35\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"165\" y=\"11\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 15 in</text><line x1=\"228\" y1=\"35\" x2=\"228\" y2=\"165\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"223\" y1=\"35\" x2=\"233\" y2=\"35\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"223\" y1=\"165\" x2=\"233\" y2=\"165\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"236\" y=\"100.0\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 22 in</text><text x=\"130\" y=\"204\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1906,7 +1920,8 @@
         "pi",
         "exponents"
       ],
-      "id": "3f4aaa"
+      "id": "3f4aaa",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"320\" height=\"210\" viewBox=\"0 0 320 210\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"130\" cy=\"165\" rx=\"70\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"35\" x2=\"60\" y2=\"165\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"35\" x2=\"200\" y2=\"165\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"130\" cy=\"35\" rx=\"70\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"130\" y1=\"35\" x2=\"200\" y2=\"35\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"165\" y=\"11\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 7.5 in</text><line x1=\"228\" y1=\"35\" x2=\"228\" y2=\"165\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"223\" y1=\"35\" x2=\"233\" y2=\"35\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"223\" y1=\"165\" x2=\"233\" y2=\"165\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"236\" y=\"100.0\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 22 in</text><text x=\"130\" y=\"204\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Cylinder</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1941,7 +1956,8 @@
         "hollow-cylinder",
         "inner-radius"
       ],
-      "id": "5c0220"
+      "id": "5c0220",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"340\" height=\"240\" viewBox=\"0 0 340 240\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"155\" cy=\"185\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"185\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"75\" y1=\"45\" x2=\"75\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"235\" y1=\"45\" x2=\"235\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"105\" y1=\"45\" x2=\"105\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><line x1=\"205\" y1=\"45\" x2=\"205\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"155\" y1=\"45\" x2=\"235\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"21\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">R = 7.5 in</text><line x1=\"155\" y1=\"185\" x2=\"205\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"180\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 7.1 in</text><line x1=\"263\" y1=\"45\" x2=\"263\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"258\" y1=\"45\" x2=\"268\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"258\" y1=\"185\" x2=\"268\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"271\" y=\"115.0\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 22 in</text><text x=\"155\" y=\"234\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hollow Cylinder (Pipe)</text></svg>"
     },
     {
       "type": "multiple-choice",
@@ -1976,7 +1992,8 @@
         "hollow-cylinder",
         "volume-formula"
       ],
-      "id": "d15a88"
+      "id": "d15a88",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"340\" height=\"240\" viewBox=\"0 0 340 240\" style=\"display:block;max-width:100%;margin:12px auto 4px\"><ellipse cx=\"155\" cy=\"185\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"185\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"75\" y1=\"45\" x2=\"75\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"235\" y1=\"45\" x2=\"235\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><line x1=\"105\" y1=\"45\" x2=\"105\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><line x1=\"205\" y1=\"45\" x2=\"205\" y2=\"185\" stroke=\"#58a6ff\" stroke-width=\"1\" stroke-dasharray=\"5,4\" opacity=\"0.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"80\" ry=\"18\" fill=\"rgba(88,166,255,0.10)\" stroke=\"#58a6ff\" stroke-width=\"1.5\"/><ellipse cx=\"155\" cy=\"45\" rx=\"50\" ry=\"11\" fill=\"#0d1117\" stroke=\"#58a6ff\" stroke-width=\"1\"/><line x1=\"155\" y1=\"45\" x2=\"235\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"185\" y=\"21\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">R = 7.5 in</text><line x1=\"155\" y1=\"185\" x2=\"205\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><text x=\"180\" y=\"160\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">r = 7.1 in</text><line x1=\"263\" y1=\"45\" x2=\"263\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\" stroke-dasharray=\"4,3\"/><line x1=\"258\" y1=\"45\" x2=\"268\" y2=\"45\" stroke=\"#7d8590\" stroke-width=\"1\"/><line x1=\"258\" y1=\"185\" x2=\"268\" y2=\"185\" stroke=\"#7d8590\" stroke-width=\"1\"/><text x=\"271\" y=\"115.0\" text-anchor=\"start\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">h = 22 in</text><text x=\"155\" y=\"234\" text-anchor=\"middle\" font-family=\"DM Sans, sans-serif\" font-size=\"11\" fill=\"#7d8590\">Hollow Cylinder (Pipe)</text></svg>"
     },
     {
       "type": "multiple-choice",

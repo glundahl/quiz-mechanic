@@ -303,6 +303,15 @@
   .opt.reveal-correct { background: rgba(63,185,80,.08); border-color: rgba(63,185,80,.4); color: #aff5b4; }
   .opt.reveal-correct .opt-letter { background: rgba(63,185,80,.3); color: #3fb950; }
 
+  /* ── SVG DIAGRAM ── */
+  .q-diagram {
+    margin: 0 0 14px;
+    text-align: center;
+  }
+  .q-diagram svg {
+    max-width: 100%;
+  }
+
   /* ── EXPLANATION ── */
   .explanation {
     display: none;
@@ -590,6 +599,10 @@ function buildCard(q, num) {
   const alreadyAnswered = q.id in answers;
   const wasCorrect      = answers[q.id];
 
+  const diagramHTML = q.svg
+    ? `<div class="q-diagram">${q.svg}</div>`
+    : '';
+
   card.innerHTML = `
     <div class="q-header">
       <div class="q-num">#${num}</div>
@@ -598,6 +611,7 @@ function buildCard(q, num) {
         <div class="q-text">${esc(q.prompt)}</div>
       </div>
     </div>
+    ${diagramHTML}
     <div class="options">${optHTML}</div>
     <div class="explanation${alreadyAnswered ? ' show' : ''}" id="exp-${q.id}">${esc(q.explanation || '')}</div>`;
 
