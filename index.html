@@ -717,7 +717,12 @@ function shuffle(arr) {
 }
 
 function esc(str) {
-  return String(str ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  // Normalize math notation from JSON: ^2 → ², ^3 → ³, sqrt() → √
+  // JSON generation should use Unicode directly, but this catches plain-text fallback
+  return String(str ?? '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')
+    .replace(/\^2/g,'²').replace(/\^3/g,'³')
+    .replace(/sqrt\(([^)]+)\)/g,'√($1)');
 }
 
 function escAttr(str) {
