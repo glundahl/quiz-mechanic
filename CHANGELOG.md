@@ -1,5 +1,7 @@
 # Changelog — Quiz Mechanic
 
+Most recent changes at the top.
+
 ## v0.2 — 2026-05-24
 - Normalize math notation in renderer: `^2` → `²`, `^3` → `³`, `sqrt()` → `√`
 - Updated question generation prompt to use Unicode math notation directly
