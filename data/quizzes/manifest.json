@@ -1,0 +1,18 @@
+{
+  "quizzes": [
+    {
+      "filename": "math-exam",
+      "title": "Math Exam Review",
+      "subtitle": "Geometry · Trig · Coordinate Geometry",
+      "badge": "Exam Review",
+      "accent_color": "#f0883e"
+    },
+    {
+      "filename": "deanna-accounting-exam",
+      "title": "Governmental Accounting Practice Exam",
+      "subtitle": "Comprehensive Review — Chapters 1-47",
+      "badge": "Exam Review",
+      "accent_color": "#3fb950"
+    }
+  ]
+}
