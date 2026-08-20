@@ -613,7 +613,11 @@ async function loadQuiz(filename) {
   }
 
   // Shuffle options on each question so correct answer isn't always in same slot
-  QUIZ.questions.forEach(q => shuffle(q.options));
+  // (disabled for quizzes whose options can reference each other by letter, e.g.
+  // "Both A and B" / "All of the above" — shuffling breaks those references)
+  if (!QUIZ.disable_option_shuffle) {
+    QUIZ.questions.forEach(q => shuffle(q.options));
+  }
 
   // Header
   document.title = `${QUIZ.title} — Quiz Mechanic`;
@@ -822,7 +826,10 @@ function showResults() {
 // ── Reset ──────────────────────────────────────────────────────────────────
 function resetQuiz() {
   answers = {};
-  QUIZ.questions.forEach(q => { delete q._chosenText; shuffle(q.options); });
+  QUIZ.questions.forEach(q => {
+    delete q._chosenText;
+    if (!QUIZ.disable_option_shuffle) shuffle(q.options);
+  });
   document.getElementById('results-screen').style.display = 'none';
   window.scrollTo({ top: 0, behavior: 'smooth' });
   filterSection(activeSection, document.querySelector('.tab-btn.active'));

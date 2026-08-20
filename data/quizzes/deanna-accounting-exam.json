@@ -6,6 +6,7 @@
   "subject": "Governmental Accounting",
   "badge": "Exam Review",
   "accent_color": "#3fb950",
+  "disable_option_shuffle": true,
   "sections": [
     {
       "key": "ch1",
