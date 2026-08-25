@@ -121,7 +121,7 @@
       "type": "multiple-choice",
       "section": "debt_program",
       "topic": "CIP Integration",
-      "prompt": "According to GFOA guidance cited in the seminar, a capital improvement plan should cover at least: (s.18, p.17)",
+      "prompt": "According to GFOA guidance cited in the seminar, a capital improvement plan should cover at least: (s.17, p.17)",
       "options": [
         {
           "text": "One fiscal year only",
@@ -142,15 +142,15 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.18, p.17)",
       "source_page": 17,
-      "source_slide_tag": "S18",
-      "source_cite": "(s.18, p.17)",
+      "source_slide_tag": "S17",
+      "source_cite": "(s.17, p.17)",
       "id": "13b15d"
     },
     {
       "type": "multiple-choice",
       "section": "bond_sale",
       "topic": "Municipal Advisor",
-      "prompt": "During a negotiated bond sale, which professional should provide the issuer with an independent pricing view (s.46, p.48)?",
+      "prompt": "During a negotiated bond sale, which professional should provide the issuer with an independent pricing view (s.48, p.48)?",
       "options": [
         {
           "text": "Rating agency analyst",
@@ -171,8 +171,8 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.46, p.48)",
       "source_page": 48,
-      "source_slide_tag": "S46",
-      "source_cite": "(s.46, p.48)",
+      "source_slide_tag": "S48",
+      "source_cite": "(s.48, p.48)",
       "id": "4fa3bc"
     },
     {
@@ -266,7 +266,7 @@
       "type": "multiple-choice",
       "section": "bond_sale",
       "topic": "Competitive Sale",
-      "prompt": "For a highly rated issuer selling straightforward GO bonds in stable markets, which method of sale is most likely favored (s.50, p.159)?",
+      "prompt": "For a highly rated issuer selling straightforward GO bonds in stable markets, which method of sale is most likely favored (s.51, p.159)?",
       "options": [
         {
           "text": "Competitive sale",
@@ -287,15 +287,15 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.50, p.159)",
       "source_page": 159,
-      "source_slide_tag": "S50",
-      "source_cite": "(s.50, p.159)",
+      "source_slide_tag": "S51",
+      "source_cite": "(s.51, p.159)",
       "id": "490612"
     },
     {
       "type": "multiple-choice",
       "section": "bond_sale",
       "topic": "Negotiated Sale",
-      "prompt": "A start-up revenue enterprise with a complex credit story requiring investor education would most likely use: (s.59, p.168)",
+      "prompt": "A start-up revenue enterprise with a complex credit story requiring investor education would most likely use: (s.60, p.168)",
       "options": [
         {
           "text": "A tax anticipation note only",
@@ -316,15 +316,15 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.59, p.168)",
       "source_page": 168,
-      "source_slide_tag": "S59",
-      "source_cite": "(s.59, p.168)",
+      "source_slide_tag": "S60",
+      "source_cite": "(s.60, p.168)",
       "id": "fd7a6e"
     },
     {
       "type": "multiple-choice",
       "section": "bond_sale",
       "topic": "POS vs OS",
-      "prompt": "After final pricing, which document is updated with final par amounts, coupons, yields, prices, and CUSIPs (s.82, p.192)?",
+      "prompt": "After final pricing, which document is updated with final par amounts, coupons, yields, prices, and CUSIPs (s.84, p.192)?",
       "options": [
         {
           "text": "Continuing Disclosure Agreement only",
@@ -345,15 +345,15 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.82, p.192)",
       "source_page": 192,
-      "source_slide_tag": "S82",
-      "source_cite": "(s.82, p.192)",
+      "source_slide_tag": "S84",
+      "source_cite": "(s.84, p.192)",
       "id": "cbdd63"
     },
     {
       "type": "multiple-choice",
       "section": "disclosure",
       "topic": "Event 15",
-      "prompt": "A material bank loan is entered into after bond issuance. Which Rule 15c2-12 listed event is most directly implicated (s.56, p.270)?",
+      "prompt": "A material bank loan is entered into after bond issuance. Which Rule 15c2-12 listed event is most directly implicated (s.57, p.270)?",
       "options": [
         {
           "text": "Private business use certification only",
@@ -374,15 +374,15 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.270)",
       "source_page": 270,
-      "source_slide_tag": "S56",
-      "source_cite": "(s.56, p.270)",
+      "source_slide_tag": "S57",
+      "source_cite": "(s.57, p.270)",
       "id": "84cfcd"
     },
     {
       "type": "multiple-choice",
       "section": "disclosure",
       "topic": "Event 16",
-      "prompt": "A material financial obligation is accelerated because the issuer is in financial difficulty. Which listed event is most directly implicated (s.56, p.271)?",
+      "prompt": "A material financial obligation is accelerated because the issuer is in financial difficulty. Which listed event is most directly implicated (s.58, p.271)?",
       "options": [
         {
           "text": "Initial primary market disclosure filing",
@@ -403,8 +403,8 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.271)",
       "source_page": 271,
-      "source_slide_tag": "S56",
-      "source_cite": "(s.56, p.271)",
+      "source_slide_tag": "S58",
+      "source_cite": "(s.58, p.271)",
       "id": "f36209"
     },
     {
@@ -498,7 +498,7 @@
       "type": "multiple-choice",
       "section": "debt_management",
       "topic": "Refunding NPV",
-      "prompt": "Which measure best evaluates the economic benefit of a refunding after considering new issuance costs (s.11, p.226)?",
+      "prompt": "Which measure best evaluates the economic benefit of a refunding after considering new issuance costs (s.13, p.226)?",
       "options": [
         {
           "text": "Original coupon rate alone",
@@ -519,8 +519,8 @@
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.11, p.226)",
       "source_page": 226,
-      "source_slide_tag": "S11",
-      "source_cite": "(s.11, p.226)",
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.226)",
       "id": "f53268"
     },
     {
@@ -845,93 +845,6 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Mechanics Competitive Sale Distribute",
-      "prompt": "Which statement about Mechanics Competitive Sale Distribute is accurate per the seminar materials (s.56, p.164)?",
-      "options": [
-        {
-          "text": "Mechanics of Competitive Sale Distribute electronic Preliminary Offering Statement and Notice of Sale at least 7-10 days in advance of sale Notify the market Utilize MA Know Who has bid on your bonds in the past Hold an investor call Receive and Verify Bids Electronic Platforms Parity and MuniAuction Verify bids Notify winning bidder S56.",
-          "is_correct": true
-        },
-        {
-          "text": "Takedown is the fee paid to bond counsel for drafting the Official Statement.",
-          "is_correct": false
-        },
-        {
-          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
-          "is_correct": false
-        },
-        {
-          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.164). Slide text: Mechanics of Competitive Sale Distribute electronic Preliminary Offering Statement and Notice of Sale at least 7-10 days in advance of sale Notify the market Utilize MA Know Who has bid on your bonds in the past Hold an investor call Receive and Verify Bids Electronic Platforms Parity and MuniAuction Verify bids Notify winning bidder S56.",
-      "source_page": 164,
-      "source_slide_tag": "S56",
-      "source_cite": "(s.56, p.164)",
-      "id": "1ab7c9"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "Pricing to Closing",
-      "prompt": "Which statement about the interval between pricing and closing is accurate (s.81, p.189)?",
-      "options": [
-        {
-          "text": "Closing always occurs at least 30 days after pricing to allow for EMMA filings.",
-          "is_correct": false
-        },
-        {
-          "text": "Typically there are 10\u201314 days between pricing and closing.",
-          "is_correct": true
-        },
-        {
-          "text": "There is no standard window between pricing and closing; it varies without typical guidance.",
-          "is_correct": false
-        },
-        {
-          "text": "Bonds must close the same business day they are priced.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.81, p.189). Typically 10\u201314 days between pricing and closing.",
-      "source_page": 189,
-      "source_slide_tag": "S81",
-      "source_cite": "(s.81, p.189)",
-      "id": "ebc118"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "EMMA and SEC",
-      "prompt": "Which statement about EMMA and federal oversight is accurate (s.89, p.197)?",
-      "options": [
-        {
-          "text": "The SEC designated EMMA as the official repository for municipal securities disclosures in 2009, and the SEC oversees the MSRB.",
-          "is_correct": true
-        },
-        {
-          "text": "The MSRB designated EMMA in 2009 and the SEC has no oversight role over the MSRB.",
-          "is_correct": false
-        },
-        {
-          "text": "Issuers may satisfy continuing disclosure by posting documents only on their own website instead of EMMA.",
-          "is_correct": false
-        },
-        {
-          "text": "EMMA is operated by the SEC and replaces the MSRB's rulemaking role.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.89, p.197). What is EMMA?",
-      "source_page": 197,
-      "source_slide_tag": "S89",
-      "source_cite": "(s.89, p.197)",
-      "id": "5452c3"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
       "topic": "Credit rating fees typically",
       "prompt": "Which statement about Credit rating fees typically is accurate per the seminar materials (s.12, p.120)?",
       "options": [
@@ -1044,35 +957,6 @@
       "source_slide_tag": "S13",
       "source_cite": "(s.13, p.121)",
       "id": "adc521"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "Other Factors Consider Cost",
-      "prompt": "Which statement about Other Factors Consider Cost is accurate per the seminar materials (s.13, p.121)?",
-      "options": [
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        },
-        {
-          "text": "Other Factors to Consider Cost of credit rating Evaluate the potential economic benefit from a credit rating in the form of lower bond yields compared to the cost of obtaining and maintaining the rating Administrative burden Consider the administrative burden placed on staff when obtaining and maintaining a rating throughout the life of the bonds Information required Rating agencies will request a substantial amount of information Management and governance structure Multi-year budget documents (operating and capital) Financial policies and procedures Details of all long-term obligations (debt, pension, OPEB) Bond documents Audited financial statements S13.",
-          "is_correct": true
-        },
-        {
-          "text": "Takedown is the fee paid to bond counsel for drafting the Official Statement.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.121). Slide text: Other Factors to Consider Cost of credit rating Evaluate the potential economic benefit from a credit rating in the form of lower bond yields compared to the cost of obtaining and maintaining the rating Administrative burden Consider the administrative burden placed on staff when obtaining and maintaining a rating throughout the life of the bonds Information required Rating agencies will request a substantial amount of information Management and governance structure Multi-year budget documents (operating and capital) Financial policies and procedures Details of all long-term obligations (debt, pension, OPEB) Bond documents Audited financial statements S13.",
-      "source_page": 121,
-      "source_slide_tag": "S13",
-      "source_cite": "(s.13, p.121)",
-      "id": "f442f4"
     },
     {
       "type": "multiple-choice",
@@ -1222,35 +1106,6 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Issuer sends credit package",
-      "prompt": "Which statement about Issuer sends credit package is accurate per the seminar materials (s.24, p.132)?",
-      "options": [
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "The trustee represents the issuer and drafts the Official Statement.",
-          "is_correct": false
-        },
-        {
-          "text": "Issuer sends \u201ccredit package\u201d to rating agencies Ratings are assigned when the analyst has completed the credit analysis and makes a recommendation to a rating committee, which assigns the rating Fee is paid to rating agency, typically out of bond proceeds, at or shortly after closing S24.",
-          "is_correct": true
-        },
-        {
-          "text": "Legal debt capacity and debt affordability are identical measures.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.24, p.132). Slide text: Issuer sends \u201ccredit package\u201d to rating agencies Ratings are assigned when the analyst has completed the credit analysis and makes a recommendation to a rating committee, which assigns the rating Fee is paid to rating agency, typically out of bond proceeds, at or shortly after closing S24.",
-      "source_page": 132,
-      "source_slide_tag": "S24",
-      "source_cite": "(s.24, p.132)",
-      "id": "f40f46"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
       "topic": "Maintaining Credit Ratings Once",
       "prompt": "Which statement about Maintaining Credit Ratings Once is accurate per the seminar materials (s.25, p.133)?",
       "options": [
@@ -1396,35 +1251,6 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Types Credit Enhancement Bond",
-      "prompt": "Which statement about Types Credit Enhancement Bond is accurate per the seminar materials (s.29, p.137)?",
-      "options": [
-        {
-          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
-          "is_correct": false
-        },
-        {
-          "text": "Insurance is sometimes purchased by underwriter/investor NOT issuer Letter of Credit Credit enhancement provided by a bank to ensure that timely payment is made to bondholders Value of LOC is tied to creditworthiness (rating) of the provider Terms and conditions will vary important to understand risks and compare to value added!.",
-          "is_correct": false
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "Types of Credit Enhancement Bond Insurance A form of credit enhancement that is provided by private, for-profit insurance companies For an upfront premium, the insurance company agrees to make principal and interest payments to the bondholder if the issuer cannot Bonds with insurance carry the rating of the insurance company (or the issuer\u2019s underlying rating, if higher) The premium charged is dependent upon the issuer\u2019s underlying rating (their uninsured credit rating) Market has gone from 8 or 9 viable bond insurers to 2, and highest rating is AA (Assured Guaranty and Build America Mutual).",
-          "is_correct": true
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.29, p.137). Slide text: Types of Credit Enhancement Bond Insurance A form of credit enhancement that is provided by private, for-profit insurance companies For an upfront premium, the insurance company agrees to make principal and interest payments to the bondholder if the issuer cannot Bonds with insurance carry the rating of the insurance company (or the issuer\u2019s underlying rating, if higher) The premium charged is dependent upon the issuer\u2019s underlying rating (their uninsured credit rating) Market has gone from 8 or 9 viable bond insurers to 2, and highest rating is AA (Assured Guaranty and Build America Mutual).",
-      "source_page": 137,
-      "source_slide_tag": "S29",
-      "source_cite": "(s.29, p.137)",
-      "id": "36c268"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
       "topic": "Insurance sometimes purchased underwriter",
       "prompt": "Which of the following is true regarding Insurance sometimes purchased underwriter (s.29, p.137)?",
       "options": [
@@ -1542,35 +1368,6 @@
       "type": "multiple-choice",
       "section": "bond_sale",
       "topic": "Best Practice Using Credit",
-      "prompt": "Which statement about Best Practice Using Credit is accurate per the seminar materials (s.30, p.138)?",
-      "options": [
-        {
-          "text": "Takedown is the fee paid to bond counsel for drafting the Official Statement.",
-          "is_correct": false
-        },
-        {
-          "text": "Best Practice Using Credit Rating Agencies Issues covered Determine what will be in the ratings presentation More is better Develop relationship with credit rating analyst It\u2019s better to hear bad (or good!) news from you than others/press Understand criteria used by rating agency for your credit In many cases, methodologies are being updated Rating fees can be negotiated (up front and ongoing) Analyst can NOT discuss fees with you.",
-          "is_correct": true
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.30, p.138). Slide text: Best Practice Using Credit Rating Agencies Issues covered Determine what will be in the ratings presentation More is better Develop relationship with credit rating analyst It\u2019s better to hear bad (or good!) news from you than others/press Understand criteria used by rating agency for your credit In many cases, methodologies are being updated Rating fees can be negotiated (up front and ongoing) Analyst can NOT discuss fees with you.",
-      "source_page": 138,
-      "source_slide_tag": "S30",
-      "source_cite": "(s.30, p.138)",
-      "id": "75b879"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "Best Practice Using Credit",
       "prompt": "Which statement about Best Practice Using Credit is accurate per the seminar materials (s.31, p.139)?",
       "options": [
         {
@@ -1595,35 +1392,6 @@
       "source_slide_tag": "S31",
       "source_cite": "(s.31, p.139)",
       "id": "a98bb0"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "Best Practice Using Credit",
-      "prompt": "Which statement about Best Practice Using Credit is accurate per the seminar materials (s.31, p.139)?",
-      "options": [
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        },
-        {
-          "text": "Legal debt capacity and debt affordability are identical measures.",
-          "is_correct": false
-        },
-        {
-          "text": "Best Practice Using Credit Rating Agencies Issues covered Know how rating agency will contact you if there is a rating change Rating agencies may give you very little time to comment on final draft rating report, and will only allow factual changes Rating agency regulations are changing and employees must be careful with how they interact with and what they can accept from a government Reviewing a rating before it is published Short time frame Only allowed to correct any factual errors S31.",
-          "is_correct": true
-        },
-        {
-          "text": "Takedown is the fee paid to bond counsel for drafting the Official Statement.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.31, p.139). Slide text: Best Practice Using Credit Rating Agencies Issues covered Know how rating agency will contact you if there is a rating change Rating agencies may give you very little time to comment on final draft rating report, and will only allow factual changes Rating agency regulations are changing and employees must be careful with how they interact with and what they can accept from a government Reviewing a rating before it is published Short time frame Only allowed to correct any factual errors S31.",
-      "source_page": 139,
-      "source_slide_tag": "S31",
-      "source_cite": "(s.31, p.139)",
-      "id": "e53119"
     },
     {
       "type": "multiple-choice",
@@ -2208,35 +1976,6 @@
     {
       "type": "multiple-choice",
       "section": "disclosure",
-      "topic": "Records Retention General rule",
-      "prompt": "Which statement about Records Retention General rule is accurate per the seminar materials (s.40, p.253)?",
-      "options": [
-        {
-          "text": "Records Retention General rule: life of the bonds plus three years If new money bonds are refunded, extends to life of refunding bonds plus three years What do you keep?.",
-          "is_correct": true
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.40, p.253). Slide text: Records Retention General rule: life of the bonds plus three years If new money bonds are refunded, extends to life of refunding bonds plus three years What do you keep?.",
-      "source_page": 253,
-      "source_slide_tag": "S40",
-      "source_cite": "(s.40, p.253)",
-      "id": "6bdcca"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "disclosure",
       "topic": "Anti Fraud Provision Securities",
       "prompt": "Which statement about Anti Fraud Provision Securities is accurate per the seminar materials (s.50, p.263)?",
       "options": [
@@ -2262,35 +2001,6 @@
       "source_slide_tag": "S50",
       "source_cite": "(s.50, p.263)",
       "id": "71e762"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "disclosure",
-      "topic": "Anti Fraud Provision Securities",
-      "prompt": "Which statement about Anti Fraud Provision Securities is accurate per the seminar materials (s.50, p.263)?",
-      "options": [
-        {
-          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
-          "is_correct": false
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-          "is_correct": true
-        },
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.50, p.263). Slide text: SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-      "source_page": 263,
-      "source_slide_tag": "S50",
-      "source_cite": "(s.50, p.263)",
-      "id": "6e8bc1"
     },
     {
       "type": "multiple-choice",
@@ -2349,35 +2059,6 @@
       "source_slide_tag": "S52",
       "source_cite": "(s.52, p.265)",
       "id": "974d69"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "disclosure",
-      "topic": "Listed Material Events Under",
-      "prompt": "Which statement about Listed Material Events Under is accurate per the seminar materials (s.52, p.265)?",
-      "options": [
-        {
-          "text": "The trustee represents the issuer and drafts the Official Statement.",
-          "is_correct": false
-        },
-        {
-          "text": "Posting annual financial information on the issuer website satisfies EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "Continuing disclosure obligations end when the final bond maturity occurs.",
-          "is_correct": false
-        },
-        {
-          "text": "Listed/Material Events Under Rule 15c-12 Issuer agrees to submit the following event filings typically within 10 days of the event Principal and interest payment delinquencies Non-payment related defaults, if material Unscheduled draws on debt service reserves reflecting financial difficulties Unscheduled draws on credit enhancements reflecting financial difficulties Substitution of credit or liquidity providers, or their failure to perform Adverse tax opinions and similar events affecting tax status of the security Modifications to rights of security holders, if material Bond calls, if material, and tender offers Defeasances Release, substitution, or sale of property securing the securities, if material Rating changes Bankruptcy, insolvency, receivership or similar event Merger/consolidation/acquisition, if material Appointment of successor or additional trustee or trustee name change, if material AND\u2026\u2026\u2026..",
-          "is_correct": true
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.52, p.265). Slide text: Listed/Material Events Under Rule 15c-12 Issuer agrees to submit the following event filings typically within 10 days of the event Principal and interest payment delinquencies Non-payment related defaults, if material Unscheduled draws on debt service reserves reflecting financial difficulties Unscheduled draws on credit enhancements reflecting financial difficulties Substitution of credit or liquidity providers, or their failure to perform Adverse tax opinions and similar events affecting tax status of the security Modifications to rights of security holders, if material Bond calls, if material, and tender offers Defeasances Release, substitution, or sale of property securing the securities, if material Rating changes Bankruptcy, insolvency, receivership or similar event Merger/consolidation/acquisition, if material Appointment of successor or additional trustee or trustee name change, if material AND\u2026\u2026\u2026..",
-      "source_page": 265,
-      "source_slide_tag": "S52",
-      "source_cite": "(s.52, p.265)",
-      "id": "b5ff8e"
     },
     {
       "type": "multiple-choice",
@@ -2610,64 +2291,6 @@
       "source_slide_tag": "S37",
       "source_cite": "(s.37, p.250)",
       "id": "352095"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "disclosure",
-      "topic": "Anti Fraud Provision Securities",
-      "prompt": "Which statement about Anti Fraud Provision Securities is accurate per the seminar materials (s.50, p.263)?",
-      "options": [
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        },
-        {
-          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
-          "is_correct": false
-        },
-        {
-          "text": "SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-          "is_correct": true
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.50, p.263). Slide text: SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-      "source_page": 263,
-      "source_slide_tag": "S50",
-      "source_cite": "(s.50, p.263)",
-      "id": "e0a84e"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "disclosure",
-      "topic": "Anti Fraud Provision Securities",
-      "prompt": "Which statement about Anti Fraud Provision Securities is accurate per the seminar materials (s.50, p.263)?",
-      "options": [
-        {
-          "text": "SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-          "is_correct": true
-        },
-        {
-          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
-          "is_correct": false
-        },
-        {
-          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
-          "is_correct": false
-        },
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.50, p.263). Slide text: SEC Anti-Fraud Provision in Securities Acts of 1933 and 1934 Rule 10b-5 Prohibits issuer from making material misstatements, or omissions of material facts if those facts are necessary to avoid a misleading statement Issuers may be held responsible for violations through negligence SEC Disclosure Rules Rule 15c2-12 Rule for Underwriters Underwriter must obtain/review \u201cdeemed final\u201d official statement Underwriter must reasonably determine that an issuer has undertaken in a written agreement Continuing Disclosure Agreement - to provide the MSRB (through EMMA): Specified continuing disclosures, including annual financial information Notices of certain listed events (see slide XX) FOR THE LIFETIME OF THE BOND!.",
-      "source_page": 263,
-      "source_slide_tag": "S50",
-      "source_cite": "(s.50, p.263)",
-      "id": "9c3a8a"
     },
     {
       "type": "multiple-choice",
@@ -3397,64 +3020,6 @@
     {
       "type": "multiple-choice",
       "section": "debt_management",
-      "topic": "Investment Bond Proceeds Exceptions",
-      "prompt": "Which statement about Investment Bond Proceeds Exceptions is accurate per the seminar materials (s.30, p.243)?",
-      "options": [
-        {
-          "text": "Bond proceeds may be invested without regard to arbitrage or yield-restriction rules.",
-          "is_correct": false
-        },
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        },
-        {
-          "text": "Investment of Bond Proceeds Exceptions to Yield Restrictions Project funds can earn interest without yield restrictions for a temporary period of three years following issuance if: 85% of the sale and investment proceeds are spent within that period Substantial binding commitments to spend 5% of process are made within 6 months after issuance Completion of capital projects financed with bond proceeds will proceed with due diligence Longer period may be allowed, up to 5 years, if issuer AND licensed architect/engineer certify that a longer period is necessary to complete project ??.",
-          "is_correct": true
-        },
-        {
-          "text": "Recent supply chain issues and labor shortages Refunding bonds 90 day from issue date S30.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.30, p.243). Slide text: Investment of Bond Proceeds Exceptions to Yield Restrictions Project funds can earn interest without yield restrictions for a temporary period of three years following issuance if: 85% of the sale and investment proceeds are spent within that period Substantial binding commitments to spend 5% of process are made within 6 months after issuance Completion of capital projects financed with bond proceeds will proceed with due diligence Longer period may be allowed, up to 5 years, if issuer AND licensed architect/engineer certify that a longer period is necessary to complete project ??.",
-      "source_page": 243,
-      "source_slide_tag": "S30",
-      "source_cite": "(s.30, p.243)",
-      "id": "c46af5"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "debt_management",
-      "topic": "Investment Bond Proceeds Exceptions",
-      "prompt": "Which statement about Investment Bond Proceeds Exceptions is accurate per the seminar materials (s.30, p.243)?",
-      "options": [
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "Investment of Bond Proceeds Exceptions to Yield Restrictions Project funds can earn interest without yield restrictions for a temporary period of three years following issuance if: 85% of the sale and investment proceeds are spent within that period Substantial binding commitments to spend 5% of process are made within 6 months after issuance Completion of capital projects financed with bond proceeds will proceed with due diligence Longer period may be allowed, up to 5 years, if issuer AND licensed architect/engineer certify that a longer period is necessary to complete project ??.",
-          "is_correct": true
-        },
-        {
-          "text": "Refunding savings should be judged by original coupon rate alone, not net present value.",
-          "is_correct": false
-        },
-        {
-          "text": "Advance refunding occurs when refunded bonds are redeemed within 90 days of the refunding sale.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.30, p.243). Slide text: Investment of Bond Proceeds Exceptions to Yield Restrictions Project funds can earn interest without yield restrictions for a temporary period of three years following issuance if: 85% of the sale and investment proceeds are spent within that period Substantial binding commitments to spend 5% of process are made within 6 months after issuance Completion of capital projects financed with bond proceeds will proceed with due diligence Longer period may be allowed, up to 5 years, if issuer AND licensed architect/engineer certify that a longer period is necessary to complete project ??.",
-      "source_page": 243,
-      "source_slide_tag": "S30",
-      "source_cite": "(s.30, p.243)",
-      "id": "794bd3"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "debt_management",
       "topic": "Arbitrage Rebate Compliance Activities",
       "prompt": "Which statement about Arbitrage Rebate Compliance Activities is accurate per the seminar materials (s.34, p.247)?",
       "options": [
@@ -3625,35 +3190,6 @@
       "source_slide_tag": "S17",
       "source_cite": "(s.17, p.230)",
       "id": "3443a5"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "debt_management",
-      "topic": "Investment Proceeds generally proceeds",
-      "prompt": "Which statement about Investment Proceeds generally proceeds is accurate per the seminar materials (s.23, p.236)?",
-      "options": [
-        {
-          "text": "Investment of Proceeds - generally, proceeds must not be invested at a materially higher yield than the yield on the bonds Determine gross proceeds Sale proceeds Investment proceeds Transferred proceeds Replacement proceeds S23.",
-          "is_correct": true
-        },
-        {
-          "text": "Bond proceeds may be invested without regard to arbitrage or yield-restriction rules.",
-          "is_correct": false
-        },
-        {
-          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
-          "is_correct": false
-        },
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.23, p.236). Slide text: Investment of Proceeds - generally, proceeds must not be invested at a materially higher yield than the yield on the bonds Determine gross proceeds Sale proceeds Investment proceeds Transferred proceeds Replacement proceeds S23.",
-      "source_page": 236,
-      "source_slide_tag": "S23",
-      "source_cite": "(s.23, p.236)",
-      "id": "c38ef6"
     },
     {
       "type": "multiple-choice",
@@ -4267,35 +3803,6 @@
     {
       "type": "multiple-choice",
       "section": "debt_program",
-      "topic": "Components Debt Policy Authority",
-      "prompt": "Which statement about Components Debt Policy Authority is accurate per the seminar materials (s.33, p.33)?",
-      "options": [
-        {
-          "text": "Components of a Debt Policy Authority to issue debt Responsibility for issuing debt When debt may/should be used to finance capital projects Entity\u2019s debt limits/debt capacity Types of debt allowed to be issued General Obligation Revenue Taxable (including tax-credit, subsidy) Fixed or Variable Rate Direct Purchase (bank loan or private placement) Refundings Other Products: Pension bonds, OPEB, Swaps and Derivatives S33.",
-          "is_correct": true
-        },
-        {
-          "text": "Legal debt capacity and debt affordability are identical measures.",
-          "is_correct": false
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        },
-        {
-          "text": "The trustee represents the issuer and drafts the Official Statement.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.33, p.33). Slide text: Components of a Debt Policy Authority to issue debt Responsibility for issuing debt When debt may/should be used to finance capital projects Entity\u2019s debt limits/debt capacity Types of debt allowed to be issued General Obligation Revenue Taxable (including tax-credit, subsidy) Fixed or Variable Rate Direct Purchase (bank loan or private placement) Refundings Other Products: Pension bonds, OPEB, Swaps and Derivatives S33.",
-      "source_page": 33,
-      "source_slide_tag": "S33",
-      "source_cite": "(s.33, p.33)",
-      "id": "92fd45"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "debt_program",
       "topic": "Developing checklists ensure compliance",
       "prompt": "Which statement about Developing checklists ensure compliance is accurate per the seminar materials (s.34, p.34)?",
       "options": [
@@ -4350,35 +3857,6 @@
       "source_slide_tag": "S35",
       "source_cite": "(s.35, p.35)",
       "id": "fcfed6"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "debt_program",
-      "topic": "disclosure investment proceeds Stay",
-      "prompt": "Which statement about disclosure investment proceeds Stay is accurate per the seminar materials (s.35, p.35)?",
-      "options": [
-        {
-          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
-          "is_correct": false
-        },
-        {
-          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
-          "is_correct": false
-        },
-        {
-          "text": "Other Observations If starting from scratch, review policies from peer governments Develop section by section Have separate policies where needed e.g.",
-          "is_correct": false
-        },
-        {
-          "text": "disclosure and investment of proceeds Stay alert for changing state and federal laws and regulations Debt policy provides cover in certain situations Outside professionals \u201dHave I got an idea for you!\u201d \u201cSorry, we can\u2019t!\u201d Elected officials \u201cLet\u2019s do a swap!\u201d \u201cSorry, we can\u2019t!\u201d The media S35.",
-          "is_correct": true
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.35, p.35). Slide text: disclosure and investment of proceeds Stay alert for changing state and federal laws and regulations Debt policy provides cover in certain situations Outside professionals \u201dHave I got an idea for you!\u201d \u201cSorry, we can\u2019t!\u201d Elected officials \u201cLet\u2019s do a swap!\u201d \u201cSorry, we can\u2019t!\u201d The media S35.",
-      "source_page": 35,
-      "source_slide_tag": "S35",
-      "source_cite": "(s.35, p.35)",
-      "id": "1ff50a"
     },
     {
       "type": "multiple-choice",
@@ -5829,6 +5307,528 @@
       "source_slide_tag": "S3",
       "source_cite": "(s.3, p.246)",
       "id": "5c025e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Pricing Comp Sheet Sale",
+      "prompt": "Which statement about Pricing Comp Sheet Sale is accurate per the seminar materials (s.68, p.176)?",
+      "options": [
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Pricing Comp Sheet S68 Par: Sale Type: Negotiated Par: Sale Type: Negotiated Par: Sale Type: Negotiated Issuer: Alvin ISD Issuer: Jourdanton ISD Issuer: City of Carrollton Issue: U/L Tax Schhse Bonds, Ser 2017 Issue: Sch Bldg Bonds, Ser 2017 Issue: General Obligation Improvement Bonds, Ser 2017 U/W: Piper Jaffray U/W: William Blair U/W: Hilltop Securities Ratings: Aa2/AA (M/F), Aaa/AAA (PSF) Ratings: A+(S), AAA (PSF) Ratings: AAA/AAA (S/F) Sale Date: Sale Date: Sale Date: Call Date: Call Date: Call Date: Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * 8/15/2017 335 2.00 0.70 2/15/2018 0.85 2/15/2018 75 2.00 1.04 0.85 + 19 bps 8/15/2018 1,000 2.00 1.00 0.94 + 6 bps 2/15/2019 1.07 2/15/2019 360 3.00 1.25 1.07 + 18 bps 8/15/2019 1,020 4.00 1.24 1.13 + 11 bps 2/15/2020 1,155 2.50 1.43 1.27 + 16 bps 2/15/2020 375 4.00 1.47 1.27 + 20 bps 8/15/2020 1,060 2.50 1.48 1.33 + 15 bps 2/15/2021 1,185 2.50 1.60 1.44 + 16 bps 2/15/2021 385 1.66 1.66 1.44 + 22 bps 8/15/2021 1,090 2.75 1.68 1.50 + 18 bps 2/15/2022 1,215 2.50 1.82 1.65 + 17 bps 2/15/2022 395 4.00 1.90 1.65 + 25 bps 8/15/2022 1,120 2.75 1.91 1.71 + 20 bps 2/15/2023 1,245 2.50 2.03 1.83 + 20 bps 2/15/2023 415 5.00 2.11 1.83 + 28 bps 8/15/2023 1,150 4.00 2.14 1.89 + 25 bps 2/15/2024 1,290 5.00 2.21 2.01 + 20 bps 2/15/2024 435 5.00 2.31 2.01 + 30 bps 8/15/2024 1,195 4.00 2.32 2.04 + 28 bps 2/15/2025 1,360 5.00 2.38 2.16 + 22 bps 2/15/2025 460 5.00 2.47 2.16 + 31 bps 8/15/2025 1,245 4.00 2.47 2.17 + 30 bps 2/15/2026 1,430 5.00 2.52 2.28 + 24 bps 2/15/2026 480 5.00 2.60 2.28 + 32 bps 8/15/2026 1,290 4.00 2.59 2.27 + 32 bps 2/15/2027 1,500 5.00 2.61 2.37 + 24 bps 2/15/2027 505 5.00 2.69 2.37 + 32 bps 8/15/2027 1,345 5.00 2.63 2.35 + 28 bps 2/15/2028 1,580 5.00 2.73 2.46 + 27 bps 2/15/2028 530 4.00 2.98 2.46 + 52 bps 8/15/2028 1,410 5.00 2.72 2.44 + 28 bps 2/15/2029 1,650 4.00 2.95 2.55 + 40 bps 2/15/2029 - 2.55 8/15/2029 1,480 4.00 2.97 2.53 + 44 bps 2/15/2030 1,715 4.00 3.05 2.64 + 41 bps 2/15/2030 1,110 3.00 3.20 2.64 + 56 bps 8/15/2030 1,540 4.00 3.09 2.61 + 48 bps 2/15/2031 1,790 4.00 3.18 2.73 + 45 bps 2/15/2031 585 4.00 3.29 2.75 + 54 bps 8/15/2031 1,605 4.00 3.17 2.75 + 42 bps 2/15/2032 1,860 4.00 3.27 2.81 + 46 bps 2/15/2032 610 4.00 3.37 2.83 + 54 bps 8/15/2032 1,665 4.00 3.26 2.83 + 43 bps 2/15/2033 1,935 4.00 3.36 2.88 + 48 bps 2/15/2033 635 4.00 3.45 2.90 + 55 bps 8/15/2033 2.90 2/15/2034 2,015 4.00 3.42 2.94 + 48 bps 2/15/2034 660 4.00 3.51 2.96 + 55 bps 8/15/2034 2.96 2/15/2035 2,100 4.00 3.48 2.99 + 49 bps 2/15/2035 685 4.00 3.56 3.01 + 55 bps 8/15/2035 3.01 2/15/2036 2,185 4.00 3.52 3.03 + 49 bps 2/15/2036 715 4.00 3.60 3.05 + 55 bps 8/15/2036 3.05 2/15/2037 2,275 4.00 3.55 3.05 + 50 bps 2/15/2037 745 4.00 3.62 3.07 + 55 bps 8/15/2037 3.07 2/15/2038 2,380 5.00 3.35 3.07 + 28 bps 2/15/2038 3.09 8/15/2038 3.09 2/15/2039 2,500 5.00 3.36 3.08 + 28 bps 2/15/2039 3.10 8/15/2039 3.10 2/15/2040 2,630 5.00 3.37 3.09 + 28 bps 2/15/2040 3.11 8/15/2040 3.11 2/15/2041 3.10 2/15/2041 3.12 8/15/2041 3.12 2/15/2042 3.11 2/15/2042 4,200 4.00 3.73 3.13 + 60 bps 8/15/2042 3.13 2/15/2043 3.12 2/15/2043 3.14 8/15/2043 3.14 2/15/2044 11,690 4.00 3.75 3.13 + 62 bps 2/15/2044 3.15 8/15/2044 3.15 2/15/2045 3.14 2/15/2045 3.16 8/15/2045 3.16 2/15/2046 3.15 2/15/2046 3.17 8/15/2046 3.17 2/15/2047 3.16 2/15/2047 5,130 4.00 3.83 3.18 + 65 bps 8/15/2047 3.18 *Spreads based on Feb Interpolated MMD COB 3/20/2017 *Spreads based on Feb Interpolated MMD COB 3/17/2017 *Spreads based on Aug Interpolated MMD COB 3/17/2017 $48,685,000 $19,490,000 $19,215,000 3/20/2017 8/15/2027 2/15/2027 2/15/2027 3/21/2017 3/20/2017.",
+          "is_correct": true
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.68, p.176). Slide text: Pricing Comp Sheet S68 Par: Sale Type: Negotiated Par: Sale Type: Negotiated Par: Sale Type: Negotiated Issuer: Alvin ISD Issuer: Jourdanton ISD Issuer: City of Carrollton Issue: U/L Tax Schhse Bonds, Ser 2017 Issue: Sch Bldg Bonds, Ser 2017 Issue: General Obligation Improvement Bonds, Ser 2017 U/W: Piper Jaffray U/W: William Blair U/W: Hilltop Securities Ratings: Aa2/AA (M/F), Aaa/AAA (PSF) Ratings: A+(S), AAA (PSF) Ratings: AAA/AAA (S/F) Sale Date: Sale Date: Sale Date: Call Date: Call Date: Call Date: Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * Maturity Par ($000) Cpn (%) Yield (%) MMD Spread * 8/15/2017 335 2.00 0.70 2/15/2018 0.85 2/15/2018 75 2.00 1.04 0.85 + 19 bps 8/15/2018 1,000 2.00 1.00 0.94 + 6 bps 2/15/2019 1.07 2/15/2019 360 3.00 1.25 1.07 + 18 bps 8/15/2019 1,020 4.00 1.24 1.13 + 11 bps 2/15/2020 1,155 2.50 1.43 1.27 + 16 bps 2/15/2020 375 4.00 1.47 1.27 + 20 bps 8/15/2020 1,060 2.50 1.48 1.33 + 15 bps 2/15/2021 1,185 2.50 1.60 1.44 + 16 bps 2/15/2021 385 1.66 1.66 1.44 + 22 bps 8/15/2021 1,090 2.75 1.68 1.50 + 18 bps 2/15/2022 1,215 2.50 1.82 1.65 + 17 bps 2/15/2022 395 4.00 1.90 1.65 + 25 bps 8/15/2022 1,120 2.75 1.91 1.71 + 20 bps 2/15/2023 1,245 2.50 2.03 1.83 + 20 bps 2/15/2023 415 5.00 2.11 1.83 + 28 bps 8/15/2023 1,150 4.00 2.14 1.89 + 25 bps 2/15/2024 1,290 5.00 2.21 2.01 + 20 bps 2/15/2024 435 5.00 2.31 2.01 + 30 bps 8/15/2024 1,195 4.00 2.32 2.04 + 28 bps 2/15/2025 1,360 5.00 2.38 2.16 + 22 bps 2/15/2025 460 5.00 2.47 2.16 + 31 bps 8/15/2025 1,245 4.00 2.47 2.17 + 30 bps 2/15/2026 1,430 5.00 2.52 2.28 + 24 bps 2/15/2026 480 5.00 2.60 2.28 + 32 bps 8/15/2026 1,290 4.00 2.59 2.27 + 32 bps 2/15/2027 1,500 5.00 2.61 2.37 + 24 bps 2/15/2027 505 5.00 2.69 2.37 + 32 bps 8/15/2027 1,345 5.00 2.63 2.35 + 28 bps 2/15/2028 1,580 5.00 2.73 2.46 + 27 bps 2/15/2028 530 4.00 2.98 2.46 + 52 bps 8/15/2028 1,410 5.00 2.72 2.44 + 28 bps 2/15/2029 1,650 4.00 2.95 2.55 + 40 bps 2/15/2029 - 2.55 8/15/2029 1,480 4.00 2.97 2.53 + 44 bps 2/15/2030 1,715 4.00 3.05 2.64 + 41 bps 2/15/2030 1,110 3.00 3.20 2.64 + 56 bps 8/15/2030 1,540 4.00 3.09 2.61 + 48 bps 2/15/2031 1,790 4.00 3.18 2.73 + 45 bps 2/15/2031 585 4.00 3.29 2.75 + 54 bps 8/15/2031 1,605 4.00 3.17 2.75 + 42 bps 2/15/2032 1,860 4.00 3.27 2.81 + 46 bps 2/15/2032 610 4.00 3.37 2.83 + 54 bps 8/15/2032 1,665 4.00 3.26 2.83 + 43 bps 2/15/2033 1,935 4.00 3.36 2.88 + 48 bps 2/15/2033 635 4.00 3.45 2.90 + 55 bps 8/15/2033 2.90 2/15/2034 2,015 4.00 3.42 2.94 + 48 bps 2/15/2034 660 4.00 3.51 2.96 + 55 bps 8/15/2034 2.96 2/15/2035 2,100 4.00 3.48 2.99 + 49 bps 2/15/2035 685 4.00 3.56 3.01 + 55 bps 8/15/2035 3.01 2/15/2036 2,185 4.00 3.52 3.03 + 49 bps 2/15/2036 715 4.00 3.60 3.05 + 55 bps 8/15/2036 3.05 2/15/2037 2,275 4.00 3.55 3.05 + 50 bps 2/15/2037 745 4.00 3.62 3.07 + 55 bps 8/15/2037 3.07 2/15/2038 2,380 5.00 3.35 3.07 + 28 bps 2/15/2038 3.09 8/15/2038 3.09 2/15/2039 2,500 5.00 3.36 3.08 + 28 bps 2/15/2039 3.10 8/15/2039 3.10 2/15/2040 2,630 5.00 3.37 3.09 + 28 bps 2/15/2040 3.11 8/15/2040 3.11 2/15/2041 3.10 2/15/2041 3.12 8/15/2041 3.12 2/15/2042 3.11 2/15/2042 4,200 4.00 3.73 3.13 + 60 bps 8/15/2042 3.13 2/15/2043 3.12 2/15/2043 3.14 8/15/2043 3.14 2/15/2044 11,690 4.00 3.75 3.13 + 62 bps 2/15/2044 3.15 8/15/2044 3.15 2/15/2045 3.14 2/15/2045 3.16 8/15/2045 3.16 2/15/2046 3.15 2/15/2046 3.17 8/15/2046 3.17 2/15/2047 3.16 2/15/2047 5,130 4.00 3.83 3.18 + 65 bps 8/15/2047 3.18 *Spreads based on Feb Interpolated MMD COB 3/20/2017 *Spreads based on Feb Interpolated MMD COB 3/17/2017 *Spreads based on Aug Interpolated MMD COB 3/17/2017 $48,685,000 $19,490,000 $19,215,000 3/20/2017 8/15/2027 2/15/2027 2/15/2027 3/21/2017 3/20/2017.",
+      "source_page": 176,
+      "source_slide_tag": "S68",
+      "source_cite": "(s.68, p.176)",
+      "id": "482957"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Selecting Managing Credit Rating",
+      "prompt": "Which statement about Selecting Managing Credit Rating is accurate per the seminar materials (s.16, p.124)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Selecting and Managing Credit Rating Agencies Credit rating agencies are required by the SEC to publish their rating methodologies Issuers should review and compare prospective rating agency methodologies in order to understand potential differences in rating criteria and weighting Your MA can assist with this For a new rating Can consider requesting an indicative/private rating Can be later converted to a public rating Can that rating really be kept private and not disclosed?.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.16, p.124). Slide text: Selecting and Managing Credit Rating Agencies Credit rating agencies are required by the SEC to publish their rating methodologies Issuers should review and compare prospective rating agency methodologies in order to understand potential differences in rating criteria and weighting Your MA can assist with this For a new rating Can consider requesting an indicative/private rating Can be later converted to a public rating Can that rating really be kept private and not disclosed?.",
+      "source_page": 124,
+      "source_slide_tag": "S16",
+      "source_cite": "(s.16, p.124)",
+      "id": "02b5f4"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Competitive Sale Issuer sells",
+      "prompt": "Which statement about Competitive Sale Issuer sells is accurate per the seminar materials (s.51, p.159)?",
+      "options": [
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive Sale Issuer sells bonds which are awarded to the Underwriter that submits bid with the lowest interest cost (TIC) On day of sale, bids are received, usually electronically, and lowest TIC bidder receives award Restructuring of maturity amounts is usually allowed to properly size the issue and to achieve desired debt service structure S51.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.51, p.159). Slide text: Competitive Sale Issuer sells bonds which are awarded to the Underwriter that submits bid with the lowest interest cost (TIC) On day of sale, bids are received, usually electronically, and lowest TIC bidder receives award Restructuring of maturity amounts is usually allowed to properly size the issue and to achieve desired debt service structure S51.",
+      "source_page": 159,
+      "source_slide_tag": "S51",
+      "source_cite": "(s.51, p.159)",
+      "id": "14a975"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Participant Discussion Questions When",
+      "prompt": "Which statement about Participant Discussion Questions When is accurate per the seminar materials (s.3, p.113)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "Participant Discussion Questions When is the last time your entity went through a credit rating process?.",
+          "is_correct": true
+        },
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter provides the federal tax opinion and bond legality opinion to investors.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.3, p.113). Slide text: Participant Discussion Questions When is the last time your entity went through a credit rating process?.",
+      "source_page": 113,
+      "source_slide_tag": "S3",
+      "source_cite": "(s.3, p.113)",
+      "id": "d01e54"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Fees Charged Bond Issuance",
+      "prompt": "Which statement about Fees Charged Bond Issuance is accurate per the seminar materials (s.73, p.181)?",
+      "options": [
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Fees Charged in a Bond Issuance Takedown Sales commission paid per bond e.g., $3.00 per $1,000 bond Management Fee compensates the investment banker for structuring the bond issue Underwriter Expense required fees paid by underwriter, also includes underwriter\u2019s counsel, travel, and misc.",
+          "is_correct": true
+        },
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.73, p.181). Slide text: Fees Charged in a Bond Issuance Takedown Sales commission paid per bond e.g., $3.00 per $1,000 bond Management Fee compensates the investment banker for structuring the bond issue Underwriter Expense required fees paid by underwriter, also includes underwriter\u2019s counsel, travel, and misc.",
+      "source_page": 181,
+      "source_slide_tag": "S73",
+      "source_cite": "(s.73, p.181)",
+      "id": "d19fa5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Effective Pricing Process Critical",
+      "prompt": "Which statement about Effective Pricing Process Critical is accurate per the seminar materials (s.67, p.175)?",
+      "options": [
+        {
+          "text": "Takedown is the fee paid to bond counsel for drafting the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Effective Pre-Pricing Process is Critical to Achieving the Lowest Interest Cost The importance of PRE Pre-Pricing analysis and discussions Pre-Pricing Call (one day before pricing) with issuer, underwriter(s) and municipal advisor: Market conditions, competing transactions, supply, etc.",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.67, p.175). Slide text: Effective Pre-Pricing Process is Critical to Achieving the Lowest Interest Cost The importance of PRE Pre-Pricing analysis and discussions Pre-Pricing Call (one day before pricing) with issuer, underwriter(s) and municipal advisor: Market conditions, competing transactions, supply, etc.",
+      "source_page": 175,
+      "source_slide_tag": "S67",
+      "source_cite": "(s.67, p.175)",
+      "id": "9e96f6"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Recommended bond structure pricing",
+      "prompt": "Which statement about Recommended bond structure pricing is accurate per the seminar materials (s.67, p.175)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "Recommended bond structure and the pricing to \u201cgo out with a scale\u201d the next day Coupons/Yields Call Features Plans for release of the \u201cwire\u201d, timing of the order period, etc.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.67, p.175). Slide text: Recommended bond structure and the pricing to \u201cgo out with a scale\u201d the next day Coupons/Yields Call Features Plans for release of the \u201cwire\u201d, timing of the order period, etc.",
+      "source_page": 175,
+      "source_slide_tag": "S67",
+      "source_cite": "(s.67, p.175)",
+      "id": "627742"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Current Topics Credit Ratings",
+      "prompt": "Which statement about Current Topics Credit Ratings is accurate per the seminar materials (p.130)?",
+      "options": [
+        {
+          "text": "Current Topics in Credit Ratings Moody\u2019s recently revised its methodologies for rating cities and counties https://www.moodys.com/creditfoundations/US- Cities-and-Counties-Proposed-Methodology- 05E006 22.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (p.130). Slide text: Current Topics in Credit Ratings Moody\u2019s recently revised its methodologies for rating cities and counties https://www.moodys.com/creditfoundations/US- Cities-and-Counties-Proposed-Methodology- 05E006 22.",
+      "source_page": 130,
+      "source_slide_tag": null,
+      "source_cite": "(p.130)",
+      "id": "d3d49a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "disclosure",
+      "topic": "Participant Discussion Questions Does",
+      "prompt": "Which statement about Participant Discussion Questions Does is accurate per the seminar materials (p.290)?",
+      "options": [
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "Participant Discussion Questions Does your entity\u2019s debt policy discuss disclosure matters or have a separate debt policy?.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (p.290). Slide text: Participant Discussion Questions Does your entity\u2019s debt policy discuss disclosure matters or have a separate debt policy?.",
+      "source_page": 290,
+      "source_slide_tag": null,
+      "source_cite": "(p.290)",
+      "id": "497603"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "disclosure",
+      "topic": "Primary Market Disclosure GFOA",
+      "prompt": "Which statement about Primary Market Disclosure GFOA is accurate per the seminar materials (s.50, p.263)?",
+      "options": [
+        {
+          "text": "Primary Market Disclosure GFOA Best Practice: Primary Market Disclosure Primary Market Time of Issuing Bonds: Offering Statement Know the Regulatory Landscape!.",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.50, p.263). Slide text: Primary Market Disclosure GFOA Best Practice: Primary Market Disclosure Primary Market Time of Issuing Bonds: Offering Statement Know the Regulatory Landscape!.",
+      "source_page": 263,
+      "source_slide_tag": "S50",
+      "source_cite": "(s.50, p.263)",
+      "id": "3a8d74"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "disclosure",
+      "topic": "Participant Discussion Questions feel",
+      "prompt": "Which statement about Participant Discussion Questions feel is accurate per the seminar materials (s.3, p.273)?",
+      "options": [
+        {
+          "text": "Continuing disclosure obligations end when the final bond maturity occurs.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting annual financial information on the issuer website satisfies EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Participant Discussion Questions Do you feel your entity/staff understand the ongoing disclosure undertakings for the lifetime of the bond?.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.3, p.273). Slide text: Participant Discussion Questions Do you feel your entity/staff understand the ongoing disclosure undertakings for the lifetime of the bond?.",
+      "source_page": 273,
+      "source_slide_tag": "S3",
+      "source_cite": "(s.3, p.273)",
+      "id": "a6356c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "disclosure",
+      "topic": "GFOA Voluntary Disclosure required",
+      "prompt": "Which statement about GFOA Voluntary Disclosure required is accurate per the seminar materials (s.63, p.276)?",
+      "options": [
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "GFOA BP: Voluntary Disclosure Not required under SEC rules Issuers should consider policies and practices to govern the process of providing voluntary disclosures to municipal market participants.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.63, p.276). Slide text: GFOA BP: Voluntary Disclosure Not required under SEC rules Issuers should consider policies and practices to govern the process of providing voluntary disclosures to municipal market participants.",
+      "source_page": 276,
+      "source_slide_tag": "S63",
+      "source_cite": "(s.63, p.276)",
+      "id": "b61776"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "disclosure",
+      "topic": "ocial Disclosures Identify social",
+      "prompt": "Which statement about ocial Disclosures Identify social is accurate per the seminar materials (s.72, p.285)?",
+      "options": [
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "Continuing disclosure obligations end when the final bond maturity occurs.",
+          "is_correct": false
+        },
+        {
+          "text": "\u201cS\u201docial Disclosures Identify social matters that could impact your credit and/or be of interest to investors Examples include housing, demographic and population changes and trends, income levels and disparities, tax base and rates, government labor responsibilities (e.g., OPEB and pensions), access and availability to community health services, education access and quality, labor force and employment/unemployment factors Gather pertinent data to determine extent of these factors S72.",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.72, p.285). Slide text: \u201cS\u201docial Disclosures Identify social matters that could impact your credit and/or be of interest to investors Examples include housing, demographic and population changes and trends, income levels and disparities, tax base and rates, government labor responsibilities (e.g., OPEB and pensions), access and availability to community health services, education access and quality, labor force and employment/unemployment factors Gather pertinent data to determine extent of these factors S72.",
+      "source_page": 285,
+      "source_slide_tag": "S72",
+      "source_cite": "(s.72, p.285)",
+      "id": "fec017"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Final maturity debt issued",
+      "prompt": "Which statement about Final maturity debt issued is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": true
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: \u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "fdff43"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "target contribution shall equal",
+      "prompt": "Which statement about target contribution shall equal is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "The target contribution shall be equal to at least 5% of the total capital cost of a project or program.\u201d S37.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: The target contribution shall be equal to at least 5% of the total capital cost of a project or program.\u201d S37.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "0b9fad"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_management",
+      "topic": "Participant Discussion Questions When",
+      "prompt": "Which statement about Participant Discussion Questions When is accurate per the seminar materials (s.3, p.217)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Participant Discussion Questions When is the last time your entity refunded a bond?.",
+          "is_correct": true
+        },
+        {
+          "text": "Advance refunding occurs when refunded bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.3, p.217). Slide text: Participant Discussion Questions When is the last time your entity refunded a bond?.",
+      "source_page": 217,
+      "source_slide_tag": "S3",
+      "source_cite": "(s.3, p.217)",
+      "id": "d1c2f5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_management",
+      "topic": "Investment Management Bond Proceeds",
+      "prompt": "Which statement about Investment Management Bond Proceeds is accurate per the seminar materials (s.27, p.240)?",
+      "options": [
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "Investment and Management of Bond Proceeds Investment of bond proceeds involves investment considerations beyond those of operating funds, including: permitted investments allowed by bond indentures project cash flow requirements need for multiple accounts with different investment horizons arbitrage rebate management and record retention Record retention = lifetime of the bond + 3 years Develop procedures for reinvestment of bond proceeds when actual cash flow is different than forecast (it will be) Know who can work with you on the investment of bond proceeds (i.e.",
+          "is_correct": true
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.27, p.240). Slide text: Investment and Management of Bond Proceeds Investment of bond proceeds involves investment considerations beyond those of operating funds, including: permitted investments allowed by bond indentures project cash flow requirements need for multiple accounts with different investment horizons arbitrage rebate management and record retention Record retention = lifetime of the bond + 3 years Develop procedures for reinvestment of bond proceeds when actual cash flow is different than forecast (it will be) Know who can work with you on the investment of bond proceeds (i.e.",
+      "source_page": 240,
+      "source_slide_tag": "S27",
+      "source_cite": "(s.27, p.240)",
+      "id": "8233e6"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_management",
+      "topic": "Evaluate Refunding achieve debt",
+      "prompt": "Which statement about Evaluate Refunding achieve debt is accurate per the seminar materials (s.9, p.222)?",
+      "options": [
+        {
+          "text": "How to Evaluate a Refunding To achieve debt service savings, the all-in cost of the new bonds must be less than the cost of the outstanding bonds.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Savings may also reflect the shorter maturity of the new debt, i.e.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.9, p.222). Slide text: How to Evaluate a Refunding To achieve debt service savings, the all-in cost of the new bonds must be less than the cost of the outstanding bonds.",
+      "source_page": 222,
+      "source_slide_tag": "S9",
+      "source_cite": "(s.9, p.222)",
+      "id": "1dd725"
     }
   ]
 }
