@@ -1,0 +1,1627 @@
+{
+  "quiz_id": "debtmgmt1",
+  "quiz_filename": "deanna-debt-management-exam",
+  "archived_at": "2026-08-25",
+  "reason": "CPFO section rebalance \u2014 removed to hit 35/25/20/20 at 200 questions",
+  "targets": {
+    "bond_sale": 70,
+    "disclosure": 50,
+    "debt_program": 40,
+    "debt_management": 40
+  },
+  "reclassified": [],
+  "removed_count": 46,
+  "added_count": 20,
+  "removed_questions": [
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "firm that assist issuers",
+      "prompt": "Which statement about firm that assist issuers is accurate per the seminar materials (s.56, p.56)?",
+      "options": [
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "A law firm that assist issuers in meeting its primary disclosure obligations.",
+          "is_correct": true
+        },
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.56). Slide text: A law firm that assist issuers in meeting its primary disclosure obligations.",
+      "source_page": 56,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.56)",
+      "id": "8ebb5f",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Anti fraud provisions Rule",
+      "prompt": "Which statement about Anti fraud provisions Rule is accurate per the seminar materials (s.32, p.32)?",
+      "options": [
+        {
+          "text": "SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+          "is_correct": true
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.32, p.32). Slide text: SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+      "source_page": 32,
+      "source_slide_tag": "S32",
+      "source_cite": "(s.32, p.32)",
+      "id": "aedcf4",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Types Legal Counsel Bond",
+      "prompt": "Which statement about Types Legal Counsel Bond is accurate per the seminar materials (s.56, p.56)?",
+      "options": [
+        {
+          "text": "Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+          "is_correct": true
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Will depend on type of bonds, method of selling bonds and issuer preferences.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.56). Slide text: Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+      "source_page": 56,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.56)",
+      "id": "1dad67",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "contribution shall equal least",
+      "prompt": "Which statement about contribution shall equal least is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "contribution shall be equal to at least 5% of the total capital cost of a project or program.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.\u201d \u201cProjects costing less than $1 million will not be funded with borrowings unless part of a larger group of related projects.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: contribution shall be equal to at least 5% of the total capital cost of a project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "52b1dc",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Expected lifetime asset capital",
+      "prompt": "Which statement about Expected lifetime asset capital is accurate per the seminar materials (s.12, p.12)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "Expected lifetime of asset (capital vs operating costs) What Are Your Financing Strategies? Cash Flow projections Consider all funding alternatives, including cash funding or \u201cPay-as-you-go\u201d.",
+          "is_correct": true
+        },
+        {
+          "text": "Expected lifetime of asset (capital vs operating costs) What Are Your Financing Strategies?.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.12). Slide text: Expected lifetime of asset (capital vs operating costs) What Are Your Financing Strategies? Cash Flow projections Consider all funding alternatives, including cash funding or \u201cPay-as-you-go\u201d.",
+      "source_page": 12,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.12)",
+      "id": "f4716a",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Revenue bond capacity depend",
+      "prompt": "Which statement about Revenue bond capacity depend is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": true
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "3ee001",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Other MSRB rules apply",
+      "prompt": "Which statement about Other MSRB rules apply is accurate per the seminar materials (s.32, p.32)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.32, p.32). Slide text: Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+      "source_page": 32,
+      "source_slide_tag": "S32",
+      "source_cite": "(s.32, p.32)",
+      "id": "ee6f10",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Importance Debt Policy Regulated",
+      "prompt": "Which statement about Importance Debt Policy Regulated is accurate per the seminar materials (s.32, p.32)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Importance of a Debt Policy Regulated Market Even for Issuers Role of SEC SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.32, p.32). Slide text: Importance of a Debt Policy Regulated Market Even for Issuers Role of SEC SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+      "source_page": 32,
+      "source_slide_tag": "S32",
+      "source_cite": "(s.32, p.32)",
+      "id": "4adb47",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "example Changes LIBOR references",
+      "prompt": "Which statement about example Changes LIBOR references is accurate per the seminar materials (s.36, p.36)?",
+      "options": [
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "For example: Changes to LIBOR references that may be embedded in financing contracts LIBOR must not be used as a reference rate in new contracts (after 12/31/21) LIBOR references and usage in legacy contracts needs to be replaced S36.",
+          "is_correct": true
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.36, p.36). Slide text: For example: Changes to LIBOR references that may be embedded in financing contracts LIBOR must not be used as a reference rate in new contracts (after 12/31/21) LIBOR references and usage in legacy contracts needs to be replaced S36.",
+      "source_page": 36,
+      "source_slide_tag": "S36",
+      "source_cite": "(s.36, p.36)",
+      "id": "b7ee32",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Similar underwriter counsel bank",
+      "prompt": "Which statement about Similar underwriter counsel bank is accurate per the seminar materials (s.56, p.56)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Will depend on type of bonds, method of selling bonds and issuer preferences.",
+          "is_correct": false
+        },
+        {
+          "text": "Use of disclosure counsel by issuers is growing.",
+          "is_correct": false
+        },
+        {
+          "text": "Similar to underwriter\u2019s counsel, bank counsel represents banks direct purchases, bank loans, etc.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.56). Slide text: Similar to underwriter\u2019s counsel, bank counsel represents banks direct purchases, bank loans, etc.",
+      "source_page": 56,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.56)",
+      "id": "8f5c08",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Types Legal Counsel Bond",
+      "prompt": "Which statement about Types Legal Counsel Bond is accurate per the seminar materials (s.56, p.56)?",
+      "options": [
+        {
+          "text": "Provides legal opinion that 1) bonds are legally issued; and 2) meet IRS tax-exemption standards.",
+          "is_correct": false
+        },
+        {
+          "text": "Similar to underwriter\u2019s counsel, bank counsel represents banks direct purchases, bank loans, etc.",
+          "is_correct": false
+        },
+        {
+          "text": "Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+          "is_correct": true
+        },
+        {
+          "text": "Use of disclosure counsel by issuers is growing.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.56). Slide text: Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+      "source_page": 56,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.56)",
+      "id": "655cf7",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Types Legal Counsel Bond",
+      "prompt": "Which statement about Types Legal Counsel Bond is accurate per the seminar materials (s.56, p.56)?",
+      "options": [
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.56). Slide text: Types of Legal Counsel in Bond Transactions Not all types of counsel are needed on every transaction.",
+      "source_page": 56,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.56)",
+      "id": "673c34",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "MSRB Underwriter Rules Protect",
+      "prompt": "Which statement about MSRB Underwriter Rules Protect is accurate per the seminar materials (s.66, p.66)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "MSRB Underwriter Rules to Protect Issuers Overview MSRB Rule G-17 Underwriters must disclose their role in a transaction to Issuer Underwriter does not have a fiduciary duty to Issuer Underwriter must disclose general and special risks of transaction Underwriter must disclose any conflicts they have within the transaction Must not suggest that issuer not use an MA Must seek Issuer acknowledgement of the above Rule G-10 Information about how to file a complaint MSRB Rule G-37 Restricts Political Contributions/Pay to Play Practices for Underwriters and MAs S66.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.66, p.66). Slide text: MSRB Underwriter Rules to Protect Issuers Overview MSRB Rule G-17 Underwriters must disclose their role in a transaction to Issuer Underwriter does not have a fiduciary duty to Issuer Underwriter must disclose general and special risks of transaction Underwriter must disclose any conflicts they have within the transaction Must not suggest that issuer not use an MA Must seek Issuer acknowledgement of the above Rule G-10 Information about how to file a complaint MSRB Rule G-37 Restricts Political Contributions/Pay to Play Practices for Underwriters and MAs S66.",
+      "source_page": 66,
+      "source_slide_tag": "S66",
+      "source_cite": "(s.66, p.66)",
+      "id": "4aefa9",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Most states impose legal",
+      "prompt": "Which statement about Most states impose legal is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Most states impose legal limits on how much debt can be issued Typically based on market value of property within jurisdiction.",
+          "is_correct": true
+        },
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: Most states impose legal limits on how much debt can be issued Typically based on market value of property within jurisdiction.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "400585",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Understanding Debt Limits Legal",
+      "prompt": "Which statement about Understanding Debt Limits Legal is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "Understanding Debt Limits Legal Limits Debt Capacity Most states impose legal limits on how much debt can be issued Typically based on market value of property within jurisdiction.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: Understanding Debt Limits Legal Limits Debt Capacity Most states impose legal limits on how much debt can be issued Typically based on market value of property within jurisdiction.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "ebf262",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Most often applicable only",
+      "prompt": "Which statement about Most often applicable only is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": true
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "63f63d",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "willingness raise rates maintain",
+      "prompt": "Which statement about willingness raise rates maintain is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": true
+        },
+        {
+          "text": "Understanding Debt Limits Legal Limits Debt Capacity Most states impose legal limits on how much debt can be issued Typically based on market value of property within jurisdiction.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "38408c",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Most often applicable only",
+      "prompt": "Which statement about Most often applicable only is accurate per the seminar materials (s.13, p.13)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.13, p.13). Slide text: Most often applicable only to general obligation debt Financial Limits Based on revenue sources Revenue bond capacity may depend on ability and willingness to raise rates and to maintain market accepted debt service coverage factors Internal Policy Limits Debt Affordability Internal debt policies may provide additional limitations on how much debt may be issued.",
+      "source_page": 13,
+      "source_slide_tag": "S13",
+      "source_cite": "(s.13, p.13)",
+      "id": "5108dd",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.20, p.20)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.20, p.20). Slide text: Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+      "source_page": 20,
+      "source_slide_tag": "S20",
+      "source_cite": "(s.20, p.20)",
+      "id": "9647a2",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.20, p.20)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.20, p.20). Slide text: Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+      "source_page": 20,
+      "source_slide_tag": "S20",
+      "source_cite": "(s.20, p.20)",
+      "id": "9bc5ac",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.20, p.20)?",
+      "options": [
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.20, p.20). Slide text: Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+      "source_page": 20,
+      "source_slide_tag": "S20",
+      "source_cite": "(s.20, p.20)",
+      "id": "ad5bb7",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.20, p.20)?",
+      "options": [
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.20, p.20). Slide text: Debt Issuance Integration with Capital Improvement Plan Determine financial impacts Capital asset life cycle should include costs to operate, maintain, administer and renew or replace the capital asset A clear estimate of all major components required to implement a project should be outlined, including land acquisition needs, design, construction, contingency and post-construction costs The impact on operating budget impacts resulting from capital projects S20.",
+      "source_page": 20,
+      "source_slide_tag": "S20",
+      "source_cite": "(s.20, p.20)",
+      "id": "76bd34",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.21, p.21)?",
+      "options": [
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+          "is_correct": true
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.21, p.21). Slide text: Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+      "source_page": 21,
+      "source_slide_tag": "S21",
+      "source_cite": "(s.21, p.21)",
+      "id": "644b4e",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.21, p.21)?",
+      "options": [
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.21, p.21). Slide text: Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+      "source_page": 21,
+      "source_slide_tag": "S21",
+      "source_cite": "(s.21, p.21)",
+      "id": "c35561",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.21, p.21)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.21, p.21). Slide text: Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+      "source_page": 21,
+      "source_slide_tag": "S21",
+      "source_cite": "(s.21, p.21)",
+      "id": "78f8ab",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.21, p.21)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.21, p.21). Slide text: Debt Issuance Integration with Capital Improvement Plan Prioritize capital projects: Prioritize expected needs based on a strategic plan The scope and timing of a planned project should be well defined in the early stages of the planning process GFOA recommends that, when evaluating capital requests, governments should first prioritize based on: Health and Safety - Priority should be given to high risk safety issues that require a capital project to correct Asset Preservation - Capital assets that require renewal or replacement based on capital asset life cycle Service/Asset Expansion/Addition - Infrastructure improvements needed to support government\u2019s policies, plans, and studies S21.",
+      "source_page": 21,
+      "source_slide_tag": "S21",
+      "source_cite": "(s.21, p.21)",
+      "id": "8547cd",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Policy GFOA Best",
+      "prompt": "Which statement about Debt Policy GFOA Best is accurate per the seminar materials (s.28, p.28)?",
+      "options": [
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.28, p.28). Slide text: Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+      "source_page": 28,
+      "source_slide_tag": "S28",
+      "source_cite": "(s.28, p.28)",
+      "id": "f4bb55",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Policy GFOA Best",
+      "prompt": "Which statement about Debt Policy GFOA Best is accurate per the seminar materials (s.28, p.28)?",
+      "options": [
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.28, p.28). Slide text: Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+      "source_page": 28,
+      "source_slide_tag": "S28",
+      "source_cite": "(s.28, p.28)",
+      "id": "55ef9b",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Policy GFOA Best",
+      "prompt": "Which statement about Debt Policy GFOA Best is accurate per the seminar materials (s.28, p.28)?",
+      "options": [
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+          "is_correct": true
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.28, p.28). Slide text: Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+      "source_page": 28,
+      "source_slide_tag": "S28",
+      "source_cite": "(s.28, p.28)",
+      "id": "fbcf72",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Policy GFOA Best",
+      "prompt": "Which statement about Debt Policy GFOA Best is accurate per the seminar materials (s.28, p.28)?",
+      "options": [
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.28, p.28). Slide text: Debt Policy GFOA Best Practice Debt Management Policy Guide the debt issuance practices of state or local governments, including: the issuance process describe authorization needed to issue different types of bonds management of a debt portfolio adherence to various laws and regulations post issuance compliance for IRS purposes post issuance compliance for continuing disclosure purposes A debt management policy should: improve the quality of decisions articulate policy goals to internal and external parties provide guidelines for the structure of debt issuance demonstrate a commitment to long-term capital and financial planning and enhance intergenerational equity S28.",
+      "source_page": 28,
+      "source_slide_tag": "S28",
+      "source_cite": "(s.28, p.28)",
+      "id": "2da2ad",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Importance Debt Policy Regulated",
+      "prompt": "Which statement about Importance Debt Policy Regulated is accurate per the seminar materials (s.32, p.32)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "Importance of a Debt Policy Regulated Market Even for Issuers Role of SEC SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.32, p.32). Slide text: Importance of a Debt Policy Regulated Market Even for Issuers Role of SEC SEC Anti-fraud provisions (Rule 10b-5) apply directly to issuers BUT issuances to NOT need to be registered with SEC Importance of Disclosure Policies and Monitoring Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+      "source_page": 32,
+      "source_slide_tag": "S32",
+      "source_cite": "(s.32, p.32)",
+      "id": "39afe7",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Recent Enforcement Case Against",
+      "prompt": "Which statement about Recent Enforcement Case Against is accurate per the seminar materials (s.32, p.32)?",
+      "options": [
+        {
+          "text": "Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+          "is_correct": true
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.32, p.32). Slide text: Recent SEC Enforcement Case Against an Issuer for NOT disclosing material information Other SEC and MSRB rules apply to Underwriters and MAs SEC\u2019s Past MCDC Initiative Municipalities Continuing Disclosure Cooperation Initiative Initiative directed at issuers and underwriters to self report materially inaccurate statements relating to prior compliance with continuing disclosure obligations under SEC Rule 15c-12.",
+      "source_page": 32,
+      "source_slide_tag": "S32",
+      "source_cite": "(s.32, p.32)",
+      "id": "e59c60",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "example Changes LIBOR references",
+      "prompt": "Which statement about example Changes LIBOR references is accurate per the seminar materials (s.36, p.36)?",
+      "options": [
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "For example: Changes to LIBOR references that may be embedded in financing contracts LIBOR must not be used as a reference rate in new contracts (after 12/31/21) LIBOR references and usage in legacy contracts needs to be replaced S36.",
+          "is_correct": true
+        },
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.36, p.36). Slide text: For example: Changes to LIBOR references that may be embedded in financing contracts LIBOR must not be used as a reference rate in new contracts (after 12/31/21) LIBOR references and usage in legacy contracts needs to be replaced S36.",
+      "source_page": 36,
+      "source_slide_tag": "S36",
+      "source_cite": "(s.36, p.36)",
+      "id": "1bd262",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Examples debt policy control",
+      "prompt": "Which statement about Examples debt policy control is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.",
+          "is_correct": true
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "782f50",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "funded more than property",
+      "prompt": "Which statement about funded more than property is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "be funded at no more than $1 per $1,000 in property taxes per year.",
+          "is_correct": true
+        },
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: be funded at no more than $1 per $1,000 in property taxes per year.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "103708",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.\u201d \u201cProjects costing less than $1 million will not be funded with borrowings unless part of a larger group of related projects.",
+          "is_correct": true
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.\u201d \u201cProjects costing less than $1 million will not be funded with borrowings unless part of a larger group of related projects.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "0c2fbf",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "borrowings unless part larger",
+      "prompt": "Which statement about borrowings unless part larger is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "borrowings unless part of a larger group of related projects.",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: borrowings unless part of a larger group of related projects.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "73f1f2",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Final maturity debt issued",
+      "prompt": "Which statement about Final maturity debt issued is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: \u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "b90a4e",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "useful life capital asset",
+      "prompt": "Which statement about useful life capital asset is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "The target contribution shall be equal to at least 5% of the total capital cost of a project or program.\u201d S37.",
+          "is_correct": false
+        },
+        {
+          "text": "useful life of the capital asset acquired or constructed, and less than 20 years.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: useful life of the capital asset acquired or constructed, and less than 20 years.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "b3e9f6",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "When feasible City shall",
+      "prompt": "Which statement about When feasible City shall is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "\u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": true
+        },
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.\u201d \u201cProjects costing less than $1 million will not be funded with borrowings unless part of a larger group of related projects.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "68e87c",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Final maturity debt issued",
+      "prompt": "Which statement about Final maturity debt issued is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": true
+        },
+        {
+          "text": "Debt maturity should exceed the useful life of the financed asset to minimize annual payments.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies: \u201cThe general City portion of the CIP, including debt service, shall be funded at no more than $1 per $1,000 in property taxes per year.\u201d \u201cProjects costing less than $1 million will not be funded with borrowings unless part of a larger group of related projects.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: \u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "7b1f78",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Final maturity debt issued",
+      "prompt": "Which statement about Final maturity debt issued is accurate per the seminar materials (s.37, p.37)?",
+      "options": [
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "\u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.37, p.37). Slide text: \u201cFinal maturity of the debt issued shall not be longer than the useful life of the capital asset acquired or constructed, and less than 20 years.\u201d \u201cWhen feasible, the City shall make contributions from current resources or from outside funding sources (such as state or federal grants) to each capital project or program.",
+      "source_page": 37,
+      "source_slide_tag": "S37",
+      "source_cite": "(s.37, p.37)",
+      "id": "0572df",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "Debt Issuance Integration with",
+      "prompt": "Which statement about Debt Issuance Integration with is accurate per the seminar materials (s.38, p.38)?",
+      "options": [
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies (continued): \u201cThe City will establish a targeted level of change in the property tax levy necessary for debt service to develop guidelines for the level of borrowing to be used to support the annual capital budget.\u201d \u201cNew revenue sources should not be pledged toward a bond issue until there is an historical trend that establishes the creditworthiness of the revenue stream.\u201d S38.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability measure the same constraint on borrowing.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.38, p.38). Slide text: Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies (continued): \u201cThe City will establish a targeted level of change in the property tax levy necessary for debt service to develop guidelines for the level of borrowing to be used to support the annual capital budget.\u201d \u201cNew revenue sources should not be pledged toward a bond issue until there is an historical trend that establishes the creditworthiness of the revenue stream.\u201d S38.",
+      "source_page": 38,
+      "source_slide_tag": "S38",
+      "source_cite": "(s.38, p.38)",
+      "id": "0e207f",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "property levy necessary debt",
+      "prompt": "Which statement about property levy necessary debt is accurate per the seminar materials (s.38, p.38)?",
+      "options": [
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "the property tax levy necessary for debt service to develop guidelines for the level of borrowing to be used to support the annual capital budget.",
+          "is_correct": true
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.38, p.38). Slide text: the property tax levy necessary for debt service to develop guidelines for the level of borrowing to be used to support the annual capital budget.",
+      "source_page": 38,
+      "source_slide_tag": "S38",
+      "source_cite": "(s.38, p.38)",
+      "id": "499017",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "develop guidelines level borrowing",
+      "prompt": "Which statement about develop guidelines level borrowing is accurate per the seminar materials (s.38, p.38)?",
+      "options": [
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "develop guidelines for the level of borrowing to be used to support the annual capital budget.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.38, p.38). Slide text: develop guidelines for the level of borrowing to be used to support the annual capital budget.",
+      "source_page": 38,
+      "source_slide_tag": "S38",
+      "source_cite": "(s.38, p.38)",
+      "id": "80a90e",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "debt_program",
+      "topic": "revenue sources should pledged",
+      "prompt": "Which statement about revenue sources should pledged is accurate per the seminar materials (s.38, p.38)?",
+      "options": [
+        {
+          "text": "A capital improvement plan is optional and should cover only the current fiscal year.",
+          "is_correct": false
+        },
+        {
+          "text": "\u201cNew revenue sources should not be pledged toward a bond issue until there is an historical trend that establishes the creditworthiness of the revenue stream.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Debt Issuance Integration with CIP Examples of debt policy control points from various debt policies (continued): \u201cThe City will establish a targeted level of change in the property tax levy necessary for debt service to develop guidelines for the level of borrowing to be used to support the annual capital budget.\u201d \u201cNew revenue sources should not be pledged toward a bond issue until there is an historical trend that establishes the creditworthiness of the revenue stream.\u201d S38.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.38, p.38). Slide text: \u201cNew revenue sources should not be pledged toward a bond issue until there is an historical trend that establishes the creditworthiness of the revenue stream.",
+      "source_page": 38,
+      "source_slide_tag": "S38",
+      "source_cite": "(s.38, p.38)",
+      "id": "884d70",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "removed_from_section": "debt_program",
+        "reason": "rebalance_cpfo_weights",
+        "target_section_count": 40
+      }
+    }
+  ]
+}
