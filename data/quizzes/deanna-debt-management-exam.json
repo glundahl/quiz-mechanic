@@ -613,27 +613,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Statement Notice Sale least",
-      "prompt": "Which statement is accurate per the seminar materials (s.56, p.164)?",
+      "topic": "Competitive Sale Notice",
+      "prompt": "Which statement about competitive sale mechanics is accurate (s.56, p.164)?",
       "options": [
         {
-          "text": "Electronic Municipal Market Access",
+          "text": "A competitive sale does not require any advance notice to the market.",
           "is_correct": false
         },
         {
-          "text": "Preparing the Preliminary Official Statement",
+          "text": "Competitive bidders receive the Preliminary Offering Statement only after the sale closes.",
           "is_correct": false
         },
         {
-          "text": "Statement and Notice of Sale at least 7-10 days",
+          "text": "The issuer should distribute the electronic Preliminary Offering Statement and Notice of Sale at least 7\u201310 days before the sale.",
           "is_correct": true
         },
         {
-          "text": "Housing/healthcare/conduit financing",
+          "text": "The Notice of Sale must be posted on EMMA at least 30 days before a competitive sale.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.164). Fact: Statement and Notice of Sale at least 7-10 days",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.164). Mechanics of Competitive Sale \u2014 distribute POS and Notice of Sale 7\u201310 days in advance.",
       "source_page": 164,
       "source_slide_tag": "S56",
       "source_cite": "(s.56, p.164)",
@@ -642,27 +642,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Typically days between pricing",
-      "prompt": "Which statement is accurate per the seminar materials (s.81, p.189)?",
+      "topic": "Pricing to Closing",
+      "prompt": "Which statement about the interval between pricing and closing is accurate (s.81, p.189)?",
       "options": [
         {
-          "text": "Typically it is 10-14 days between pricing and",
+          "text": "Typically there are 10\u201314 days between pricing and closing.",
           "is_correct": true
         },
         {
-          "text": "External data service fees",
+          "text": "Bonds must close the same business day they are priced.",
           "is_correct": false
         },
         {
-          "text": "Charges for communication",
+          "text": "There is no standard window between pricing and closing; it varies without typical guidance.",
           "is_correct": false
         },
         {
-          "text": "ability to make timely payments of interest and principal",
+          "text": "Closing always occurs at least 30 days after pricing to allow for EMMA filings.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.81, p.189). Fact: Typically it is 10-14 days between pricing and",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.81, p.189). Now That You've Priced the Bonds, How Do You Close?",
       "source_page": 189,
       "source_slide_tag": "S81",
       "source_cite": "(s.81, p.189)",
@@ -671,27 +671,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "municipal securities disclosures oversees",
-      "prompt": "Which statement is accurate per the seminar materials (s.89, p.197)?",
+      "topic": "EMMA and SEC",
+      "prompt": "Which statement about EMMA and federal oversight is accurate (s.89, p.197)?",
       "options": [
         {
-          "text": "municipal securities disclosures in 2009. The SEC oversees",
+          "text": "Issuers may satisfy continuing disclosure by posting documents only on their own website instead of EMMA.",
+          "is_correct": false
+        },
+        {
+          "text": "The SEC designated EMMA as the official repository for municipal securities disclosures in 2009, and the SEC oversees the MSRB.",
           "is_correct": true
         },
         {
-          "text": "for 25 days after the closing",
+          "text": "EMMA is operated by the SEC and replaces the MSRB's rulemaking role.",
           "is_correct": false
         },
         {
-          "text": "Continuing disclosure filings",
-          "is_correct": false
-        },
-        {
-          "text": "when needed push to adjust - the pricing yields and",
+          "text": "The MSRB designated EMMA in 2009 and the SEC has no oversight role over the MSRB.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.89, p.197). Fact: municipal securities disclosures in 2009. The SEC oversees",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.89, p.197). What is EMMA?",
       "source_page": 197,
       "source_slide_tag": "S89",
       "source_cite": "(s.89, p.197)",
@@ -700,27 +700,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Credit rating fees typically",
-      "prompt": "Which statement is accurate per the seminar materials (s.12, p.120)?",
+      "topic": "Rating Fees and Issue Size",
+      "prompt": "Which statement about credit rating fees and issue size is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "Credit rating fees typically increase with issue size, but ratings are",
+          "text": "Credit rating fees are fixed regardless of par amount and are least cost-effective on large issues.",
+          "is_correct": false
+        },
+        {
+          "text": "Credit rating fees typically increase with issue size, but ratings are generally more cost-effective for larger transactions.",
           "is_correct": true
         },
         {
-          "text": "serve as underwriter for the issuance",
+          "text": "Issue size has no relationship to whether a credit rating is cost-effective.",
           "is_correct": false
         },
         {
-          "text": "access to market information, GFOA recommends that",
-          "is_correct": false
-        },
-        {
-          "text": "Plans for release of the \u201cwire\u201d, timing of the order",
+          "text": "A small debt issue always benefits more from a rating than a large issue because fees are lower.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Fact: Credit rating fees typically increase with issue size, but ratings are",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Size of issuance.",
       "source_page": 120,
       "source_slide_tag": "S12",
       "source_cite": "(s.12, p.120)",
@@ -729,27 +729,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "potential benefit from obtaining",
-      "prompt": "Which statement is accurate per the seminar materials (s.12, p.120)?",
+      "topic": "Frequent Issuance and Ratings",
+      "prompt": "Which statement about frequent issuers and credit ratings is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "Should have in-depth market information including",
-          "is_correct": false
-        },
-        {
-          "text": "should consider obtaining accuracy and completeness",
-          "is_correct": false
-        },
-        {
-          "text": "Post on EMMA (underwriter or MA may do this)",
-          "is_correct": false
-        },
-        {
-          "text": "potential benefit may be from obtaining a credit rating.",
+          "text": "The more frequently an issuer plans to issue debt, the greater the potential benefit from obtaining a credit rating may be.",
           "is_correct": true
+        },
+        {
+          "text": "Frequency of issuance is irrelevant to whether a rating adds market benefit.",
+          "is_correct": false
+        },
+        {
+          "text": "Frequent issuers rarely benefit from ratings because investors already know the credit.",
+          "is_correct": false
+        },
+        {
+          "text": "Credit ratings are only evaluated for issuers that sell bonds once every five years or less.",
+          "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Fact: potential benefit may be from obtaining a credit rating.",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Frequency of issuance.",
       "source_page": 120,
       "source_slide_tag": "S12",
       "source_cite": "(s.12, p.120)",
@@ -758,27 +758,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Bonds sold public offering",
-      "prompt": "Which statement is accurate per the seminar materials (s.12, p.120)?",
+      "topic": "Public Offering and Ratings",
+      "prompt": "Which statement about method of sale and credit ratings is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "Bonds sold in a public offering (via negotiated or competitive sale)",
+          "text": "Public offerings are prohibited from obtaining credit ratings under GFOA guidance.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales never benefit from ratings because investors bid on TIC alone.",
+          "is_correct": false
+        },
+        {
+          "text": "Bonds sold in a public offering (negotiated or competitive sale) may benefit from obtaining one or more ratings; a rating is usually not required for a private placement or direct purchase.",
           "is_correct": true
         },
         {
-          "text": "Competitive Sale: Sale in which multiple",
-          "is_correct": false
-        },
-        {
-          "text": "Generally used occasionally on large",
-          "is_correct": false
-        },
-        {
-          "text": "Market Professionals",
+          "text": "Private placements and direct purchases always require at least two credit ratings.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Fact: Bonds sold in a public offering (via negotiated or competitive sale)",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Method of sale.",
       "source_page": 120,
       "source_slide_tag": "S12",
       "source_cite": "(s.12, p.120)",
