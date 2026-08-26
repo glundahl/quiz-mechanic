@@ -2244,6 +2244,360 @@
         "removed_date": "2026-08-25",
         "reason": "duplicate_correct_answer"
       }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Credit rating fees typically",
+      "prompt": "Which statement about Credit rating fees typically is accurate per the seminar materials (s.12, p.120)?",
+      "options": [
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
+          "is_correct": true
+        },
+        {
+          "text": "The trustee represents the issuer and drafts the Official Statement.",
+          "is_correct": false
+        },
+        {
+          "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
+      "source_page": 120,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.120)",
+      "id": "36320e",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "reason": "p120_trim_redundant_or_fragment",
+        "page": 120
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "potential benefit from obtaining",
+      "prompt": "Which statement about potential benefit from obtaining is accurate per the seminar materials (s.12, p.120)?",
+      "options": [
+        {
+          "text": "Evaluating the Need for a Credit Rating Size of issuance A small debt issue may not benefit from a credit rating as much as one with a larger par amount.",
+          "is_correct": false
+        },
+        {
+          "text": "potential benefit may be from obtaining a credit rating.",
+          "is_correct": true
+        },
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: potential benefit may be from obtaining a credit rating.",
+      "source_page": 120,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.120)",
+      "id": "cab119",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "reason": "p120_trim_redundant_or_fragment",
+        "page": 120
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "frequent issuer benefit from",
+      "prompt": "Which statement about frequent issuer benefit from is accurate per the seminar materials (s.12, p.120)?",
+      "options": [
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+          "is_correct": true
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "Frequency of issuance The more frequently an issuer plans to issue debt, the greater the potential benefit may be from obtaining a credit rating.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+      "source_page": 120,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.120)",
+      "id": "009c06",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "reason": "p120_trim_redundant_or_fragment",
+        "page": 120
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Bonds sold public offering",
+      "prompt": "Which statement about Bonds sold public offering is accurate per the seminar materials (s.12, p.120)?",
+      "options": [
+        {
+          "text": "Bonds sold in a public offering (via negotiated or competitive sale).",
+          "is_correct": true
+        },
+        {
+          "text": "The bonds are general obligations, full faith and credit.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Bonds sold in a public offering (via negotiated or competitive sale)",
+      "source_page": 120,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.120)",
+      "id": "92d723",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "reason": "p120_trim_redundant_or_fragment",
+        "page": 120
+      }
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "small debt issue benefit",
+      "prompt": "Which statement about small debt issue benefit is accurate per the seminar materials (s.12, p.120)?",
+      "options": [
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "A small debt issue may not benefit from a credit rating as much as.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A small debt issue may not benefit from a credit rating as much as",
+      "source_page": 120,
+      "source_slide_tag": "S12",
+      "source_cite": "(s.12, p.120)",
+      "id": "9fa563",
+      "_archive_meta": {
+        "removed_date": "2026-08-25",
+        "reason": "p120_trim_redundant_or_fragment",
+        "page": 120
+      }
     }
-  ]
+  ],
+  "p120_trim": {
+    "archived_at": "2026-08-25",
+    "reason": "p120_trim_to_four_bullet_questions",
+    "kept_p120_ids": [
+      "0206a9",
+      "041a42",
+      "9e7c55",
+      "a1a47b"
+    ],
+    "removed_count": 5,
+    "added_bond_sale": 5,
+    "removed_questions": [
+      {
+        "type": "multiple-choice",
+        "section": "bond_sale",
+        "topic": "Credit rating fees typically",
+        "prompt": "Which statement about Credit rating fees typically is accurate per the seminar materials (s.12, p.120)?",
+        "options": [
+          {
+            "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+            "is_correct": false
+          },
+          {
+            "text": "Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
+            "is_correct": true
+          },
+          {
+            "text": "The trustee represents the issuer and drafts the Official Statement.",
+            "is_correct": false
+          },
+          {
+            "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
+        "source_page": 120,
+        "source_slide_tag": "S12",
+        "source_cite": "(s.12, p.120)",
+        "id": "36320e",
+        "_archive_meta": {
+          "removed_date": "2026-08-25",
+          "reason": "p120_trim_redundant_or_fragment",
+          "page": 120
+        }
+      },
+      {
+        "type": "multiple-choice",
+        "section": "bond_sale",
+        "topic": "potential benefit from obtaining",
+        "prompt": "Which statement about potential benefit from obtaining is accurate per the seminar materials (s.12, p.120)?",
+        "options": [
+          {
+            "text": "Evaluating the Need for a Credit Rating Size of issuance A small debt issue may not benefit from a credit rating as much as one with a larger par amount.",
+            "is_correct": false
+          },
+          {
+            "text": "potential benefit may be from obtaining a credit rating.",
+            "is_correct": true
+          },
+          {
+            "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+            "is_correct": false
+          },
+          {
+            "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: potential benefit may be from obtaining a credit rating.",
+        "source_page": 120,
+        "source_slide_tag": "S12",
+        "source_cite": "(s.12, p.120)",
+        "id": "cab119",
+        "_archive_meta": {
+          "removed_date": "2026-08-25",
+          "reason": "p120_trim_redundant_or_fragment",
+          "page": 120
+        }
+      },
+      {
+        "type": "multiple-choice",
+        "section": "bond_sale",
+        "topic": "frequent issuer benefit from",
+        "prompt": "Which statement about frequent issuer benefit from is accurate per the seminar materials (s.12, p.120)?",
+        "options": [
+          {
+            "text": "Legal debt capacity and debt affordability are identical measures.",
+            "is_correct": false
+          },
+          {
+            "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+            "is_correct": true
+          },
+          {
+            "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+            "is_correct": false
+          },
+          {
+            "text": "Frequency of issuance The more frequently an issuer plans to issue debt, the greater the potential benefit may be from obtaining a credit rating.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
+        "source_page": 120,
+        "source_slide_tag": "S12",
+        "source_cite": "(s.12, p.120)",
+        "id": "009c06",
+        "_archive_meta": {
+          "removed_date": "2026-08-25",
+          "reason": "p120_trim_redundant_or_fragment",
+          "page": 120
+        }
+      },
+      {
+        "type": "multiple-choice",
+        "section": "bond_sale",
+        "topic": "Bonds sold public offering",
+        "prompt": "Which statement about Bonds sold public offering is accurate per the seminar materials (s.12, p.120)?",
+        "options": [
+          {
+            "text": "Bonds sold in a public offering (via negotiated or competitive sale).",
+            "is_correct": true
+          },
+          {
+            "text": "The bonds are general obligations, full faith and credit.",
+            "is_correct": false
+          },
+          {
+            "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+            "is_correct": false
+          },
+          {
+            "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Bonds sold in a public offering (via negotiated or competitive sale)",
+        "source_page": 120,
+        "source_slide_tag": "S12",
+        "source_cite": "(s.12, p.120)",
+        "id": "92d723",
+        "_archive_meta": {
+          "removed_date": "2026-08-25",
+          "reason": "p120_trim_redundant_or_fragment",
+          "page": 120
+        }
+      },
+      {
+        "type": "multiple-choice",
+        "section": "bond_sale",
+        "topic": "small debt issue benefit",
+        "prompt": "Which statement about small debt issue benefit is accurate per the seminar materials (s.12, p.120)?",
+        "options": [
+          {
+            "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+            "is_correct": false
+          },
+          {
+            "text": "A small debt issue may not benefit from a credit rating as much as.",
+            "is_correct": true
+          },
+          {
+            "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+            "is_correct": false
+          },
+          {
+            "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A small debt issue may not benefit from a credit rating as much as",
+        "source_page": 120,
+        "source_slide_tag": "S12",
+        "source_cite": "(s.12, p.120)",
+        "id": "9fa563",
+        "_archive_meta": {
+          "removed_date": "2026-08-25",
+          "reason": "p120_trim_redundant_or_fragment",
+          "page": 120
+        }
+      }
+    ]
+  }
 }

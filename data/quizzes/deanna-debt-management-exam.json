@@ -654,12 +654,12 @@
           "is_correct": false
         },
         {
-          "text": "Bonds must close the same business day they are priced.",
-          "is_correct": false
-        },
-        {
           "text": "Typically there are 10\u201314 days between pricing and closing.",
           "is_correct": true
+        },
+        {
+          "text": "Bonds must close the same business day they are priced.",
+          "is_correct": false
         }
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.81, p.189). Now That You've Priced the Bonds, How Do You Close?",
@@ -675,20 +675,20 @@
       "prompt": "Which statement about EMMA and federal oversight is accurate (s.89, p.197)?",
       "options": [
         {
+          "text": "EMMA is operated by the SEC and replaces the MSRB's rulemaking role.",
+          "is_correct": false
+        },
+        {
           "text": "The MSRB designated EMMA in 2009 and the SEC has no oversight role over the MSRB.",
           "is_correct": false
         },
         {
-          "text": "EMMA is operated by the SEC and replaces the MSRB's rulemaking role.",
+          "text": "Issuers may satisfy continuing disclosure by posting documents only on their own website instead of EMMA.",
           "is_correct": false
         },
         {
           "text": "The SEC designated EMMA as the official repository for municipal securities disclosures in 2009, and the SEC oversees the MSRB.",
           "is_correct": true
-        },
-        {
-          "text": "Issuers may satisfy continuing disclosure by posting documents only on their own website instead of EMMA.",
-          "is_correct": false
         }
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.89, p.197). What is EMMA?",
@@ -704,20 +704,20 @@
       "prompt": "Which statement about credit rating fees and issue size is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "A small debt issue always benefits more from a rating than a large issue because fees are lower.",
-          "is_correct": false
-        },
-        {
-          "text": "Issue size has no relationship to whether a credit rating is cost-effective.",
-          "is_correct": false
-        },
-        {
           "text": "Credit rating fees are fixed regardless of par amount and are least cost-effective on large issues.",
+          "is_correct": false
+        },
+        {
+          "text": "A small debt issue always benefits more from a rating than a large issue because fees are lower.",
           "is_correct": false
         },
         {
           "text": "Credit rating fees typically increase with issue size, but ratings are generally more cost-effective for larger transactions.",
           "is_correct": true
+        },
+        {
+          "text": "Issue size has no relationship to whether a credit rating is cost-effective.",
+          "is_correct": false
         }
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Size of issuance.",
@@ -733,11 +733,11 @@
       "prompt": "Which statement about frequent issuers and credit ratings is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "The more frequently an issuer plans to issue debt, the greater the potential benefit from obtaining a credit rating may be.",
-          "is_correct": true
+          "text": "Frequent issuers rarely benefit from ratings because investors already know the credit.",
+          "is_correct": false
         },
         {
-          "text": "Frequent issuers rarely benefit from ratings because investors already know the credit.",
+          "text": "Credit ratings are only evaluated for issuers that sell bonds once every five years or less.",
           "is_correct": false
         },
         {
@@ -745,8 +745,8 @@
           "is_correct": false
         },
         {
-          "text": "Credit ratings are only evaluated for issuers that sell bonds once every five years or less.",
-          "is_correct": false
+          "text": "The more frequently an issuer plans to issue debt, the greater the potential benefit from obtaining a credit rating may be.",
+          "is_correct": true
         }
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Frequency of issuance.",
@@ -762,20 +762,20 @@
       "prompt": "Which statement about method of sale and credit ratings is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "Public offerings are prohibited from obtaining credit ratings under GFOA guidance.",
+          "text": "Private placements and direct purchases always require at least two credit ratings.",
           "is_correct": false
         },
         {
-          "text": "Bonds sold in a public offering (negotiated or competitive sale) may benefit from obtaining one or more ratings; a rating is usually not required for a private placement or direct purchase.",
-          "is_correct": true
+          "text": "Public offerings are prohibited from obtaining credit ratings under GFOA guidance.",
+          "is_correct": false
         },
         {
           "text": "Competitive sales never benefit from ratings because investors bid on TIC alone.",
           "is_correct": false
         },
         {
-          "text": "Private placements and direct purchases always require at least two credit ratings.",
-          "is_correct": false
+          "text": "Bonds sold in a public offering (negotiated or competitive sale) may benefit from obtaining one or more ratings; a rating is usually not required for a private placement or direct purchase.",
+          "is_correct": true
         }
       ],
       "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 Method of sale.",
@@ -841,93 +841,6 @@
       "source_slide_tag": "S84",
       "source_cite": "(s.84, p.192)",
       "id": "d3a3aa"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "Credit rating fees typically",
-      "prompt": "Which statement about Credit rating fees typically is accurate per the seminar materials (s.12, p.120)?",
-      "options": [
-        {
-          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
-          "is_correct": false
-        },
-        {
-          "text": "Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
-          "is_correct": true
-        },
-        {
-          "text": "The trustee represents the issuer and drafts the Official Statement.",
-          "is_correct": false
-        },
-        {
-          "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Credit rating fees typically increase with issue size, but ratings are generally more cost effective for larger size transactions.",
-      "source_page": 120,
-      "source_slide_tag": "S12",
-      "source_cite": "(s.12, p.120)",
-      "id": "36320e"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "potential benefit from obtaining",
-      "prompt": "Which statement about potential benefit from obtaining is accurate per the seminar materials (s.12, p.120)?",
-      "options": [
-        {
-          "text": "Evaluating the Need for a Credit Rating Size of issuance A small debt issue may not benefit from a credit rating as much as one with a larger par amount.",
-          "is_correct": false
-        },
-        {
-          "text": "potential benefit may be from obtaining a credit rating.",
-          "is_correct": true
-        },
-        {
-          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
-          "is_correct": false
-        },
-        {
-          "text": "Competitive sales are always required for complex revenue bonds with uncertain market reception.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: potential benefit may be from obtaining a credit rating.",
-      "source_page": 120,
-      "source_slide_tag": "S12",
-      "source_cite": "(s.12, p.120)",
-      "id": "cab119"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "frequent issuer benefit from",
-      "prompt": "Which statement about frequent issuer benefit from is accurate per the seminar materials (s.12, p.120)?",
-      "options": [
-        {
-          "text": "Legal debt capacity and debt affordability are identical measures.",
-          "is_correct": false
-        },
-        {
-          "text": "A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
-          "is_correct": true
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "Frequency of issuance The more frequently an issuer plans to issue debt, the greater the potential benefit may be from obtaining a credit rating.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A frequent issuer may benefit from expanding its investor base in order to successfully finance a large debt program, and multiple credit rating may help attract a greater number of investors to a particular issue Method of sale Bonds sold in a public offering (via negotiated or competitive sale) may benefit from obtaining one or more ratings A rating is usually not required for a private placement or direct purchase S12.",
-      "source_page": 120,
-      "source_slide_tag": "S12",
-      "source_cite": "(s.12, p.120)",
-      "id": "009c06"
     },
     {
       "type": "multiple-choice",
@@ -3977,35 +3890,6 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "Bonds sold public offering",
-      "prompt": "Which statement about Bonds sold public offering is accurate per the seminar materials (s.12, p.120)?",
-      "options": [
-        {
-          "text": "Bonds sold in a public offering (via negotiated or competitive sale).",
-          "is_correct": true
-        },
-        {
-          "text": "The bonds are general obligations, full faith and credit.",
-          "is_correct": false
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        },
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: Bonds sold in a public offering (via negotiated or competitive sale)",
-      "source_page": 120,
-      "source_slide_tag": "S12",
-      "source_cite": "(s.12, p.120)",
-      "id": "92d723"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
       "topic": "rating Assured Guaranty Build",
       "prompt": "Which statement about rating Assured Guaranty Build is accurate per the seminar materials (s.29, p.137)?",
       "options": [
@@ -4151,56 +4035,27 @@
     {
       "type": "multiple-choice",
       "section": "bond_sale",
-      "topic": "small debt issue benefit",
-      "prompt": "Which statement about small debt issue benefit is accurate per the seminar materials (s.12, p.120)?",
+      "topic": "Private Placement and Ratings",
+      "prompt": "Which statement about private placements and credit ratings is accurate (s.12, p.120)?",
       "options": [
         {
-          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "text": "A direct purchase by a bank requires the same public rating process as a competitive sale.",
           "is_correct": false
         },
         {
-          "text": "A small debt issue may not benefit from a credit rating as much as.",
+          "text": "Private placements always require at least two credit ratings before closing.",
+          "is_correct": false
+        },
+        {
+          "text": "A rating is usually not required for a private placement or direct purchase.",
           "is_correct": true
         },
         {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
+          "text": "Bonds sold in a private placement must still obtain ratings solely for EMMA filing.",
           "is_correct": false
         }
       ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A small debt issue may not benefit from a credit rating as much as",
-      "source_page": 120,
-      "source_slide_tag": "S12",
-      "source_cite": "(s.12, p.120)",
-      "id": "9fa563"
-    },
-    {
-      "type": "multiple-choice",
-      "section": "bond_sale",
-      "topic": "rating usually required private",
-      "prompt": "Which statement about rating usually required private is accurate per the seminar materials (s.12, p.120)?",
-      "options": [
-        {
-          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
-          "is_correct": false
-        },
-        {
-          "text": "Issuers hire a MA prior to undertaking a debt financing.",
-          "is_correct": false
-        },
-        {
-          "text": "A rating is usually not required for a private placement or direct.",
-          "is_correct": true
-        },
-        {
-          "text": "Posting disclosure documents on the issuer's website replaces EMMA filing requirements.",
-          "is_correct": false
-        }
-      ],
-      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Slide text: A rating is usually not required for a private placement or direct",
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.12, p.120). Evaluating the Need for a Credit Rating \u2014 method of sale.",
       "source_page": 120,
       "source_slide_tag": "S12",
       "source_cite": "(s.12, p.120)",
@@ -5829,6 +5684,151 @@
       "source_slide_tag": "S9",
       "source_cite": "(s.9, p.222)",
       "id": "1dd725"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Websites with Market Data",
+      "prompt": "Which statement about Websites with Market Data is accurate per the seminar materials (s.101, p.209)?",
+      "options": [
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        },
+        {
+          "text": "Websites with Market Data (cont.) The Bond Buyer: http://www.bondbuyer.com/ (subscription) Wall Street Journal: http://www.wsj.com (limited free content) Other Sources of Municipal Bond Market Data and News: Municipal Advisors Investment Bankers State Treasury Resources Conferences, Webinars, GFOA TRAINING!.",
+          "is_correct": true
+        },
+        {
+          "text": "Bond counsel provides independent pricing analysis during negotiated sales.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.101, p.209). Slide text: Websites with Market Data (cont.) The Bond Buyer: http://www.bondbuyer.com/ (subscription) Wall Street Journal: http://www.wsj.com (limited free content) Other Sources of Municipal Bond Market Data and News: Municipal Advisors Investment Bankers State Treasury Resources Conferences, Webinars, GFOA TRAINING!.",
+      "source_page": 209,
+      "source_slide_tag": "S101",
+      "source_cite": "(s.101, p.209)",
+      "id": "affdad"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Finalize Official Statement Official",
+      "prompt": "Which statement about Finalize Official Statement Official is accurate per the seminar materials (s.83, p.191)?",
+      "options": [
+        {
+          "text": "Finalize the Official Statement Official statements also typically contain information regarding: the type of bonds, interest rate, yield, maturity, call features (including whether the issuer can redeem the bonds prior to maturity), when and how principal and interest on the bonds will be paid credit quality, security and sources of payment, past material non-compliance by the municipal issuer with its continuing disclosure obligations, risk factors related to the bonds.",
+          "is_correct": true
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "The underwriter provides the federal tax opinion and bond legality opinion to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.83, p.191). Slide text: Finalize the Official Statement Official statements also typically contain information regarding: the type of bonds, interest rate, yield, maturity, call features (including whether the issuer can redeem the bonds prior to maturity), when and how principal and interest on the bonds will be paid credit quality, security and sources of payment, past material non-compliance by the municipal issuer with its continuing disclosure obligations, risk factors related to the bonds.",
+      "source_page": 191,
+      "source_slide_tag": "S83",
+      "source_cite": "(s.83, p.191)",
+      "id": "8642bf"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Mechanics Competitive Sale Distribute",
+      "prompt": "Which statement about Mechanics Competitive Sale Distribute is accurate per the seminar materials (s.56, p.164)?",
+      "options": [
+        {
+          "text": "Mechanics of Competitive Sale Distribute electronic Preliminary Offering Statement and Notice of Sale at least 7-10 days in advance of sale Notify the market Utilize MA Know Who has bid on your bonds in the past Hold an investor call Receive and Verify Bids Electronic Platforms Parity and MuniAuction Verify bids Notify winning bidder S56.",
+          "is_correct": true
+        },
+        {
+          "text": "The underwriter owes the same fiduciary duty to the issuer as the municipal advisor.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "GFOA recommends selecting underwriters without a competitive RFP process.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.56, p.164). Slide text: Mechanics of Competitive Sale Distribute electronic Preliminary Offering Statement and Notice of Sale at least 7-10 days in advance of sale Notify the market Utilize MA Know Who has bid on your bonds in the past Hold an investor call Receive and Verify Bids Electronic Platforms Parity and MuniAuction Verify bids Notify winning bidder S56.",
+      "source_page": 164,
+      "source_slide_tag": "S56",
+      "source_cite": "(s.56, p.164)",
+      "id": "027188"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Underwriting Syndicate Factors Size",
+      "prompt": "Which statement about Underwriting Syndicate Factors Size is accurate per the seminar materials (s.69, p.177)?",
+      "options": [
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        },
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Advance refunding occurs when bonds are redeemed within 90 days of the refunding sale.",
+          "is_correct": false
+        },
+        {
+          "text": "Underwriting Syndicate Key Factors: Size of the bond issue Structure (e.g., retail maturities and institutional maturities) Bond distribution goals (e.g., getting bonds to local investors) Attention from investment bankers and the ongoing development of financing ideas S69 Senior Manager Interfaces with the issuer and financial advisor Generally solicits for and accepts priority orders from investors Coordinates with the other managers; accepting orders Allocates bonds to underwriting team to fulfill orders Co-Managers Place orders/support the underwriting; generally through retail and member orders Share underwriting risk Provide additional market information Selling Group Underwriting firms that are invited to submit orders, but generally have no liability Generally used occasionally on large transactions to increase retail sale outreach Underwriting Team.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.69, p.177). Slide text: Underwriting Syndicate Key Factors: Size of the bond issue Structure (e.g., retail maturities and institutional maturities) Bond distribution goals (e.g., getting bonds to local investors) Attention from investment bankers and the ongoing development of financing ideas S69 Senior Manager Interfaces with the issuer and financial advisor Generally solicits for and accepts priority orders from investors Coordinates with the other managers; accepting orders Allocates bonds to underwriting team to fulfill orders Co-Managers Place orders/support the underwriting; generally through retail and member orders Share underwriting risk Provide additional market information Selling Group Underwriting firms that are invited to submit orders, but generally have no liability Generally used occasionally on large transactions to increase retail sale outreach Underwriting Team.",
+      "source_page": 177,
+      "source_slide_tag": "S69",
+      "source_cite": "(s.69, p.177)",
+      "id": "8b748c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "bond_sale",
+      "topic": "Credit Ratings What credit",
+      "prompt": "Which statement about Credit Ratings What credit is accurate per the seminar materials (s.7, p.115)?",
+      "options": [
+        {
+          "text": "Small-issuer arbitrage rebate relief eliminates all federal tax compliance obligations.",
+          "is_correct": false
+        },
+        {
+          "text": "Legal debt capacity and debt affordability are identical measures.",
+          "is_correct": false
+        },
+        {
+          "text": "Credit Ratings What a credit rating is not: Audit Recommendation to buy, sell or hold a security Static or permanent Opinion of community\u2019s quality of life Performance evaluation of current political leadership Judgment of quality of service delivery S7.",
+          "is_correct": true
+        },
+        {
+          "text": "The municipal advisor purchases bonds from the issuer and resells them to investors.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: DEBTBPSLIDESAPRIL2023_AllDays (2).pdf, (s.7, p.115). Slide text: Credit Ratings What a credit rating is not: Audit Recommendation to buy, sell or hold a security Static or permanent Opinion of community\u2019s quality of life Performance evaluation of current political leadership Judgment of quality of service delivery S7.",
+      "source_page": 115,
+      "source_slide_tag": "S7",
+      "source_cite": "(s.7, p.115)",
+      "id": "8de7b7"
     }
   ]
 }
