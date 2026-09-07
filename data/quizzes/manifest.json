@@ -5,28 +5,32 @@
       "title": "Math Exam Review",
       "subtitle": "Geometry · Trig · Coordinate Geometry",
       "badge": "Exam Review",
-      "accent_color": "#f0883e"
+      "accent_color": "#f0883e",
+      "group": "kids"
     },
     {
       "filename": "deanna-accounting-exam",
       "title": "Governmental Accounting Practice Exam",
       "subtitle": "Comprehensive Review — Chapters 1-47",
-      "badge": "Exam Review",
-      "accent_color": "#3fb950"
+      "badge": "CPFO",
+      "accent_color": "#3fb950",
+      "group": "cpfo"
     },
     {
       "filename": "deanna-debt-management-exam",
       "title": "CPFO Debt Management Practice Exam",
       "subtitle": "GFOA Best Practices Seminar — April 2023",
-      "badge": "Exam Review",
-      "accent_color": "#58a6ff"
+      "badge": "CPFO",
+      "accent_color": "#58a6ff",
+      "group": "cpfo"
     },
     {
       "filename": "deanna-treasury-investment-exam",
       "title": "CPFO Treasury & Investment Management Practice Exam",
       "subtitle": "GFOA Treasury Best Practices — Study Guide Expanded Final",
-      "badge": "Exam Review",
-      "accent_color": "#a371f7"
+      "badge": "CPFO",
+      "accent_color": "#a371f7",
+      "group": "cpfo"
     }
   ]
 }

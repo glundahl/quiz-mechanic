@@ -480,9 +480,9 @@
 
 <div id="picker-screen" style="display:none">
   <div class="header">
-    <div class="header-label">Quiz Mechanic</div>
-    <h1>Choose a <span>Quiz</span></h1>
-    <div class="header-sub">Select a quiz to begin.</div>
+    <div class="header-label" id="picker-label">Quiz Mechanic</div>
+    <h1 id="picker-title">Choose a <span>Quiz</span></h1>
+    <div class="header-sub" id="picker-sub">Select a quiz to begin.</div>
   </div>
   <div class="picker-wrap">
     <div class="picker-grid" id="picker-grid"></div>
@@ -563,10 +563,27 @@ let activeSection = 'all';
   await loadQuiz(filename);
 })();
 
+const GROUP_META = {
+  cpfo: {
+    label: 'CPFO',
+    titleHtml: 'CPFO <span>Practice</span>',
+    sub: 'Certified Public Finance Officer exam review.',
+    docTitle: 'Quiz Mechanic — CPFO',
+  },
+  kids: {
+    label: 'Kids',
+    titleHtml: 'Choose a <span>Quiz</span>',
+    sub: 'Math practice for the kids.',
+    docTitle: 'Quiz Mechanic — Kids',
+  },
+};
+
 async function showPicker() {
   document.getElementById('picker-screen').style.display = '';
   document.getElementById('quiz-screen').style.display   = 'none';
-  document.title = 'Quiz Mechanic';
+
+  const params = new URLSearchParams(location.search);
+  const group  = (params.get('group') || '').toLowerCase();
 
   let manifest;
   try {
@@ -579,9 +596,33 @@ async function showPicker() {
     return;
   }
 
+  let quizzes = manifest.quizzes || [];
+  if (group) {
+    quizzes = quizzes.filter(q => (q.group || '').toLowerCase() === group);
+  }
+
+  const meta = GROUP_META[group];
+  if (meta) {
+    document.getElementById('picker-label').textContent = meta.label;
+    document.getElementById('picker-title').innerHTML   = meta.titleHtml;
+    document.getElementById('picker-sub').textContent   = meta.sub;
+    document.title = meta.docTitle;
+  } else {
+    document.getElementById('picker-label').textContent = 'Quiz Mechanic';
+    document.getElementById('picker-title').innerHTML   = 'Choose a <span>Quiz</span>';
+    document.getElementById('picker-sub').textContent   = 'Select a quiz to begin.';
+    document.title = 'Quiz Mechanic';
+  }
+
   const grid = document.getElementById('picker-grid');
   grid.innerHTML = '';
-  (manifest.quizzes || []).forEach(q => {
+  if (!quizzes.length) {
+    grid.innerHTML =
+      `<div class="state-msg"><strong>No quizzes in this group</strong>Try removing ?group= from the URL.</div>`;
+    return;
+  }
+
+  quizzes.forEach(q => {
     const card = document.createElement('button');
     card.className = 'picker-card';
     card.style.borderLeft = `3px solid ${q.accent_color || 'var(--accent)'}`;
@@ -593,6 +634,8 @@ async function showPicker() {
     card.onclick = () => {
       const url = new URL(location.href);
       url.searchParams.set('quiz', q.filename);
+      if (group) url.searchParams.set('group', group);
+      else url.searchParams.delete('group');
       location.href = url.toString();
     };
     grid.appendChild(card);
