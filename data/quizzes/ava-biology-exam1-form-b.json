@@ -1,0 +1,1491 @@
+{
+  "id": "ava-exam1b",
+  "filename": "ava-biology-exam1-form-b",
+  "title": "AP Biology Exam 1, Form B",
+  "subtitle": "Circled-answer practice · Chapters 1–5 & 8 topics",
+  "subject": "AP Biology",
+  "badge": "Exam 1",
+  "accent_color": "#58a6ff",
+  "disable_option_shuffle": true,
+  "sections": [
+    {
+      "key": "themes",
+      "label": "Themes & Cells",
+      "color": "#58a6ff"
+    },
+    {
+      "key": "water-chem",
+      "label": "Water & Chemistry",
+      "color": "#3fb950"
+    },
+    {
+      "key": "macromolecules",
+      "label": "Macromolecules",
+      "color": "#e3b341"
+    },
+    {
+      "key": "enzymes",
+      "label": "Enzymes",
+      "color": "#f0883e"
+    },
+    {
+      "key": "chem-energy",
+      "label": "Energy & Thermodynamics",
+      "color": "#a371f7"
+    }
+  ],
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "section": "chem-energy",
+      "topic": "feedback",
+      "prompt": "In which process doe the output or product regulate the process itself?",
+      "options": [
+        {
+          "text": "hydrolysis",
+          "is_correct": false
+        },
+        {
+          "text": "denaturation",
+          "is_correct": false
+        },
+        {
+          "text": "feedback regulation",
+          "is_correct": true
+        },
+        {
+          "text": "homeostasis",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: C.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "C",
+      "id": "c74b9b"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "lipid hydrolysis",
+      "prompt": "Hydrolysis of lipid molecules yields:",
+      "options": [
+        {
+          "text": "amino acids and glucose",
+          "is_correct": false
+        },
+        {
+          "text": "amino acids and water",
+          "is_correct": false
+        },
+        {
+          "text": "glucose and glycerol",
+          "is_correct": false
+        },
+        {
+          "text": "fatty acids and glycerol",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: D.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "D",
+      "id": "88d1c8"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "feedback inhibition",
+      "prompt": "The process by which a metabolic pathway is shut off by the product it produces.",
+      "options": [
+        {
+          "text": "Feedback inhibition",
+          "is_correct": true
+        },
+        {
+          "text": "Competitive inhibitor",
+          "is_correct": false
+        },
+        {
+          "text": "Noncompetitive inhibitor",
+          "is_correct": false
+        },
+        {
+          "text": "Allosteric interactions",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: A.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "A",
+      "id": "718019"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "competitive inhibitor",
+      "prompt": "A reversible inhibitor that looks similar to the normal substrate and competes for the active site of the enzyme.",
+      "options": [
+        {
+          "text": "Allosteric interactions",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive inhibitor",
+          "is_correct": true
+        },
+        {
+          "text": "Feedback inhibition",
+          "is_correct": false
+        },
+        {
+          "text": "Noncompetitive inhibitor",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: B.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "B",
+      "id": "353ba8"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "hydrolysis",
+      "prompt": "Hydrolysis is involved in which of the following?",
+      "options": [
+        {
+          "text": "hydrogen bond formation between nucleic acids",
+          "is_correct": false
+        },
+        {
+          "text": "the digestion of maltose to glucose",
+          "is_correct": true
+        },
+        {
+          "text": "the hydrophilic interactions of lipids",
+          "is_correct": false
+        },
+        {
+          "text": "peptide bond formation of protein",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: B.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "B",
+      "id": "23e5a2"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chem-energy",
+      "topic": "exergonic",
+      "prompt": "A + B → AB + Energy. Which of the following best characterizes the reaction represented above?",
+      "options": [
+        {
+          "text": "anabolism",
+          "is_correct": false
+        },
+        {
+          "text": "endergonic reaction",
+          "is_correct": false
+        },
+        {
+          "text": "exergonic reaction",
+          "is_correct": true
+        },
+        {
+          "text": "metabolism",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: C.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "C",
+      "id": "86a6a1"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "pH",
+      "prompt": "If the pH of a solution is decreased from 7 to 6, it means that the",
+      "options": [
+        {
+          "text": "concentration of OH- has increased 10 times what it was at pH 7.",
+          "is_correct": false
+        },
+        {
+          "text": "concentration of H+ has increased 10 times what it was at pH 7.",
+          "is_correct": true
+        },
+        {
+          "text": "concentration of H+ has decreased to 1/10 of what it was at pH 7.",
+          "is_correct": false
+        },
+        {
+          "text": "concentration of OH- has increased by 1/7 of what it was.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.1. Circled answer: B.",
+      "source_page": 1,
+      "source_cite": "(Exam1-B, p.1)",
+      "circled_answer": "B",
+      "id": "d3a19f"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "catalysts",
+      "prompt": "Catalysts speed up chemical reactions by",
+      "options": [
+        {
+          "text": "decreasing the free energy change of the reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "degrading the competitive inhibitors in a reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "increasing the free energy change of the reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "lowering the activation energy of the reaction.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: D.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "D",
+      "id": "3f42b5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "denaturation",
+      "prompt": "The process by which protein conformation is lost or broken down is",
+      "options": [
+        {
+          "text": "protein synthesis",
+          "is_correct": false
+        },
+        {
+          "text": "denaturation",
+          "is_correct": true
+        },
+        {
+          "text": "hydrolysis",
+          "is_correct": false
+        },
+        {
+          "text": "dehydration synthesis",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: B.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "B",
+      "id": "bb914c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "enzyme factors",
+      "prompt": "Enzymes are affected by all of the following EXCEPT",
+      "options": [
+        {
+          "text": "temperature",
+          "is_correct": false
+        },
+        {
+          "text": "concentration of water",
+          "is_correct": true
+        },
+        {
+          "text": "concentration of substances",
+          "is_correct": false
+        },
+        {
+          "text": "pH",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: B.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "B",
+      "id": "097bf1"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "protein structure",
+      "prompt": "Which of the following creates α helix and β sheet formations?",
+      "options": [
+        {
+          "text": "Carbohydrates",
+          "is_correct": false
+        },
+        {
+          "text": "Lipids",
+          "is_correct": false
+        },
+        {
+          "text": "Nucleic Acids",
+          "is_correct": false
+        },
+        {
+          "text": "Proteins",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: D.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "D",
+      "id": "c0e17a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "hydrophilic",
+      "prompt": "Hydrophilic properties are characteristic of all of the following EXCEPT",
+      "options": [
+        {
+          "text": "polar molecules",
+          "is_correct": false
+        },
+        {
+          "text": "molecules that readily ionize in water",
+          "is_correct": false
+        },
+        {
+          "text": "molecules soluble in water",
+          "is_correct": false
+        },
+        {
+          "text": "the long hydrocarbon chain components of some molecules",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: D.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "D",
+      "id": "c26538"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "triglyceride formula",
+      "prompt": "If three molecules of a fatty acid that has the formula C16H22O2 are joined to a molecule of glycerol (C3H8O3), then the resulting molecule would have the formula",
+      "options": [
+        {
+          "text": "C51H68O6",
+          "is_correct": true
+        },
+        {
+          "text": "C51H106O8",
+          "is_correct": false
+        },
+        {
+          "text": "C48H96O8",
+          "is_correct": false
+        },
+        {
+          "text": "C51H104O9",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: A.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "A",
+      "id": "c9c5ab"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "dehydration",
+      "prompt": "Polymers of carbohydrates and proteins are all synthesized from monomers by",
+      "options": [
+        {
+          "text": "the joining of monosaccharides",
+          "is_correct": false
+        },
+        {
+          "text": "hydrolysis",
+          "is_correct": false
+        },
+        {
+          "text": "ionic bonding of monomers",
+          "is_correct": false
+        },
+        {
+          "text": "dehydration reactions",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: D.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "D",
+      "id": "467443"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "amino acids",
+      "prompt": "How many different types of amino acids make up the large variety of proteins?",
+      "options": [
+        {
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: C.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "C",
+      "id": "14f668"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "DNA bases",
+      "prompt": "The only molecule not found in DNA is",
+      "options": [
+        {
+          "text": "cytosine",
+          "is_correct": false
+        },
+        {
+          "text": "deoxyribose",
+          "is_correct": false
+        },
+        {
+          "text": "uracil",
+          "is_correct": true
+        },
+        {
+          "text": "thymine",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: C.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "C",
+      "id": "d1b391"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "DNA complement",
+      "prompt": "If one strand of a DNA molecule has the sequence of bases 5'ATTGCA3', the other complementary strand would have the sequence ______.",
+      "options": [
+        {
+          "text": "5'TAACGT3'",
+          "is_correct": false
+        },
+        {
+          "text": "3'UAACGU5'",
+          "is_correct": false
+        },
+        {
+          "text": "5'UGCAAU3'",
+          "is_correct": false
+        },
+        {
+          "text": "5'TGCAAT3'",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: D.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "D",
+      "id": "5fc1f6"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "membranes",
+      "prompt": "Which macromolecule is the main component of all cell membranes?",
+      "options": [
+        {
+          "text": "steroids",
+          "is_correct": false
+        },
+        {
+          "text": "carbohydrates",
+          "is_correct": false
+        },
+        {
+          "text": "phospholipids",
+          "is_correct": true
+        },
+        {
+          "text": "glucose",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.2. Circled answer: C.",
+      "source_page": 2,
+      "source_cite": "(Exam1-B, p.2)",
+      "circled_answer": "C",
+      "id": "499737"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "organic",
+      "prompt": "The element present in all organic molecules is ____.",
+      "options": [
+        {
+          "text": "nitrogen",
+          "is_correct": false
+        },
+        {
+          "text": "hydrogen",
+          "is_correct": false
+        },
+        {
+          "text": "oxygen",
+          "is_correct": false
+        },
+        {
+          "text": "carbon",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: D.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "D",
+      "id": "909225"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "H-bond example",
+      "prompt": "Which of the following is an example of a hydrogen bond?",
+      "options": [
+        {
+          "text": "the bond between the two hydrogen atoms",
+          "is_correct": false
+        },
+        {
+          "text": "the bond between Mg and Cl in MgCl2",
+          "is_correct": false
+        },
+        {
+          "text": "the bond between Na and Cl in salt",
+          "is_correct": false
+        },
+        {
+          "text": "the attraction between the H of one water molecule and the O of another water molecule",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: D.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "D",
+      "id": "21e4d1"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "emergent",
+      "prompt": "Which of the following is NOT considered to be an emergent property of water?",
+      "options": [
+        {
+          "text": "moderation of temperature",
+          "is_correct": false
+        },
+        {
+          "text": "transpiration",
+          "is_correct": true
+        },
+        {
+          "text": "insulation of bodies of water by floating ice",
+          "is_correct": false
+        },
+        {
+          "text": "a versatile solvent",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: B.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "B",
+      "id": "1a1af0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "polysaccharide",
+      "prompt": "Identify the following: [diagram: chain of linked sugar rings]",
+      "options": [
+        {
+          "text": "A monosaccharide",
+          "is_correct": false
+        },
+        {
+          "text": "A polysaccharide",
+          "is_correct": true
+        },
+        {
+          "text": "A polypeptide",
+          "is_correct": false
+        },
+        {
+          "text": "A major component of cell membrane",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: B.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "B",
+      "id": "8f75f7"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "reductionism",
+      "prompt": "To understand the chemical basis of inheritance, we must understand the molecular structure of DNA. This is an example of the application of which concept to the study of biology?",
+      "options": [
+        {
+          "text": "evolution",
+          "is_correct": false
+        },
+        {
+          "text": "feedback regulation",
+          "is_correct": false
+        },
+        {
+          "text": "emergent properties",
+          "is_correct": false
+        },
+        {
+          "text": "reductionism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: D.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "D",
+      "id": "c3b326"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chem-energy",
+      "topic": "2nd law",
+      "prompt": "Which of the following theories or laws states that every energy transfer increases the amount of entropy in the universe?",
+      "options": [
+        {
+          "text": "the second law of thermodynamics",
+          "is_correct": true
+        },
+        {
+          "text": "the free energy law",
+          "is_correct": false
+        },
+        {
+          "text": "the first law of thermodynamics",
+          "is_correct": false
+        },
+        {
+          "text": "evolutionary theory",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: A.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "A",
+      "id": "8d37a8"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "noncompetitive",
+      "prompt": "Binds to the enzyme at the site other than the active site, causing the enzyme to change shape and be unable to bind substrate.",
+      "options": [
+        {
+          "text": "Competitive inhibitor",
+          "is_correct": false
+        },
+        {
+          "text": "Noncompetitive inhibitor",
+          "is_correct": true
+        },
+        {
+          "text": "Cooperativity",
+          "is_correct": false
+        },
+        {
+          "text": "Feedback inhibition",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: B.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "B",
+      "id": "515219"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "carb ratio",
+      "prompt": "An organic compound, composed of carbon, hydrogen, and oxygen in a 1:2:1 ratio is known as",
+      "options": [
+        {
+          "text": "protein.",
+          "is_correct": false
+        },
+        {
+          "text": "carbohydrate.",
+          "is_correct": true
+        },
+        {
+          "text": "lipid.",
+          "is_correct": false
+        },
+        {
+          "text": "nucleic acid.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: B.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "B",
+      "id": "c3acaf"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "population",
+      "prompt": "A localized group of organisms that belong to the same species is called a ____.",
+      "options": [
+        {
+          "text": "community",
+          "is_correct": false
+        },
+        {
+          "text": "ecosystem",
+          "is_correct": false
+        },
+        {
+          "text": "family",
+          "is_correct": false
+        },
+        {
+          "text": "population",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.3. Circled answer: D.",
+      "source_page": 3,
+      "source_cite": "(Exam1-B, p.3)",
+      "circled_answer": "D",
+      "id": "fbb69d"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "plant water",
+      "prompt": "Three terms associated with the travel of water from the roots up through the vascular tissues of plants are:",
+      "options": [
+        {
+          "text": "cohesion, hybridization, and transpiration",
+          "is_correct": false
+        },
+        {
+          "text": "cohesion, adhesion, and transpiration",
+          "is_correct": true
+        },
+        {
+          "text": "adhesion, cohesion, and translocation",
+          "is_correct": false
+        },
+        {
+          "text": "adhesion, cohesion, and transcription",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: B.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "B",
+      "id": "4c3b13"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "DNA vs RNA",
+      "prompt": "DNA differs from RNA in that:",
+      "options": [
+        {
+          "text": "DNA contains nucleotides while RNA does not",
+          "is_correct": false
+        },
+        {
+          "text": "RNA has a base thymine instead of the base uracil as in DNA",
+          "is_correct": false
+        },
+        {
+          "text": "RNA has three bases while DNA has four bases",
+          "is_correct": false
+        },
+        {
+          "text": "RNA has a single strand and DNA has a double strand",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: D.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "D",
+      "id": "ac0450"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "polar covalent",
+      "prompt": "Which of the following molecules would contain a polar covalent bond?",
+      "options": [
+        {
+          "text": "NaCl",
+          "is_correct": false
+        },
+        {
+          "text": "H2O",
+          "is_correct": true
+        },
+        {
+          "text": "C6H12O6",
+          "is_correct": false
+        },
+        {
+          "text": "CH4",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: B.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "B",
+      "id": "deaa37"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "amino acid groups",
+      "prompt": "Which two functional groups are always found in amino acids?",
+      "options": [
+        {
+          "text": "alcohol and aldehyde",
+          "is_correct": false
+        },
+        {
+          "text": "amine and sulfhydryl",
+          "is_correct": false
+        },
+        {
+          "text": "carbonyl and carboxyl",
+          "is_correct": false
+        },
+        {
+          "text": "carboxyl and amine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: D.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "D",
+      "id": "406415"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "ester",
+      "prompt": "Bond that links a fatty acid to a glycerol molecule.",
+      "options": [
+        {
+          "text": "Peptide bond",
+          "is_correct": false
+        },
+        {
+          "text": "Glycosidic bond",
+          "is_correct": false
+        },
+        {
+          "text": "Ester bond",
+          "is_correct": true
+        },
+        {
+          "text": "Hydrogen bond",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: C.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "C",
+      "id": "a97528"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "membrane class",
+      "prompt": "The cell membrane is made up of many large molecules consisting of a head and tail. These molecules belong to what class of macromolecules?",
+      "options": [
+        {
+          "text": "Proteins",
+          "is_correct": false
+        },
+        {
+          "text": "Lipids",
+          "is_correct": true
+        },
+        {
+          "text": "Nucleic Acids",
+          "is_correct": false
+        },
+        {
+          "text": "Carbohydrates",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: B.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "B",
+      "id": "bcb794"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "protein roles",
+      "prompt": "Which of the macromolecules below could be structural parts of the cell, enzymes, or involved in cell movement or communication?",
+      "options": [
+        {
+          "text": "carbohydrates",
+          "is_correct": false
+        },
+        {
+          "text": "lipids",
+          "is_correct": false
+        },
+        {
+          "text": "minerals",
+          "is_correct": false
+        },
+        {
+          "text": "proteins",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: D.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "D",
+      "id": "875eef"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "weak polar",
+      "prompt": "Weak bond formed between polar molecules.",
+      "options": [
+        {
+          "text": "Glycosidic bond",
+          "is_correct": false
+        },
+        {
+          "text": "Peptide bond",
+          "is_correct": false
+        },
+        {
+          "text": "Hydrogen bond",
+          "is_correct": true
+        },
+        {
+          "text": "Ester bond",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: C.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "C",
+      "id": "7ea3ce"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "water attraction",
+      "prompt": "The partial negative charge at one end of a water molecule is attracted to a partial positive charge of another water molecule. What is this type of attraction called?",
+      "options": [
+        {
+          "text": "an ionic bond",
+          "is_correct": false
+        },
+        {
+          "text": "a hydrophobic bond",
+          "is_correct": false
+        },
+        {
+          "text": "a polar covalent bond",
+          "is_correct": false
+        },
+        {
+          "text": "a hydrogen bond",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: D.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "D",
+      "id": "5ad334"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "allosteric",
+      "prompt": "Describes interactions by an enzyme that is capable of either activating or inhibiting a metabolic pathway.",
+      "options": [
+        {
+          "text": "Cooperativity",
+          "is_correct": false
+        },
+        {
+          "text": "Allosteric interactions",
+          "is_correct": true
+        },
+        {
+          "text": "Noncompetitive inhibitor",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive inhibitor",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.4. Circled answer: B.",
+      "source_page": 4,
+      "source_cite": "(Exam1-B, p.4)",
+      "circled_answer": "B",
+      "id": "d9a2de"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "carbon versatility",
+      "prompt": "The complexity and variety of organic molecules is due to ______.",
+      "options": [
+        {
+          "text": "the chemical versatility of carbon atoms",
+          "is_correct": true
+        },
+        {
+          "text": "their interaction with water",
+          "is_correct": false
+        },
+        {
+          "text": "the variety of rare elements in organic molecules",
+          "is_correct": false
+        },
+        {
+          "text": "the diverse bonding patterns of nitrogen",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: A.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "A",
+      "id": "a5fd44"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "water-chem",
+      "topic": "partial charge",
+      "prompt": "The partial negative charge in a molecule of water occurs because ______.",
+      "options": [
+        {
+          "text": "the oxygen atom donates an electron to each of the hydrogen atoms",
+          "is_correct": false
+        },
+        {
+          "text": "the oxygen atom has two pairs of electrons in its valence shell that are not neutralized by hydrogen atoms",
+          "is_correct": false
+        },
+        {
+          "text": "the electrons shared between the oxygen and hydrogen atoms spend more time around the oxygen atom nucleus than around the hydrogen atom nucleus",
+          "is_correct": true
+        },
+        {
+          "text": "one of the hydrogen atoms donates an electron to the oxygen atom",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "8dbcfe"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "not polymers",
+      "prompt": "Which of these classes of biological molecules does NOT include polymers?",
+      "options": [
+        {
+          "text": "proteins",
+          "is_correct": false
+        },
+        {
+          "text": "lipids",
+          "is_correct": true
+        },
+        {
+          "text": "nucleic acids",
+          "is_correct": false
+        },
+        {
+          "text": "carbohydrates",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: B.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "B",
+      "id": "373866"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "RNA components",
+      "prompt": "Which list of components characterizes RNA?",
+      "options": [
+        {
+          "text": "a PO2 group, deoxyribose, and uracil",
+          "is_correct": false
+        },
+        {
+          "text": "a PO3 group, ribose, and thymine",
+          "is_correct": false
+        },
+        {
+          "text": "a PO3 group, ribose, and uracil",
+          "is_correct": true
+        },
+        {
+          "text": "a PO3 group, deoxyribose, and uracil",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "50a288"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "enzyme true",
+      "prompt": "Which of the following statements is true concerning enzymes?",
+      "options": [
+        {
+          "text": "They are consumed in the reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "They always require a coenzyme.",
+          "is_correct": false
+        },
+        {
+          "text": "They operate under a narrow pH range.",
+          "is_correct": true
+        },
+        {
+          "text": "They become hydrolyzed during a chemical reaction.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "e2f396"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "rose",
+      "prompt": "You find yourself standing next to a beautiful rose bush. Which of the following do you and the rose have in common?",
+      "options": [
+        {
+          "text": "You and the rose have nothing in common.",
+          "is_correct": false
+        },
+        {
+          "text": "You both are multicellular.",
+          "is_correct": true
+        },
+        {
+          "text": "You both lack a membrane-bound nucleus.",
+          "is_correct": false
+        },
+        {
+          "text": "You are both prokaryotic.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: B.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "B",
+      "id": "6b46b8"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "enzymes",
+      "topic": "cooperativity",
+      "prompt": "The process by which the binding of the substrate to the enzyme triggers a favorable conformation change, which causes a similar change in all of the proteins' subunits.",
+      "options": [
+        {
+          "text": "Allosteric interactions",
+          "is_correct": false
+        },
+        {
+          "text": "Competitive inhibitor",
+          "is_correct": false
+        },
+        {
+          "text": "Cooperativity",
+          "is_correct": true
+        },
+        {
+          "text": "Noncompetitive inhibitor",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "1b2181"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "phospholipid membrane",
+      "prompt": "Which of the following molecules orient themselves into sandwich like membranes because of hydrophobic components within the molecule?",
+      "options": [
+        {
+          "text": "Cellulose",
+          "is_correct": false
+        },
+        {
+          "text": "Amylose",
+          "is_correct": false
+        },
+        {
+          "text": "Phospholipid",
+          "is_correct": true
+        },
+        {
+          "text": "Glycogen",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "51bd6e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "prokaryotes",
+      "prompt": "In comparison to eukaryotes, prokaryotes ______.",
+      "options": [
+        {
+          "text": "are more structurally complex",
+          "is_correct": false
+        },
+        {
+          "text": "are larger",
+          "is_correct": false
+        },
+        {
+          "text": "are smaller",
+          "is_correct": true
+        },
+        {
+          "text": "do not have membranes",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: C.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "C",
+      "id": "a8eef5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "hypothesis",
+      "prompt": "In the process of science, which of these is tested?",
+      "options": [
+        {
+          "text": "a hypothesis",
+          "is_correct": true
+        },
+        {
+          "text": "an observation",
+          "is_correct": false
+        },
+        {
+          "text": "a result",
+          "is_correct": false
+        },
+        {
+          "text": "a control group",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.5. Circled answer: A.",
+      "source_page": 5,
+      "source_cite": "(Exam1-B, p.5)",
+      "circled_answer": "A",
+      "id": "2d3cee"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "basic unit",
+      "prompt": "Basic functional unit of organic molecules.",
+      "options": [
+        {
+          "text": "Glycosidic bond",
+          "is_correct": false
+        },
+        {
+          "text": "Amino bond",
+          "is_correct": true
+        },
+        {
+          "text": "Hydrogen bond",
+          "is_correct": false
+        },
+        {
+          "text": "Peptide bond",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.6. Circled answer: B. FLAG: Circled B (Amino bond) is not a standard term; if the stem means the bond linking amino acids, peptide bond (D) is correct. Needs Ava/teacher confirmation.",
+      "source_page": 6,
+      "source_cite": "(Exam1-B, p.6)",
+      "circled_answer": "B",
+      "id": "b77a6c",
+      "answer_flag": "Circled B (Amino bond) is not a standard term; if the stem means the bond linking amino acids, peptide bond (D) is correct. Needs Ava/teacher confirmation."
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "not carb",
+      "prompt": "All the following are carbohydrates EXCEPT",
+      "options": [
+        {
+          "text": "polypeptide",
+          "is_correct": true
+        },
+        {
+          "text": "polysaccharide",
+          "is_correct": false
+        },
+        {
+          "text": "glycogen",
+          "is_correct": false
+        },
+        {
+          "text": "glucose",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.6. Circled answer: A.",
+      "source_page": 6,
+      "source_cite": "(Exam1-B, p.6)",
+      "circled_answer": "A",
+      "id": "58beea"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "evolution",
+      "prompt": "The core theme of Biology, the mechanism that makes logical sense of everything we know about living organisms is which of the following?",
+      "options": [
+        {
+          "text": "energy consumption",
+          "is_correct": false
+        },
+        {
+          "text": "evolution",
+          "is_correct": true
+        },
+        {
+          "text": "organization",
+          "is_correct": false
+        },
+        {
+          "text": "homeostasis",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.6. Circled answer: B.",
+      "source_page": 6,
+      "source_cite": "(Exam1-B, p.6)",
+      "circled_answer": "B",
+      "id": "2ed4ab"
+    }
+  ],
+  "notes": "Extracted from Ava circled Exam 1 Form B. Q48 answer flagged as uncertain (Amino bond)."
+}
