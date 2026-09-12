@@ -2,6 +2,10 @@
 
 Most recent changes at the top.
 
+## v0.6 — 2026-09-12
+- Shuffle questions **within each section** on load and Reset (opt out via `disable_question_shuffle`)
+- Documented: visible `topic` eyebrow must not spoil answers; use section labels
+
 ## v0.5 — 2026-09-12
 - Ava 10th-grade group (`?group=ava-10th-grade`) + Campbell AP Biology Ch. 9 cellular respiration practice (60 Qs)
 - Ava Exam 1 Form B (50 Qs) — extracted from circled-answer test PDF

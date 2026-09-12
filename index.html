@@ -669,6 +669,12 @@ async function loadQuiz(filename) {
     QUIZ.questions.forEach(q => shuffle(q.options));
   }
 
+  // Shuffle question order within each section so early restart doesn't always
+  // drill the same opening items (section outline order is preserved)
+  if (!QUIZ.disable_question_shuffle) {
+    shuffleQuestionsWithinSections();
+  }
+
   // Header
   document.title = `${QUIZ.title} — Quiz Mechanic`;
   document.getElementById('hdr-badge').textContent  = QUIZ.badge   || 'Quiz';
@@ -880,12 +886,47 @@ function resetQuiz() {
     delete q._chosenText;
     if (!QUIZ.disable_option_shuffle) shuffle(q.options);
   });
+  if (!QUIZ.disable_question_shuffle) {
+    shuffleQuestionsWithinSections();
+  }
   document.getElementById('results-screen').style.display = 'none';
   window.scrollTo({ top: 0, behavior: 'smooth' });
   filterSection(activeSection, document.querySelector('.tab-btn.active'));
 }
 
 // ── Helpers ────────────────────────────────────────────────────────────────
+function shuffleQuestionsWithinSections() {
+  const sectionOrder = (QUIZ.sections || []).map(s => s.key);
+  const seen = new Set(sectionOrder);
+  QUIZ.questions.forEach(q => {
+    if (q.section && !seen.has(q.section)) {
+      sectionOrder.push(q.section);
+      seen.add(q.section);
+    }
+  });
+
+  const bySection = {};
+  QUIZ.questions.forEach(q => {
+    const key = q.section || '_none';
+    if (!bySection[key]) bySection[key] = [];
+    bySection[key].push(q);
+  });
+
+  const ordered = [];
+  sectionOrder.forEach(key => {
+    if (bySection[key]) {
+      shuffle(bySection[key]);
+      ordered.push(...bySection[key]);
+      delete bySection[key];
+    }
+  });
+  Object.keys(bySection).forEach(key => {
+    shuffle(bySection[key]);
+    ordered.push(...bySection[key]);
+  });
+  QUIZ.questions = ordered;
+}
+
 function shuffle(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
