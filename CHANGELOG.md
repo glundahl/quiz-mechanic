@@ -5,6 +5,8 @@ Most recent changes at the top.
 ## v0.5 — 2026-09-12
 - Ava 10th-grade group (`?group=ava-10th-grade`) + Campbell AP Biology Ch. 9 cellular respiration practice (60 Qs)
 - Ava Exam 1 Form B (50 Qs) — extracted from circled-answer test PDF
+- Fix Ava quiz `topic` labels: use section names (not answer keywords) so the UI eyebrow doesn’t spoil choices
+- Exam 1 Q48 corrected to peptide bond after Campbell verify
 
 ## v0.4 — 2026-09-07
 - Quiz groups via `?group=` — CPFO-only picker: `?group=cpfo`; kids math: `?group=kids`

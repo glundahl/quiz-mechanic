@@ -43,7 +43,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "catabolic pathways",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "Which statement best describes catabolic pathways per Campbell? ((§9.1, p.165))",
       "options": [
         {
@@ -72,7 +72,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "fermentation vs aerobic",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "How does fermentation differ from aerobic respiration in Concept 9.1? ((§9.1, p.165))",
       "options": [
         {
@@ -101,7 +101,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "glucose equation",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "In the summary equation for aerobic respiration of glucose, which statement is accurate? ((§9.1, p.165))",
       "options": [
         {
@@ -130,7 +130,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "delta G glucose",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "What does ΔG = −686 kcal/mol for glucose breakdown indicate? ((§9.1, p.165))",
       "options": [
         {
@@ -159,7 +159,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "oxidation reduction",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "In redox terms, oxidation and reduction mean which of the following? ((§9.1, p.166))",
       "options": [
         {
@@ -188,7 +188,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "reducing oxidizing agent",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "In a redox reaction, the reducing agent is best described as which? ((§9.1, p.166))",
       "options": [
         {
@@ -217,7 +217,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "NAD+ role",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "What is the primary role of NAD+ during cellular respiration? ((§9.1, p.167))",
       "options": [
         {
@@ -246,7 +246,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "dehydrogenase",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "When a dehydrogenase oxidizes a substrate using NAD+, what is delivered to NAD+? ((§9.1, p.167))",
       "options": [
         {
@@ -275,7 +275,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "electron path preview",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "Most electrons removed from food travel along which path during aerobic respiration? ((§9.1, p.168))",
       "options": [
         {
@@ -304,7 +304,7 @@
     {
       "type": "multiple-choice",
       "section": "c91",
-      "topic": "ATP accounting preview",
+      "topic": "9.1 Catabolic Pathways & Redox",
       "prompt": "According to the chapter preview of ATP accounting, which is accurate? ((§9.1, p.169))",
       "options": [
         {
@@ -333,7 +333,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "glycolysis meaning",
+      "topic": "9.2 Glycolysis",
       "prompt": "What does glycolysis literally refer to, and what are its products from one glucose? ((§9.2, p.170))",
       "options": [
         {
@@ -362,7 +362,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "glycolysis location",
+      "topic": "9.2 Glycolysis",
       "prompt": "Where does glycolysis occur in eukaryotic cells? ((§9.2, p.170))",
       "options": [
         {
@@ -391,7 +391,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "net yield",
+      "topic": "9.2 Glycolysis",
       "prompt": "What is the net yield of glycolysis per glucose molecule? ((§9.2, p.170))",
       "options": [
         {
@@ -420,7 +420,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "CO2 glycolysis",
+      "topic": "9.2 Glycolysis",
       "prompt": "Is carbon dioxide released during glycolysis? ((§9.2, p.170))",
       "options": [
         {
@@ -449,7 +449,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "O2 requirement",
+      "topic": "9.2 Glycolysis",
       "prompt": "Does glycolysis require oxygen? ((§9.2, p.170))",
       "options": [
         {
@@ -478,7 +478,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "investment phase",
+      "topic": "9.2 Glycolysis",
       "prompt": "In the energy investment phase of glycolysis, what happens? ((§9.2, p.170))",
       "options": [
         {
@@ -507,7 +507,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "phosphofructokinase step",
+      "topic": "9.2 Glycolysis",
       "prompt": "Which enzyme catalyzes the second ATP investment of glycolysis and is a key regulatory step? ((§9.2, p.170))",
       "options": [
         {
@@ -536,7 +536,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "hexokinase",
+      "topic": "9.2 Glycolysis",
       "prompt": "What does hexokinase accomplish in step 1 of glycolysis? ((§9.2, p.170))",
       "options": [
         {
@@ -565,7 +565,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "payoff ATP",
+      "topic": "9.2 Glycolysis",
       "prompt": "During the energy payoff phase, how is ATP formed? ((§9.2, p.171))",
       "options": [
         {
@@ -594,7 +594,7 @@
     {
       "type": "multiple-choice",
       "section": "c92",
-      "topic": "step6 redox",
+      "topic": "9.2 Glycolysis",
       "prompt": "In glycolysis step 6, which molecule is the oxidizing agent? ((§9.2, p.171))",
       "options": [
         {
@@ -623,7 +623,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "pyruvate entry",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "In eukaryotes with O2 present, what happens to pyruvate after glycolysis? ((§9.3, p.171))",
       "options": [
         {
@@ -652,7 +652,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "first CO2",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "When is the first CO2 of respiration released from pyruvate? ((§9.3, p.171))",
       "options": [
         {
@@ -681,7 +681,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "acetyl CoA formation",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "Which sequence correctly summarizes pyruvate → acetyl CoA? ((§9.3, p.171))",
       "options": [
         {
@@ -710,7 +710,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "krebs names",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "The citric acid cycle is also known as which of the following? ((§9.3, p.172))",
       "options": [
         {
@@ -739,7 +739,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "cycle carbons",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "Per turn of the citric acid cycle, how do carbons enter and leave? ((§9.3, p.172))",
       "options": [
         {
@@ -768,7 +768,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "per turn yield",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "What is produced per acetyl group (one turn of the citric acid cycle)? ((§9.3, p.172))",
       "options": [
         {
@@ -797,7 +797,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "per glucose cycle",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "For one glucose, after two turns of the cycle, which carrier totals are correct? ((§9.3, p.172))",
       "options": [
         {
@@ -826,7 +826,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "oxaloacetate",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "What joins the acetyl group of acetyl CoA at the start of the cycle? ((§9.3, p.173))",
       "options": [
         {
@@ -855,7 +855,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "enzyme location",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "Where are most citric acid cycle enzymes located in eukaryotes? ((§9.3, p.173))",
       "options": [
         {
@@ -884,7 +884,7 @@
     {
       "type": "multiple-choice",
       "section": "c93",
-      "topic": "substrate level total",
+      "topic": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
       "prompt": "Glycolysis plus the citric acid cycle together yield how many ATP by substrate-level phosphorylation per glucose? ((§9.3, p.174))",
       "options": [
         {
@@ -913,7 +913,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "ETC location",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "Where is the electron transport chain embedded in eukaryotic cells? ((§9.4, p.174))",
       "options": [
         {
@@ -942,7 +942,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "NADH vs FADH2 entry",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "How do NADH and FADH2 differ in feeding electrons to the ETC? ((§9.4, p.174))",
       "options": [
         {
@@ -971,7 +971,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "ubiquinone",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "Which statement about ubiquinone (Q / CoQ) is accurate? ((§9.4, p.174))",
       "options": [
         {
@@ -1000,7 +1000,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "ETC no ATP",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "Does the electron transport chain make ATP directly? ((§9.4, p.175))",
       "options": [
         {
@@ -1029,7 +1029,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "chemiosmosis",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "What is chemiosmosis in this chapter’s sense? ((§9.4, p.175))",
       "options": [
         {
@@ -1058,7 +1058,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "proton pumping",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "During electron transport, H+ are pumped in which direction in mitochondria? ((§9.4, p.176))",
       "options": [
         {
@@ -1087,7 +1087,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "ATP synthase path",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "How do protons return to the matrix to drive ATP synthesis? ((§9.4, p.176))",
       "options": [
         {
@@ -1116,7 +1116,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "oxidative phosphorylation def",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "Oxidative phosphorylation consists of which processes? ((§9.4, p.176))",
       "options": [
         {
@@ -1145,7 +1145,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "ATP yield total",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "What is the approximate maximum ATP yield per glucose from cellular respiration in this chapter? ((§9.4, p.177))",
       "options": [
         {
@@ -1174,7 +1174,7 @@
     {
       "type": "multiple-choice",
       "section": "c94",
-      "topic": "efficiency",
+      "topic": "9.4 Oxidative Phosphorylation",
       "prompt": "About what fraction of the energy in glucose is transferred to ATP under the book’s accounting? ((§9.4, p.178))",
       "options": [
         {
@@ -1203,7 +1203,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "anaerobic vs fermentation",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "What is a key contrast between anaerobic respiration and fermentation? ((§9.5, p.179))",
       "options": [
         {
@@ -1232,7 +1232,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "sulfate reducer",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "In the book’s example of anaerobic respiration, sulfate-reducing marine bacteria use which final electron acceptor? ((§9.5, p.179))",
       "options": [
         {
@@ -1261,7 +1261,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "why regenerate NAD",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "Why must NAD+ be regenerated during fermentation? ((§9.5, p.180))",
       "options": [
         {
@@ -1290,7 +1290,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "alcohol fermentation",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "In alcohol fermentation, what are the two steps after glycolysis? ((§9.5, p.180))",
       "options": [
         {
@@ -1319,7 +1319,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "lactic acid fermentation",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "How does lactic acid fermentation differ from alcohol fermentation? ((§9.5, p.180))",
       "options": [
         {
@@ -1348,7 +1348,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "final acceptor types",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "In fermentation versus cellular respiration, how does NADH get oxidized back to NAD+? ((§9.5, p.181))",
       "options": [
         {
@@ -1377,7 +1377,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "ATP comparison",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "Relative to fermentation, about how much ATP can aerobic respiration yield per glucose? ((§9.5, p.181))",
       "options": [
         {
@@ -1406,7 +1406,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "obligate anaerobes",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "What characterizes obligate anaerobes? ((§9.5, p.181))",
       "options": [
         {
@@ -1435,7 +1435,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "facultative anaerobes",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "What can facultative anaerobes such as yeasts do? ((§9.5, p.181))",
       "options": [
         {
@@ -1464,7 +1464,7 @@
     {
       "type": "multiple-choice",
       "section": "c95",
-      "topic": "glycolysis evolution",
+      "topic": "9.5 Fermentation & Anaerobic Respiration",
       "prompt": "Why is glycolysis considered evolutionarily ancient in this chapter? ((§9.5, p.182))",
       "options": [
         {
@@ -1493,7 +1493,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "catabolic funnel",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "What roles do glycolysis and the citric acid cycle play for diverse fuels? ((§9.6, p.182))",
       "options": [
         {
@@ -1522,7 +1522,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "deamination",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "Before amino acids can be oxidized in glycolysis or the citric acid cycle, what must happen? ((§9.6, p.182))",
       "options": [
         {
@@ -1551,7 +1551,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "beta oxidation",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "What does beta oxidation do to fatty acids? ((§9.6, p.183))",
       "options": [
         {
@@ -1580,7 +1580,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "fat vs carb ATP",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "How does fat compare with carbohydrate for ATP yield by mass? ((§9.6, p.183))",
       "options": [
         {
@@ -1609,7 +1609,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "glycerol entry",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "After fat digestion, glycerol enters respiration by conversion to which intermediate? ((§9.6, p.183))",
       "options": [
         {
@@ -1638,7 +1638,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "anabolic use",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "Besides fuel, how can food molecules and pathway intermediates be used? ((§9.6, p.183))",
       "options": [
         {
@@ -1667,7 +1667,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "essential amino acids",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "Regarding amino acid biosynthesis in humans, which statement matches the text? ((§9.6, p.183))",
       "options": [
         {
@@ -1696,7 +1696,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "feedback inhibition",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "What is the most common metabolic control mechanism described for respiration? ((§9.6, p.183))",
       "options": [
         {
@@ -1725,7 +1725,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "PFK regulation",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "How is phosphofructokinase regulated as the pacemaker of respiration? ((§9.6, p.183))",
       "options": [
         {
@@ -1754,7 +1754,7 @@
     {
       "type": "multiple-choice",
       "section": "c96",
-      "topic": "energy origin",
+      "topic": "9.6 Metabolic Connections & Regulation",
       "prompt": "What does the chapter emphasize about the energy that keeps organisms alive? ((§9.6, p.184))",
       "options": [
         {
