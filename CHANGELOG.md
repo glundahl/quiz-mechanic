@@ -2,9 +2,13 @@
 
 Most recent changes at the top.
 
+## v0.5 — 2026-09-12
+- Ava 10th-grade group (`?group=ava-10th-grade`) + Campbell AP Biology Ch. 9 cellular respiration practice (60 Qs)
+
 ## v0.4 — 2026-09-07
 - Quiz groups via `?group=` — CPFO-only picker: `?group=cpfo`; kids math: `?group=kids`
 - Manifest `group` field (`cpfo` / `kids`); CPFO cards use a CPFO badge
+- *(s95)* Ava group meta added with Ch. 9 quiz ship
 
 ## v0.3 — 2026-09-03
 - Browser tab: picker/home shows **Quiz Mechanic**; in-quiz tabs still use `{Quiz title} — Quiz Mechanic`

@@ -1,0 +1,1784 @@
+{
+  "id": "ava-ch9",
+  "filename": "ava-biology-chapter-9",
+  "title": "AP Biology — Cellular Respiration",
+  "subtitle": "Campbell Biology AP 12e · Chapter 9",
+  "subject": "AP Biology",
+  "badge": "Ch. 9",
+  "accent_color": "#3fb950",
+  "disable_option_shuffle": false,
+  "sections": [
+    {
+      "key": "c91",
+      "label": "9.1 Catabolic Pathways & Redox",
+      "color": "#58a6ff"
+    },
+    {
+      "key": "c92",
+      "label": "9.2 Glycolysis",
+      "color": "#3fb950"
+    },
+    {
+      "key": "c93",
+      "label": "9.3 Pyruvate Oxidation & Citric Acid Cycle",
+      "color": "#e3b341"
+    },
+    {
+      "key": "c94",
+      "label": "9.4 Oxidative Phosphorylation",
+      "color": "#f0883e"
+    },
+    {
+      "key": "c95",
+      "label": "9.5 Fermentation & Anaerobic Respiration",
+      "color": "#a371f7"
+    },
+    {
+      "key": "c96",
+      "label": "9.6 Metabolic Connections & Regulation",
+      "color": "#f85149"
+    }
+  ],
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "catabolic pathways",
+      "prompt": "Which statement best describes catabolic pathways per Campbell? ((§9.1, p.165))",
+      "options": [
+        {
+          "text": "They release stored energy by breaking down complex molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "They consume ATP to build macromolecules from smaller subunits.",
+          "is_correct": false
+        },
+        {
+          "text": "They always require oxygen as a reactant in every reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "They store energy by assembling complex molecules from CO2.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.165). Catabolic pathways release stored energy by breaking down complex molecules.",
+      "source_page": 165,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.165)",
+      "id": "651466"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "fermentation vs aerobic",
+      "prompt": "How does fermentation differ from aerobic respiration in Concept 9.1? ((§9.1, p.165))",
+      "options": [
+        {
+          "text": "Fermentation is a partial degradation of sugars or other organic fuel that occurs without oxygen.",
+          "is_correct": true
+        },
+        {
+          "text": "Fermentation fully oxidizes glucose to CO2 using an electron transport chain.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation requires oxygen as the terminal electron acceptor.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation produces about 32 ATP per glucose under standard conditions.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.165). Fermentation is partial degradation without O2; aerobic respiration is the most efficient pathway and consumes O2.",
+      "source_page": 165,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.165)",
+      "id": "7673ac"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "glucose equation",
+      "prompt": "In the summary equation for aerobic respiration of glucose, which statement is accurate? ((§9.1, p.165))",
+      "options": [
+        {
+          "text": "Glucose is oxidized to CO2 and oxygen is reduced to H2O, releasing energy as ATP and heat.",
+          "is_correct": true
+        },
+        {
+          "text": "Oxygen is oxidized to CO2 while glucose is reduced to water.",
+          "is_correct": false
+        },
+        {
+          "text": "Glucose is reduced to CO2 while oxygen is oxidized to ATP.",
+          "is_correct": false
+        },
+        {
+          "text": "Both glucose and oxygen are reduced, producing only heat and no ATP.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.165–166). C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + Energy (ATP + heat); glucose oxidized, O2 reduced.",
+      "source_page": 165,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.165)",
+      "id": "3da443"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "delta G glucose",
+      "prompt": "What does ΔG = −686 kcal/mol for glucose breakdown indicate? ((§9.1, p.165))",
+      "options": [
+        {
+          "text": "The reaction is exergonic; products store less energy than reactants and can occur spontaneously.",
+          "is_correct": true
+        },
+        {
+          "text": "The reaction is endergonic and requires continuous input of ATP to proceed.",
+          "is_correct": false
+        },
+        {
+          "text": "The reaction stores 686 kcal/mol in the products relative to the reactants.",
+          "is_correct": false
+        },
+        {
+          "text": "The reaction cannot occur without an electron transport chain.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.165). Negative ΔG means exergonic; products store less energy than reactants.",
+      "source_page": 165,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.165)",
+      "id": "efc1a6"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "oxidation reduction",
+      "prompt": "In redox terms, oxidation and reduction mean which of the following? ((§9.1, p.166))",
+      "options": [
+        {
+          "text": "Oxidation is loss of electrons; reduction is addition of electrons to another substance.",
+          "is_correct": true
+        },
+        {
+          "text": "Oxidation is gain of electrons; reduction is loss of electrons.",
+          "is_correct": false
+        },
+        {
+          "text": "Oxidation is gain of protons only; reduction is loss of neutrons.",
+          "is_correct": false
+        },
+        {
+          "text": "Oxidation requires O2 specifically; reduction never involves electron transfer.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.166). Oxidation = loss of e−; reduction = addition of e−.",
+      "source_page": 166,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.166)",
+      "id": "aa085b"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "reducing oxidizing agent",
+      "prompt": "In a redox reaction, the reducing agent is best described as which? ((§9.1, p.166))",
+      "options": [
+        {
+          "text": "The electron donor, which reduces the electron acceptor.",
+          "is_correct": true
+        },
+        {
+          "text": "The electron acceptor, which oxidizes the electron donor.",
+          "is_correct": false
+        },
+        {
+          "text": "Any molecule that contains oxygen atoms.",
+          "is_correct": false
+        },
+        {
+          "text": "The final product that stores the highest free energy.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.166). Reducing agent = electron donor; oxidizing agent = electron acceptor.",
+      "source_page": 166,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.166)",
+      "id": "eb56c3"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "NAD+ role",
+      "prompt": "What is the primary role of NAD+ during cellular respiration? ((§9.1, p.167))",
+      "options": [
+        {
+          "text": "It functions as an oxidizing agent that accepts electrons (becoming NADH) from food molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "It is the terminal electron acceptor that forms water at the end of the chain.",
+          "is_correct": false
+        },
+        {
+          "text": "It directly phosphorylates ADP to ATP in the cytosol.",
+          "is_correct": false
+        },
+        {
+          "text": "It pumps protons across the inner mitochondrial membrane by itself.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.167). NAD+ cycles as an oxidizing agent; reduced form is NADH.",
+      "source_page": 167,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.167)",
+      "id": "edb527"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "dehydrogenase",
+      "prompt": "When a dehydrogenase oxidizes a substrate using NAD+, what is delivered to NAD+? ((§9.1, p.167))",
+      "options": [
+        {
+          "text": "2 electrons and 1 proton, forming NADH; the other proton is released as H+ into solution.",
+          "is_correct": true
+        },
+        {
+          "text": "2 electrons and 2 protons that both remain bound as NADH2.",
+          "is_correct": false
+        },
+        {
+          "text": "Only a phosphate group transferred to make NADP+.",
+          "is_correct": false
+        },
+        {
+          "text": "Only heat energy with no electron transfer.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.167). Dehydrogenase removes 2 e− and 2 H+; delivers 2 e− + 1 H+ to NAD+.",
+      "source_page": 167,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.167)",
+      "id": "17bf7a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "electron path preview",
+      "prompt": "Most electrons removed from food travel along which path during aerobic respiration? ((§9.1, p.168))",
+      "options": [
+        {
+          "text": "glucose → NADH → electron transport chain → oxygen",
+          "is_correct": true
+        },
+        {
+          "text": "glucose → O2 → NADH → ATP synthase",
+          "is_correct": false
+        },
+        {
+          "text": "glucose → FAD only → cytosol → CO2",
+          "is_correct": false
+        },
+        {
+          "text": "glucose → ATP → NAD+ → fermentation products only",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.168). Most electrons travel glucose → NADH → ETC → oxygen.",
+      "source_page": 168,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.168)",
+      "id": "d85945"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c91",
+      "topic": "ATP accounting preview",
+      "prompt": "According to the chapter preview of ATP accounting, which is accurate? ((§9.1, p.169))",
+      "options": [
+        {
+          "text": "Oxidative phosphorylation accounts for almost 90% of the ATP generated by respiration.",
+          "is_correct": true
+        },
+        {
+          "text": "Substrate-level phosphorylation alone produces almost 90% of cellular ATP.",
+          "is_correct": false
+        },
+        {
+          "text": "Glycolysis alone produces about 32 ATP per glucose.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation produces more ATP per glucose than oxidative phosphorylation.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.1, p.169). Oxidative phosphorylation accounts for almost 90% of ATP from respiration; up to about 32 ATP per glucose total.",
+      "source_page": 169,
+      "source_concept": "9.1",
+      "source_cite": "(§9.1, p.169)",
+      "id": "ce9a83"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "glycolysis meaning",
+      "prompt": "What does glycolysis literally refer to, and what are its products from one glucose? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "Sugar splitting: glucose is converted to two molecules of pyruvate.",
+          "is_correct": true
+        },
+        {
+          "text": "Sugar building: two pyruvates join to form one glucose.",
+          "is_correct": false
+        },
+        {
+          "text": "Fat splitting: fatty acids are converted to glycerol only.",
+          "is_correct": false
+        },
+        {
+          "text": "Protein splitting: amino acids are deaminated to ammonia.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Glycolysis means sugar splitting; glucose → two pyruvate.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "e5e966"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "glycolysis location",
+      "prompt": "Where does glycolysis occur in eukaryotic cells? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "In the cytosol.",
+          "is_correct": true
+        },
+        {
+          "text": "In the mitochondrial matrix.",
+          "is_correct": false
+        },
+        {
+          "text": "In the intermembrane space.",
+          "is_correct": false
+        },
+        {
+          "text": "In the inner mitochondrial membrane.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Glycolysis occurs in the cytosol.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "b08dfe"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "net yield",
+      "prompt": "What is the net yield of glycolysis per glucose molecule? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "2 ATP and 2 NADH (plus 2 pyruvate and 2 H2O).",
+          "is_correct": true
+        },
+        {
+          "text": "4 ATP and 4 NADH with no pyruvate formed.",
+          "is_correct": false
+        },
+        {
+          "text": "32 ATP produced entirely by substrate-level phosphorylation.",
+          "is_correct": false
+        },
+        {
+          "text": "2 ATP, 6 NADH, and 2 FADH2.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Net: 2 ATP + 2 NADH; also 2 pyruvate + 2 H2O.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "3f062c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "CO2 glycolysis",
+      "prompt": "Is carbon dioxide released during glycolysis? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "No; all carbon from glucose remains in the two pyruvate molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "Yes; three CO2 are released during the investment phase.",
+          "is_correct": false
+        },
+        {
+          "text": "Yes; CO2 is released when hexokinase phosphorylates glucose.",
+          "is_correct": false
+        },
+        {
+          "text": "Only if oxygen is present in the cytosol.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). No CO2 released during glycolysis; carbons remain in the two pyruvates.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "bd4ad0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "O2 requirement",
+      "prompt": "Does glycolysis require oxygen? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "No; glycolysis occurs whether or not O2 is present.",
+          "is_correct": true
+        },
+        {
+          "text": "Yes; oxygen must accept electrons at the end of glycolysis.",
+          "is_correct": false
+        },
+        {
+          "text": "Yes; without O2, hexokinase cannot function.",
+          "is_correct": false
+        },
+        {
+          "text": "Only the payoff phase requires oxygen.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Glycolysis occurs with or without O2.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "2a8ddb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "investment phase",
+      "prompt": "In the energy investment phase of glycolysis, what happens? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "The cell spends 2 ATP; glucose is phosphorylated and split into two 3-carbon sugars.",
+          "is_correct": true
+        },
+        {
+          "text": "The cell gains a net of 4 ATP with no ATP spent.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate enters the mitochondrion by active transport.",
+          "is_correct": false
+        },
+        {
+          "text": "Oxygen is reduced to water in the cytosol.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Investment phase spends 2 ATP.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "4fb2cb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "phosphofructokinase step",
+      "prompt": "Which enzyme catalyzes the second ATP investment of glycolysis and is a key regulatory step? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "Phosphofructokinase, transferring a phosphate from ATP to form fructose 1,6-bisphosphate.",
+          "is_correct": true
+        },
+        {
+          "text": "Hexokinase, forming glucose 6-phosphate as the only regulated step.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate kinase, forming PEP from 2-phosphoglycerate.",
+          "is_correct": false
+        },
+        {
+          "text": "Aldolase, joining two trioses into a hexose.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Step 3: phosphofructokinase; second ATP invested; key regulatory step.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "e41273"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "hexokinase",
+      "prompt": "What does hexokinase accomplish in step 1 of glycolysis? ((§9.2, p.170))",
+      "options": [
+        {
+          "text": "It transfers a phosphate from ATP to glucose, forming glucose 6-phosphate and helping trap the sugar in the cell.",
+          "is_correct": true
+        },
+        {
+          "text": "It cleaves fructose 1,6-bisphosphate into G3P and DHAP.",
+          "is_correct": false
+        },
+        {
+          "text": "It reduces NAD+ to NADH using electrons from pyruvate.",
+          "is_correct": false
+        },
+        {
+          "text": "It converts PEP directly to acetyl CoA.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.170). Hexokinase: glucose → glucose 6-phosphate; charged phosphate traps sugar.",
+      "source_page": 170,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.170)",
+      "id": "3ceeb0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "payoff ATP",
+      "prompt": "During the energy payoff phase, how is ATP formed? ((§9.2, p.171))",
+      "options": [
+        {
+          "text": "By substrate-level phosphorylation (for example, from 1,3-bisphosphoglycerate and from PEP).",
+          "is_correct": true
+        },
+        {
+          "text": "By chemiosmosis at ATP synthase in the cytosol.",
+          "is_correct": false
+        },
+        {
+          "text": "By oxidative phosphorylation using Complex IV.",
+          "is_correct": false
+        },
+        {
+          "text": "By direct transfer of electrons from NADH to ADP.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.171). Payoff ATP via substrate-level phosphorylation (steps 7 and 10).",
+      "source_page": 171,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.171)",
+      "id": "7e9521"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c92",
+      "topic": "step6 redox",
+      "prompt": "In glycolysis step 6, which molecule is the oxidizing agent? ((§9.2, p.171))",
+      "options": [
+        {
+          "text": "NAD+, which is reduced to NADH as G3P is oxidized.",
+          "is_correct": true
+        },
+        {
+          "text": "G3P, which oxidizes NAD+ to NADH.",
+          "is_correct": false
+        },
+        {
+          "text": "Oxygen, which accepts electrons from G3P.",
+          "is_correct": false
+        },
+        {
+          "text": "ATP, which oxidizes glucose 6-phosphate.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.2, p.171). Concept Check: oxidizing agent is NAD+; reducing agent is G3P.",
+      "source_page": 171,
+      "source_concept": "9.2",
+      "source_cite": "(§9.2, p.171)",
+      "id": "12d20a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "pyruvate entry",
+      "prompt": "In eukaryotes with O2 present, what happens to pyruvate after glycolysis? ((§9.3, p.171))",
+      "options": [
+        {
+          "text": "Pyruvate enters the mitochondrion by active transport and is converted to acetyl CoA before the citric acid cycle.",
+          "is_correct": true
+        },
+        {
+          "text": "Pyruvate remains in the cytosol and is converted directly to citrate.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate is immediately fermented to ethanol in all aerobic cells.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate is pumped into the nucleus for DNA synthesis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.171). Pyruvate enters mitochondrion by active transport → acetyl CoA.",
+      "source_page": 171,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.171)",
+      "id": "ffe0b8"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "first CO2",
+      "prompt": "When is the first CO2 of respiration released from pyruvate? ((§9.3, p.171))",
+      "options": [
+        {
+          "text": "During pyruvate oxidation, when pyruvate’s carboxyl group is removed as CO2.",
+          "is_correct": true
+        },
+        {
+          "text": "During glycolysis step 1 when hexokinase acts.",
+          "is_correct": false
+        },
+        {
+          "text": "Only after oxidative phosphorylation is complete.",
+          "is_correct": false
+        },
+        {
+          "text": "During alcohol fermentation exclusively, never in aerobic respiration.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.171). First CO2 released when carboxyl group removed from pyruvate.",
+      "source_page": 171,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.171)",
+      "id": "b8e00e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "acetyl CoA formation",
+      "prompt": "Which sequence correctly summarizes pyruvate → acetyl CoA? ((§9.3, p.171))",
+      "options": [
+        {
+          "text": "Remove carboxyl as CO2; oxidize the remaining 2-carbon fragment (NAD+ → NADH); attach CoA via its sulfur atom.",
+          "is_correct": true
+        },
+        {
+          "text": "Attach CoA first, then add two carbons from CO2, then reduce FAD.",
+          "is_correct": false
+        },
+        {
+          "text": "Reduce pyruvate with NADH to lactate, then add CoA.",
+          "is_correct": false
+        },
+        {
+          "text": "Split pyruvate into three one-carbon CO2 molecules before CoA attaches.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.171 / Fig. 9.9). Three-step pyruvate dehydrogenase conversion.",
+      "source_page": 171,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.171)",
+      "id": "718a8e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "krebs names",
+      "prompt": "The citric acid cycle is also known as which of the following? ((§9.3, p.172))",
+      "options": [
+        {
+          "text": "The tricarboxylic acid cycle or the Krebs cycle.",
+          "is_correct": true
+        },
+        {
+          "text": "The Calvin cycle or the light reactions.",
+          "is_correct": false
+        },
+        {
+          "text": "The Cori cycle only.",
+          "is_correct": false
+        },
+        {
+          "text": "Beta oxidation of fatty acids.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.172). Also called TCA cycle or Krebs cycle.",
+      "source_page": 172,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.172)",
+      "id": "797cfd"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "cycle carbons",
+      "prompt": "Per turn of the citric acid cycle, how do carbons enter and leave? ((§9.3, p.172))",
+      "options": [
+        {
+          "text": "Two carbons enter as an acetyl group; two different carbons leave as CO2 in later steps.",
+          "is_correct": true
+        },
+        {
+          "text": "Six carbons enter as glucose and leave immediately as six CO2 in one step.",
+          "is_correct": false
+        },
+        {
+          "text": "No carbons leave as CO2 until fermentation.",
+          "is_correct": false
+        },
+        {
+          "text": "Four carbons enter as oxaloacetate and leave as four CO2 each turn.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.172). 2 C enter as acetyl; 2 C leave as CO2 (steps 3 and 4).",
+      "source_page": 172,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.172)",
+      "id": "c8d409"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "per turn yield",
+      "prompt": "What is produced per acetyl group (one turn of the citric acid cycle)? ((§9.3, p.172))",
+      "options": [
+        {
+          "text": "3 NADH, 1 FADH2, and 1 ATP (or equivalent) by substrate-level phosphorylation.",
+          "is_correct": true
+        },
+        {
+          "text": "2 ATP only, with no electron carriers reduced.",
+          "is_correct": false
+        },
+        {
+          "text": "6 NADH and 2 FADH2 with no substrate-level ATP.",
+          "is_correct": false
+        },
+        {
+          "text": "32 ATP by oxidative phosphorylation inside the cycle itself.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.172). Per turn: 3 NADH, 1 FADH2, 1 ATP (or GTP equivalent).",
+      "source_page": 172,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.172)",
+      "id": "a1ee8d"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "per glucose cycle",
+      "prompt": "For one glucose, after two turns of the cycle, which carrier totals are correct? ((§9.3, p.172))",
+      "options": [
+        {
+          "text": "6 NADH, 2 FADH2, and 2 ATP (or equivalents) from the cycle itself.",
+          "is_correct": true
+        },
+        {
+          "text": "3 NADH, 1 FADH2, and 1 ATP total for the whole glucose.",
+          "is_correct": false
+        },
+        {
+          "text": "8 FADH2 and no NADH.",
+          "is_correct": false
+        },
+        {
+          "text": "Only 2 NADH from the cycle and nothing else.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.172). Per glucose (two turns): 6 NADH, 2 FADH2, 2 ATP.",
+      "source_page": 172,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.172)",
+      "id": "dd7ca7"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "oxaloacetate",
+      "prompt": "What joins the acetyl group of acetyl CoA at the start of the cycle? ((§9.3, p.173))",
+      "options": [
+        {
+          "text": "Oxaloacetate (4C), forming citrate (6C).",
+          "is_correct": true
+        },
+        {
+          "text": "Pyruvate (3C), forming glucose (6C).",
+          "is_correct": false
+        },
+        {
+          "text": "Succinate (4C), forming fumarate immediately.",
+          "is_correct": false
+        },
+        {
+          "text": "RuBP, forming a 3-carbon sugar.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.173 / Fig. 9.11). Acetyl joins oxaloacetate → citrate.",
+      "source_page": 173,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.173)",
+      "id": "8f468d"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "enzyme location",
+      "prompt": "Where are most citric acid cycle enzymes located in eukaryotes? ((§9.3, p.173))",
+      "options": [
+        {
+          "text": "In the mitochondrial matrix (except the step-6 enzyme in the inner membrane).",
+          "is_correct": true
+        },
+        {
+          "text": "Entirely in the cytosol like glycolysis.",
+          "is_correct": false
+        },
+        {
+          "text": "Only in the intermembrane space.",
+          "is_correct": false
+        },
+        {
+          "text": "In the nucleus next to ATP synthase.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.3, p.173 / Fig. 9.11 caption). Most enzymes in matrix; step 6 enzyme in inner membrane.",
+      "source_page": 173,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.173)",
+      "id": "1aa006"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c93",
+      "topic": "substrate level total",
+      "prompt": "Glycolysis plus the citric acid cycle together yield how many ATP by substrate-level phosphorylation per glucose? ((§9.3, p.174))",
+      "options": [
+        {
+          "text": "4 ATP (2 net from glycolysis + 2 from the cycle).",
+          "is_correct": true
+        },
+        {
+          "text": "About 32 ATP from substrate-level phosphorylation alone.",
+          "is_correct": false
+        },
+        {
+          "text": "Zero ATP until oxidative phosphorylation begins.",
+          "is_correct": false
+        },
+        {
+          "text": "16 ATP from glycolysis alone.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.174). Glycolysis + citric acid cycle yield only 4 ATP by substrate-level phosphorylation.",
+      "source_page": 174,
+      "source_concept": "9.3",
+      "source_cite": "(§9.3, p.174)",
+      "id": "c9865e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "ETC location",
+      "prompt": "Where is the electron transport chain embedded in eukaryotic cells? ((§9.4, p.174))",
+      "options": [
+        {
+          "text": "In the inner mitochondrial membrane.",
+          "is_correct": true
+        },
+        {
+          "text": "In the outer mitochondrial membrane only.",
+          "is_correct": false
+        },
+        {
+          "text": "Freely dissolved in the cytosol.",
+          "is_correct": false
+        },
+        {
+          "text": "In the nuclear envelope.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.174). ETC in inner mitochondrial membrane (plasma membrane in prokaryotes).",
+      "source_page": 174,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.174)",
+      "id": "f4d9f2"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "NADH vs FADH2 entry",
+      "prompt": "How do NADH and FADH2 differ in feeding electrons to the ETC? ((§9.4, p.174))",
+      "options": [
+        {
+          "text": "NADH donates electrons at Complex I; FADH2 donates at Complex II at a lower energy level.",
+          "is_correct": true
+        },
+        {
+          "text": "Both donate electrons only at Complex IV.",
+          "is_correct": false
+        },
+        {
+          "text": "FADH2 donates at Complex I while NADH donates at Complex II.",
+          "is_correct": false
+        },
+        {
+          "text": "Neither interacts with membrane complexes; both reduce O2 directly in the matrix.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.174–175). NADH → Complex I; FADH2 → Complex II.",
+      "source_page": 174,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.174)",
+      "id": "44bbb1"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "ubiquinone",
+      "prompt": "Which statement about ubiquinone (Q / CoQ) is accurate? ((§9.4, p.174))",
+      "options": [
+        {
+          "text": "It is a small hydrophobic molecule and the only electron transport chain member that is not a protein.",
+          "is_correct": true
+        },
+        {
+          "text": "It is a cytochrome with a heme group that reduces O2 directly.",
+          "is_correct": false
+        },
+        {
+          "text": "It is restricted to the cytosol and never enters membranes.",
+          "is_correct": false
+        },
+        {
+          "text": "It is identical to ATP synthase’s catalytic knob.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.174–175). Q is the only nonprotein ETC member.",
+      "source_page": 174,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.174)",
+      "id": "2d2cf9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "ETC no ATP",
+      "prompt": "Does the electron transport chain make ATP directly? ((§9.4, p.175))",
+      "options": [
+        {
+          "text": "No; it breaks the free-energy drop into smaller steps and establishes a proton gradient used later for ATP synthesis.",
+          "is_correct": true
+        },
+        {
+          "text": "Yes; each complex phosphorylates ADP as electrons pass.",
+          "is_correct": false
+        },
+        {
+          "text": "Yes; Complex II alone synthesizes all cellular ATP.",
+          "is_correct": false
+        },
+        {
+          "text": "Only when fermentation is also running.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.175). ETC makes no ATP directly.",
+      "source_page": 175,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.175)",
+      "id": "fe2172"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "chemiosmosis",
+      "prompt": "What is chemiosmosis in this chapter’s sense? ((§9.4, p.175))",
+      "options": [
+        {
+          "text": "Energy stored in an H+ gradient across a membrane drives cellular work such as ATP synthesis.",
+          "is_correct": true
+        },
+        {
+          "text": "Direct transfer of a phosphate from a substrate molecule to ADP only.",
+          "is_correct": false
+        },
+        {
+          "text": "Diffusion of glucose across the outer membrane without transporters.",
+          "is_correct": false
+        },
+        {
+          "text": "Binding of O2 to hemoglobin in the blood.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.175–176). Chemiosmosis: H+ gradient drives work (ATP synthesis).",
+      "source_page": 175,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.175)",
+      "id": "5075fe"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "proton pumping",
+      "prompt": "During electron transport, H+ are pumped in which direction in mitochondria? ((§9.4, p.176))",
+      "options": [
+        {
+          "text": "From the matrix into the intermembrane space, creating a proton-motive force.",
+          "is_correct": true
+        },
+        {
+          "text": "From the intermembrane space into the matrix only, eliminating any gradient.",
+          "is_correct": false
+        },
+        {
+          "text": "From the cytosol into the nucleus.",
+          "is_correct": false
+        },
+        {
+          "text": "Equally in both directions so no gradient forms.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.176). ETC pumps H+ matrix → intermembrane space.",
+      "source_page": 176,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.176)",
+      "id": "b12cbc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "ATP synthase path",
+      "prompt": "How do protons return to the matrix to drive ATP synthesis? ((§9.4, p.176))",
+      "options": [
+        {
+          "text": "Through ATP synthase, the only route for H+ to diffuse back down their gradient across the inner membrane.",
+          "is_correct": true
+        },
+        {
+          "text": "Through Complex II exclusively, bypassing ATP synthase.",
+          "is_correct": false
+        },
+        {
+          "text": "Through open porins that leak all gradients instantly.",
+          "is_correct": false
+        },
+        {
+          "text": "Through hexokinase in the cytosol.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.176). ATP synthase is the route for H+ reentry coupled to ATP synthesis.",
+      "source_page": 176,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.176)",
+      "id": "5d75cc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "oxidative phosphorylation def",
+      "prompt": "Oxidative phosphorylation consists of which processes? ((§9.4, p.176))",
+      "options": [
+        {
+          "text": "Electron transport plus chemiosmosis.",
+          "is_correct": true
+        },
+        {
+          "text": "Glycolysis plus alcohol fermentation only.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate oxidation without any membrane involvement.",
+          "is_correct": false
+        },
+        {
+          "text": "The Calvin cycle plus photorespiration.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.176). Oxidative phosphorylation = electron transport + chemiosmosis.",
+      "source_page": 176,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.176)",
+      "id": "1294bc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "ATP yield total",
+      "prompt": "What is the approximate maximum ATP yield per glucose from cellular respiration in this chapter? ((§9.4, p.177))",
+      "options": [
+        {
+          "text": "About 30 or 32 ATP, depending largely on the shuttle that transfers electrons from cytosolic NADH.",
+          "is_correct": true
+        },
+        {
+          "text": "Exactly 2 ATP from fermentation pathways only.",
+          "is_correct": false
+        },
+        {
+          "text": "Exactly 4 ATP with no contribution from oxidative phosphorylation.",
+          "is_correct": false
+        },
+        {
+          "text": "About 686 ATP, one per kcal/mol of glucose.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.177). Maximum ≈ 30 or 32 ATP per glucose.",
+      "source_page": 177,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.177)",
+      "id": "0562e5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c94",
+      "topic": "efficiency",
+      "prompt": "About what fraction of the energy in glucose is transferred to ATP under the book’s accounting? ((§9.4, p.178))",
+      "options": [
+        {
+          "text": "About 34% (most of the rest is lost as heat).",
+          "is_correct": true
+        },
+        {
+          "text": "About 100%, with no heat loss.",
+          "is_correct": false
+        },
+        {
+          "text": "About 2%, because only glycolysis counts.",
+          "is_correct": false
+        },
+        {
+          "text": "About 90% stored permanently in NADH without ATP formation.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.4, p.178). Efficiency ≈ 34% transferred to ATP; remainder as heat.",
+      "source_page": 178,
+      "source_concept": "9.4",
+      "source_cite": "(§9.4, p.178)",
+      "id": "9911b9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "anaerobic vs fermentation",
+      "prompt": "What is a key contrast between anaerobic respiration and fermentation? ((§9.5, p.179))",
+      "options": [
+        {
+          "text": "Anaerobic respiration uses an electron transport chain; fermentation does not.",
+          "is_correct": true
+        },
+        {
+          "text": "Fermentation uses an ETC ending at O2; anaerobic respiration never transfers electrons.",
+          "is_correct": false
+        },
+        {
+          "text": "Both require O2 as the terminal electron acceptor.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation produces ~32 ATP while anaerobic respiration produces 2 ATP.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.179). Anaerobic respiration uses an ETC; fermentation does not.",
+      "source_page": 179,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.179)",
+      "id": "c85179"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "sulfate reducer",
+      "prompt": "In the book’s example of anaerobic respiration, sulfate-reducing marine bacteria use which final electron acceptor? ((§9.5, p.179))",
+      "options": [
+        {
+          "text": "SO4^2−, producing H2S as a by-product (instead of H2O).",
+          "is_correct": true
+        },
+        {
+          "text": "O2, producing only water.",
+          "is_correct": false
+        },
+        {
+          "text": "Nitrogen gas exclusively, producing ammonia in all cases.",
+          "is_correct": false
+        },
+        {
+          "text": "Pyruvate, producing lactate in the mitochondrion.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.179). Final acceptor SO4^2−; by-product H2S.",
+      "source_page": 179,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.179)",
+      "id": "843f02"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "why regenerate NAD",
+      "prompt": "Why must NAD+ be regenerated during fermentation? ((§9.5, p.180))",
+      "options": [
+        {
+          "text": "Without regenerating NAD+ from NADH, glycolysis would stop for lack of an oxidizing agent.",
+          "is_correct": true
+        },
+        {
+          "text": "NAD+ is needed only for ATP synthase rotation.",
+          "is_correct": false
+        },
+        {
+          "text": "NAD+ must be converted permanently to CO2.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation consumes NAD+ as a fuel molecule instead of glucose.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.180). Glycolysis needs NAD+ as oxidizing agent; fermentation regenerates it.",
+      "source_page": 180,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.180)",
+      "id": "ec5d01"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "alcohol fermentation",
+      "prompt": "In alcohol fermentation, what are the two steps after glycolysis? ((§9.5, p.180))",
+      "options": [
+        {
+          "text": "Pyruvate releases CO2 to form acetaldehyde; acetaldehyde is reduced by NADH to ethanol, regenerating NAD+.",
+          "is_correct": true
+        },
+        {
+          "text": "Pyruvate is reduced directly to lactate with no CO2 released.",
+          "is_correct": false
+        },
+        {
+          "text": "Acetaldehyde is oxidized to pyruvate using O2.",
+          "is_correct": false
+        },
+        {
+          "text": "Ethanol is phosphorylated to form glucose 6-phosphate.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.180 / Fig. 9.16a). CO2 → acetaldehyde; NADH reduces acetaldehyde → ethanol.",
+      "source_page": 180,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.180)",
+      "id": "356e3e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "lactic acid fermentation",
+      "prompt": "How does lactic acid fermentation differ from alcohol fermentation? ((§9.5, p.180))",
+      "options": [
+        {
+          "text": "Pyruvate is reduced directly by NADH to lactate, and no CO2 is released.",
+          "is_correct": true
+        },
+        {
+          "text": "Lactate fermentation always releases two CO2 before reducing acetaldehyde.",
+          "is_correct": false
+        },
+        {
+          "text": "Lactate fermentation requires an electron transport chain ending at sulfate.",
+          "is_correct": false
+        },
+        {
+          "text": "Lactate fermentation occurs only in yeast used for bread.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.180 / Fig. 9.16b). Direct reduction to lactate; no CO2.",
+      "source_page": 180,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.180)",
+      "id": "f4ed60"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "final acceptor types",
+      "prompt": "In fermentation versus cellular respiration, how does NADH get oxidized back to NAD+? ((§9.5, p.181))",
+      "options": [
+        {
+          "text": "Fermentation: an organic molecule (e.g., pyruvate or acetaldehyde) is the final acceptor; respiration: electrons go to an electron transport chain.",
+          "is_correct": true
+        },
+        {
+          "text": "Both always use O2 as the only possible final acceptor.",
+          "is_correct": false
+        },
+        {
+          "text": "Fermentation sends electrons to Complex IV; respiration reduces pyruvate.",
+          "is_correct": false
+        },
+        {
+          "text": "Neither pathway regenerates NAD+ under any conditions.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.181). Key difference is how NADH is oxidized back to NAD+.",
+      "source_page": 181,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.181)",
+      "id": "7b9f31"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "ATP comparison",
+      "prompt": "Relative to fermentation, about how much ATP can aerobic respiration yield per glucose? ((§9.5, p.181))",
+      "options": [
+        {
+          "text": "Up to about 32 ATP — roughly 16× as much as fermentation’s net 2 ATP.",
+          "is_correct": true
+        },
+        {
+          "text": "Exactly the same 2 ATP net with no additional yield.",
+          "is_correct": false
+        },
+        {
+          "text": "About half as much ATP as fermentation.",
+          "is_correct": false
+        },
+        {
+          "text": "Unlimited ATP because O2 creates energy from nothing.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.181). Aerobic respiration up to ~32 ATP ≈ 16× fermentation.",
+      "source_page": 181,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.181)",
+      "id": "893152"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "obligate anaerobes",
+      "prompt": "What characterizes obligate anaerobes? ((§9.5, p.181))",
+      "options": [
+        {
+          "text": "They carry out only fermentation or anaerobic respiration and cannot survive in O2 (which can be toxic).",
+          "is_correct": true
+        },
+        {
+          "text": "They require O2 and die without an electron transport chain ending at oxygen.",
+          "is_correct": false
+        },
+        {
+          "text": "They perform only photosynthesis in bright light.",
+          "is_correct": false
+        },
+        {
+          "text": "They live exclusively in vertebrate brain tissue.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.181). Obligate anaerobes: fermentation/anaerobic respiration only; O2 can be toxic.",
+      "source_page": 181,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.181)",
+      "id": "7c12a4"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "facultative anaerobes",
+      "prompt": "What can facultative anaerobes such as yeasts do? ((§9.5, p.181))",
+      "options": [
+        {
+          "text": "Make enough ATP by fermentation or by respiration, with pyruvate as a fork in the metabolic road.",
+          "is_correct": true
+        },
+        {
+          "text": "Survive only when O2 is completely absent forever.",
+          "is_correct": false
+        },
+        {
+          "text": "Never use glycolysis under any condition.",
+          "is_correct": false
+        },
+        {
+          "text": "Use sulfate as their only possible electron acceptor.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.181 / Fig. 9.17). Facultative anaerobes: fermentation or respiration.",
+      "source_page": 181,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.181)",
+      "id": "db62da"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c95",
+      "topic": "glycolysis evolution",
+      "prompt": "Why is glycolysis considered evolutionarily ancient in this chapter? ((§9.5, p.182))",
+      "options": [
+        {
+          "text": "It is widespread, occurs in the cytosol without membrane organelles, and likely existed before appreciable atmospheric O2.",
+          "is_correct": true
+        },
+        {
+          "text": "It requires mitochondria and therefore evolved only after eukaryotes appeared.",
+          "is_correct": false
+        },
+        {
+          "text": "It depends on oxygen and cyanobacteria exclusively.",
+          "is_correct": false
+        },
+        {
+          "text": "It is found only in vertebrate muscle and nowhere else.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.5, p.182). Glycolysis as metabolic heirloom; ancient prokaryotes before O2.",
+      "source_page": 182,
+      "source_concept": "9.5",
+      "source_cite": "(§9.5, p.182)",
+      "id": "0546eb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "catabolic funnel",
+      "prompt": "What roles do glycolysis and the citric acid cycle play for diverse fuels? ((§9.6, p.182))",
+      "options": [
+        {
+          "text": "They act as major intersections (catabolic funnels) that oxidize intermediates from carbohydrates, fats, and proteins.",
+          "is_correct": true
+        },
+        {
+          "text": "They only process glucose and reject all other organic molecules.",
+          "is_correct": false
+        },
+        {
+          "text": "They are used solely for anabolic synthesis and never for ATP.",
+          "is_correct": false
+        },
+        {
+          "text": "They occur only in chloroplasts during the day.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.182 / Fig. 9.18). Catabolic funnels for carbs, fats, proteins.",
+      "source_page": 182,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.182)",
+      "id": "b87ccb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "deamination",
+      "prompt": "Before amino acids can be oxidized in glycolysis or the citric acid cycle, what must happen? ((§9.6, p.182))",
+      "options": [
+        {
+          "text": "They must be deaminated (amino groups removed); nitrogenous waste may be excreted as ammonia, urea, or other products.",
+          "is_correct": true
+        },
+        {
+          "text": "They must be converted entirely to starch in the digestive tract.",
+          "is_correct": false
+        },
+        {
+          "text": "They must bind irreversibly to ATP synthase.",
+          "is_correct": false
+        },
+        {
+          "text": "They must be beta-oxidized into two-carbon fragments first.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.182). Proteins → amino acids → deamination before entry.",
+      "source_page": 182,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.182)",
+      "id": "bcdb6c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "beta oxidation",
+      "prompt": "What does beta oxidation do to fatty acids? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "Breaks them into two-carbon fragments that enter the citric acid cycle as acetyl CoA (also generating NADH and FADH2).",
+          "is_correct": true
+        },
+        {
+          "text": "Converts them directly to pyruvate in glycolysis without acetyl CoA.",
+          "is_correct": false
+        },
+        {
+          "text": "Joins them to form glycogen in muscle.",
+          "is_correct": false
+        },
+        {
+          "text": "Removes amino groups to form urea.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). Beta oxidation → 2-C fragments → acetyl CoA.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "fb15ce"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "fat vs carb ATP",
+      "prompt": "How does fat compare with carbohydrate for ATP yield by mass? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "A gram of fat oxidized by respiration yields more than twice as much ATP as a gram of carbohydrate.",
+          "is_correct": true
+        },
+        {
+          "text": "A gram of carbohydrate always yields more than twice the ATP of a gram of fat.",
+          "is_correct": false
+        },
+        {
+          "text": "Fat and carbohydrate yield identical ATP per gram.",
+          "is_correct": false
+        },
+        {
+          "text": "Fat cannot be oxidized by cellular respiration at all.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). Fat >2× ATP per gram vs carbohydrate.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "3a4f7e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "glycerol entry",
+      "prompt": "After fat digestion, glycerol enters respiration by conversion to which intermediate? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "Glyceraldehyde 3-phosphate (a glycolysis intermediate).",
+          "is_correct": true
+        },
+        {
+          "text": "Oxaloacetate in the Calvin cycle.",
+          "is_correct": false
+        },
+        {
+          "text": "Lactate in the nucleus.",
+          "is_correct": false
+        },
+        {
+          "text": "Citrate synthase in the intermembrane space.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). Glycerol → glyceraldehyde 3-phosphate.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "2d37be"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "anabolic use",
+      "prompt": "Besides fuel, how can food molecules and pathway intermediates be used? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "As carbon skeletons for biosynthesis; anabolic pathways consume ATP.",
+          "is_correct": true
+        },
+        {
+          "text": "Only as heat with no biosynthetic role.",
+          "is_correct": false
+        },
+        {
+          "text": "Exclusively to build O2 from water.",
+          "is_correct": false
+        },
+        {
+          "text": "Only after all ATP stores are permanently destroyed.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). Intermediates diverted as anabolic precursors; anabolism consumes ATP.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "cc21cc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "essential amino acids",
+      "prompt": "Regarding amino acid biosynthesis in humans, which statement matches the text? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "Humans can make about half of the 20 amino acids from citric acid cycle compounds; essential amino acids must come from the diet.",
+          "is_correct": true
+        },
+        {
+          "text": "Humans synthesize all 20 amino acids and never need dietary amino acids.",
+          "is_correct": false
+        },
+        {
+          "text": "Humans cannot make any amino acids and must obtain all 20 from fat only.",
+          "is_correct": false
+        },
+        {
+          "text": "Essential amino acids are produced only by beta oxidation of glycerol.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). About half of 20 amino acids made; essentials from diet.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "0a56b5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "feedback inhibition",
+      "prompt": "What is the most common metabolic control mechanism described for respiration? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "Feedback inhibition, in which an end product inhibits an early enzyme in the pathway.",
+          "is_correct": true
+        },
+        {
+          "text": "Random destruction of all mitochondria when ATP is low.",
+          "is_correct": false
+        },
+        {
+          "text": "Permanent inactivation of NAD+ after one use.",
+          "is_correct": false
+        },
+        {
+          "text": "Stimulation of every enzyme equally by high citrate only.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183). Most common control: feedback inhibition.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "629c56"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "PFK regulation",
+      "prompt": "How is phosphofructokinase regulated as the pacemaker of respiration? ((§9.6, p.183))",
+      "options": [
+        {
+          "text": "It is allosterically stimulated by AMP and inhibited by ATP and citrate.",
+          "is_correct": true
+        },
+        {
+          "text": "It is stimulated by ATP and citrate and inhibited by AMP.",
+          "is_correct": false
+        },
+        {
+          "text": "It is irreversibly destroyed whenever glucose is present.",
+          "is_correct": false
+        },
+        {
+          "text": "It functions only in the mitochondrial matrix, not in glycolysis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.183–184 / Fig. 9.19). PFK: stimulated by AMP; inhibited by ATP and citrate.",
+      "source_page": 183,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.183)",
+      "id": "5608eb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "c96",
+      "topic": "energy origin",
+      "prompt": "What does the chapter emphasize about the energy that keeps organisms alive? ((§9.6, p.184))",
+      "options": [
+        {
+          "text": "Cellular respiration releases energy that was originally stored by photosynthesis; it does not create energy from nothing.",
+          "is_correct": true
+        },
+        {
+          "text": "Cellular respiration manufactures new energy that never existed in ecosystems.",
+          "is_correct": false
+        },
+        {
+          "text": "All usable energy originates from fermentation of sulfate.",
+          "is_correct": false
+        },
+        {
+          "text": "ATP appears spontaneously without prior energy input from food or light.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Campbell Biology AP 12e, (§9.6, p.184). Energy is released, not produced; originally stored by photosynthesis.",
+      "source_page": 184,
+      "source_concept": "9.6",
+      "source_cite": "(§9.6, p.184)",
+      "id": "e4a1ba"
+    }
+  ]
+}
