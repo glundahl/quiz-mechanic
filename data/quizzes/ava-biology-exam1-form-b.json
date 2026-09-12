@@ -1410,7 +1410,7 @@
         },
         {
           "text": "Amino bond",
-          "is_correct": true
+          "is_correct": false
         },
         {
           "text": "Hydrogen bond",
@@ -1418,15 +1418,14 @@
         },
         {
           "text": "Peptide bond",
-          "is_correct": false
+          "is_correct": true
         }
       ],
-      "explanation": "Source: AP Biology Exam 1 Form B (Ava circled), p.6. Circled answer: B. FLAG: Circled B (Amino bond) is not a standard term; if the stem means the bond linking amino acids, peptide bond (D) is correct. Needs Ava/teacher confirmation.",
+      "explanation": "Source: AP Biology Exam 1 Form B, p.6. Correct answer: D Peptide bond. Ava had circled B (Amino bond); verified against Campbell that the proper related terms are amino group / amino acid, and the bond linking amino acids is a peptide bond.",
       "source_page": 6,
       "source_cite": "(Exam1-B, p.6)",
-      "circled_answer": "B",
-      "id": "b77a6c",
-      "answer_flag": "Circled B (Amino bond) is not a standard term; if the stem means the bond linking amino acids, peptide bond (D) is correct. Needs Ava/teacher confirmation."
+      "circled_answer": "D",
+      "id": "b77a6c"
     },
     {
       "type": "multiple-choice",
@@ -1487,5 +1486,5 @@
       "id": "2ed4ab"
     }
   ],
-  "notes": "Extracted from Ava circled Exam 1 Form B. Q48 answer flagged as uncertain (Amino bond)."
+  "notes": "Extracted from Ava circled Exam 1 Form B. Q48 corrected from circled B (Amino bond) to D (Peptide bond) after Campbell verify (s95)."
 }
