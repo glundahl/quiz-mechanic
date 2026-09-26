@@ -1,0 +1,1910 @@
+{
+  "id": "ava-q1-notes",
+  "filename": "ava-biology-q1-notes",
+  "title": "AP Biology — Q1 Class Notes",
+  "subtitle": "Handwritten notes practice · Themes through respiration",
+  "subject": "AP Biology",
+  "badge": "Q1 Notes",
+  "accent_color": "#3fb950",
+  "disable_option_shuffle": false,
+  "sections": [
+    {
+      "key": "themes",
+      "label": "Themes & Scientific Inquiry",
+      "color": "#58a6ff"
+    },
+    {
+      "key": "chemistry",
+      "label": "Chemistry & Water",
+      "color": "#3fb950"
+    },
+    {
+      "key": "macromolecules",
+      "label": "Macromolecules",
+      "color": "#e3b341"
+    },
+    {
+      "key": "energy_enzymes",
+      "label": "Energy & Enzymes",
+      "color": "#f0883e"
+    },
+    {
+      "key": "cells",
+      "label": "Cell Structure",
+      "color": "#a371f7"
+    },
+    {
+      "key": "membranes",
+      "label": "Membranes & Transport",
+      "color": "#f85149"
+    },
+    {
+      "key": "photosynthesis",
+      "label": "Photosynthesis",
+      "color": "#39d353"
+    },
+    {
+      "key": "respiration",
+      "label": "Respiration & Fermentation",
+      "color": "#79c0ff"
+    }
+  ],
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "How do the notes define an organism’s genome? ((notes, PDF1 p.01))",
+      "options": [
+        {
+          "text": "The entire library of genetic instructions that an organism inherits.",
+          "is_correct": true
+        },
+        {
+          "text": "Only the genes that are transcribed into mRNA in a given cell type.",
+          "is_correct": false
+        },
+        {
+          "text": "The set of proteins produced by translation in one tissue.",
+          "is_correct": false
+        },
+        {
+          "text": "A single chromosome that carries all of an organism’s traits.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.01). The genome is defined as the entire library of genetic instructions that an organism inherits.",
+      "source_page": 1,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.01)",
+      "id": "faa69f"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "In the biological hierarchy from largest to smallest, which sequence is correct? ((notes, PDF1 p.01))",
+      "options": [
+        {
+          "text": "Biosphere → Ecosystem → Communities → Populations → Organisms → Organs → Tissues → Cells → Organelles → Molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "Molecules → Cells → Tissues → Organs → Organisms → Populations → Communities → Ecosystem → Biosphere → Organelles.",
+          "is_correct": false
+        },
+        {
+          "text": "Biosphere → Populations → Communities → Ecosystem → Organisms → Organs → Tissues → Cells → Organelles → Molecules.",
+          "is_correct": false
+        },
+        {
+          "text": "Ecosystem → Biosphere → Communities → Populations → Organisms → Tissues → Organs → Cells → Molecules → Organelles.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.01). The notes list the hierarchy largest → smallest as Biosphere → Ecosystem → Communities → Populations → Organisms → Organs → Tissues → Cells → Organelles → Molecules.",
+      "source_page": 1,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.01)",
+      "id": "a17fc9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "Which set matches the seven properties of life listed in the notes? ((notes, PDF1 p.01))",
+      "options": [
+        {
+          "text": "Order; energy processing; regulation; growth and development; evolutionary adaptation; response to the environment; reproduction.",
+          "is_correct": true
+        },
+        {
+          "text": "Order; energy processing; regulation; growth and development; photosynthesis; response to the environment; reproduction.",
+          "is_correct": false
+        },
+        {
+          "text": "Order; energy processing; regulation; multicellularity; evolutionary adaptation; response to the environment; reproduction.",
+          "is_correct": false
+        },
+        {
+          "text": "Order; energy processing; regulation; growth and development; evolutionary adaptation; response to the environment; locomotion.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.01). Life is recognized by what living things do; the seven listed properties are order, energy processing, regulation, growth and development, evolutionary adaptation, response to the environment, and reproduction.",
+      "source_page": 1,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.01)",
+      "id": "fc15b0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "Along the DNA → protein path in the notes, which step correctly pairs process and product? ((notes, PDF1 p.02))",
+      "options": [
+        {
+          "text": "DNA → mRNA is transcription; mRNA → amino acid chain is translation; amino acid chain → protein is folding.",
+          "is_correct": true
+        },
+        {
+          "text": "DNA → mRNA is translation; mRNA → amino acid chain is transcription; amino acid chain → protein is folding.",
+          "is_correct": false
+        },
+        {
+          "text": "DNA → protein is transcription; mRNA → amino acid chain is folding; amino acid chain → mRNA is translation.",
+          "is_correct": false
+        },
+        {
+          "text": "DNA → mRNA is protein folding; mRNA → amino acid chain is transcription; amino acid chain → protein is translation.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.02). The notes map DNA → mRNA (transcription), mRNA → chain of amino acids (translation), and chain of amino acids → protein (protein folding).",
+      "source_page": 2,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.02)",
+      "id": "5b9274"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "According to the notes, what are the three domains of life? ((notes, PDF1 p.04))",
+      "options": [
+        {
+          "text": "Bacteria, Archaea, and Eukarya.",
+          "is_correct": true
+        },
+        {
+          "text": "Bacteria, Protista, and Animalia.",
+          "is_correct": false
+        },
+        {
+          "text": "Archaea, Fungi, and Plantae.",
+          "is_correct": false
+        },
+        {
+          "text": "Bacteria, Eukarya, and Viruses.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.04). The three domains of life are Bacteria, Archaea, and Eukarya.",
+      "source_page": 4,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.04)",
+      "id": "0095dc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "How do negative and positive feedback differ in regulating biological systems? ((notes, PDF1 p.04))",
+      "options": [
+        {
+          "text": "Negative feedback returns the system toward homeostasis (the norm); positive feedback moves the system away from homeostasis.",
+          "is_correct": true
+        },
+        {
+          "text": "Positive feedback returns the system toward homeostasis; negative feedback moves the system away from the norm.",
+          "is_correct": false
+        },
+        {
+          "text": "Both negative and positive feedback always return the system to homeostasis.",
+          "is_correct": false
+        },
+        {
+          "text": "Negative feedback only occurs in evolution; positive feedback only occurs in DNA replication.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.04). Feedback mechanisms regulate biological systems: negative feedback brings the system back to homeostasis, while positive feedback moves it away from the norm.",
+      "source_page": 4,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.04)",
+      "id": "58216c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "Beyond being an educated guess, what must a scientific hypothesis be? ((notes, PDF1 p.05))",
+      "options": [
+        {
+          "text": "It must be specific and testable.",
+          "is_correct": true
+        },
+        {
+          "text": "It must already be proven true before any experiment begins.",
+          "is_correct": false
+        },
+        {
+          "text": "It must rely only on inductive observation and never on if…then statements.",
+          "is_correct": false
+        },
+        {
+          "text": "It must describe a discovery-based record of nature without predicting outcomes.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.05). A hypothesis is more than an educated guess: it is specific and must be testable, and hypotheses gain credibility as they survive attempts to falsify them.",
+      "source_page": 5,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.05)",
+      "id": "8fca3c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "themes",
+      "topic": "Themes & Scientific Inquiry",
+      "prompt": "In the mimicry bar-graph results, how did attack patterns on artificial snakes change when coral snakes were present versus absent? ((notes, PDF1 p.06))",
+      "options": [
+        {
+          "text": "When coral snakes were absent, artificial kingsnakes took most attacks (~83%); when coral snakes were present, brown artificial snakes took most attacks (~84%).",
+          "is_correct": true
+        },
+        {
+          "text": "When coral snakes were absent, brown artificial snakes took most attacks (~83%); when coral snakes were present, artificial kingsnakes took most attacks (~84%).",
+          "is_correct": false
+        },
+        {
+          "text": "Artificial kingsnakes and brown artificial snakes each received about 50% of attacks whether coral snakes were present or absent.",
+          "is_correct": false
+        },
+        {
+          "text": "When coral snakes were present, artificial kingsnakes received nearly all attacks (~83%), matching the absent condition.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.06). With coral snakes absent, artificial kingsnakes ~83% of attacks vs brown ~17%; with coral snakes present, artificial kingsnakes ~16% vs brown ~84%.",
+      "source_page": 6,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.06)",
+      "id": "d84597"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "Which set of elements does the notes summarize as essential for life using the CHONPS mnemonic? ((notes, PDF1 p.09))",
+      "options": [
+        {
+          "text": "Carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur.",
+          "is_correct": true
+        },
+        {
+          "text": "Carbon, helium, oxygen, neon, phosphorus, and silicon.",
+          "is_correct": false
+        },
+        {
+          "text": "Calcium, hydrogen, oxygen, nickel, potassium, and sodium.",
+          "is_correct": false
+        },
+        {
+          "text": "Carbon, hydrogen, oxygen, nitrogen, potassium, and sodium only.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.09). Essential elements for life are summarized as CHONPS: C, H, O, N, P, and S.",
+      "source_page": 9,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.09)",
+      "id": "517628"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "How do atomic number and mass number differ? ((notes, PDF1 p.10))",
+      "options": [
+        {
+          "text": "Atomic number equals the number of protons; mass number equals the sum of protons and neutrons.",
+          "is_correct": true
+        },
+        {
+          "text": "Atomic number equals the number of neutrons; mass number equals the number of electrons only.",
+          "is_correct": false
+        },
+        {
+          "text": "Atomic number equals protons plus neutrons; mass number equals the number of protons only.",
+          "is_correct": false
+        },
+        {
+          "text": "Atomic number equals electrons in the outer shell; mass number equals the number of isotopes.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.10). Atomic number is the number of protons; mass number is the sum of protons and neutrons.",
+      "source_page": 10,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.10)",
+      "id": "c2e0ae"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "What makes isotopes of the same element different from one another? ((notes, PDF1 p.10))",
+      "options": [
+        {
+          "text": "They have a different number of neutrons.",
+          "is_correct": true
+        },
+        {
+          "text": "They have a different number of protons, so they are different elements.",
+          "is_correct": false
+        },
+        {
+          "text": "They always have a different number of electrons in every shell.",
+          "is_correct": false
+        },
+        {
+          "text": "They differ only in electronegativity, not in particle counts.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.10). Isotopes are atoms that have a different number of neutrons; radioactive isotopes are used for dating the age of matter.",
+      "source_page": 10,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.10)",
+      "id": "ada6de"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "In covalent bonding, what is electronegativity? ((notes, PDF1 p.11))",
+      "options": [
+        {
+          "text": "The attraction of a particular atom for the electrons of a covalent bond.",
+          "is_correct": true
+        },
+        {
+          "text": "The complete transfer of valence electrons from one atom to another to form ions.",
+          "is_correct": false
+        },
+        {
+          "text": "The number of protons that defines an element’s atomic number.",
+          "is_correct": false
+        },
+        {
+          "text": "The sharing of a full octet of electrons between two identical atoms only.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.11). Covalent bonds share a pair of valence electrons; electronegativity is the attraction of a particular atom for the electrons of a covalent bond.",
+      "source_page": 11,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.11)",
+      "id": "6fd602"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "How do water molecules interact through hydrogen bonding, per the notes? ((notes, PDF1 p.13))",
+      "options": [
+        {
+          "text": "Water is polar and forms hydrogen bonds with other molecules; each water molecule can hydrogen-bond to four more water molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "Water is nonpolar and forms covalent bonds to four other water molecules at once.",
+          "is_correct": false
+        },
+        {
+          "text": "Water forms ionic bonds between H+ and OH− instead of hydrogen bonds.",
+          "is_correct": false
+        },
+        {
+          "text": "Each water molecule hydrogen-bonds to only one other water molecule, never more.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.13). Water is a polar molecule that forms hydrogen bonds (not covalent bonds) with other molecules; every one water molecule can hydrogen-bond to four more.",
+      "source_page": 13,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.13)",
+      "id": "dbb7a0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "Which emergent properties of water are listed as contributing to Earth’s suitability for life? ((notes, PDF1 p.13))",
+      "options": [
+        {
+          "text": "Cohesion, adhesion, surface tension, and specific heat.",
+          "is_correct": true
+        },
+        {
+          "text": "Hydrophobicity, radioactivity, surface tension, and specific heat.",
+          "is_correct": false
+        },
+        {
+          "text": "Cohesion, adhesion, ionic bonding, and electronegativity.",
+          "is_correct": false
+        },
+        {
+          "text": "Cohesion, adhesion, surface tension, and atomic number.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.13). Emergent properties of water include cohesion, adhesion, surface tension, and specific heat (water has a very high specific heat).",
+      "source_page": 13,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.13)",
+      "id": "3905bd"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "How do acids, bases, and buffers relate to H+/OH− and pH in the notes? ((notes, PDF1 p.15))",
+      "options": [
+        {
+          "text": "An acid increases H+ in a solution; a base increases OH−; a buffer can absorb H+ or OH− and resist a pH change.",
+          "is_correct": true
+        },
+        {
+          "text": "An acid increases OH− in a solution; a base increases H+; a buffer always shifts pH by tenfold.",
+          "is_correct": false
+        },
+        {
+          "text": "An acid and a base both decrease H+ equally; buffers only work at pH 0.",
+          "is_correct": false
+        },
+        {
+          "text": "Acids and bases do not change ion concentrations; buffers permanently fix pH at 14.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.15). An acid increases H+; a base increases OH−; a buffer absorbs H+ or OH− without changing the solution’s pH (example: the ocean).",
+      "source_page": 15,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.15)",
+      "id": "b4dcb4"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "chemistry",
+      "topic": "Chemistry & Water",
+      "prompt": "What ecological impact of acid rain do the notes emphasize? ((notes, PDF1 p.16))",
+      "options": [
+        {
+          "text": "Acid rain affects ecosystems such as lakes and forests.",
+          "is_correct": true
+        },
+        {
+          "text": "Acid rain only raises ocean salinity and does not affect lakes or forests.",
+          "is_correct": false
+        },
+        {
+          "text": "Acid rain strengthens cohesion of water in plant xylem and never harms ecosystems.",
+          "is_correct": false
+        },
+        {
+          "text": "Acid rain converts all lakes into buffers that permanently hold pH at 7.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.16). Acid rain affects ecosystems such as lakes and forests (industrial gases create acidic conditions; the quiz stem focuses on the ecosystem effect).",
+      "source_page": 16,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.16)",
+      "id": "e2a034"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "In dehydration synthesis, how are polymers assembled? ((notes, PDF1 p.19))",
+      "options": [
+        {
+          "text": "Monomers join into polymers and water is lost in the process.",
+          "is_correct": true
+        },
+        {
+          "text": "Polymers break apart into monomers and water is consumed.",
+          "is_correct": false
+        },
+        {
+          "text": "Monomers join into polymers only when water is added as a reactant.",
+          "is_correct": false
+        },
+        {
+          "text": "Polymers form by ionic attraction without covalent bonds or water change.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.19). Dehydration synthesis creates polymers with loss of water; hydrolysis is the water-requiring breakdown.",
+      "source_page": 19,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.19)",
+      "id": "d4d58c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "How do lipids differ from the other major macromolecule classes? ((notes, PDF1 p.20))",
+      "options": [
+        {
+          "text": "They are the only class of macromolecules not considered polymers.",
+          "is_correct": true
+        },
+        {
+          "text": "They are the only class built exclusively from amino-acid monomers.",
+          "is_correct": false
+        },
+        {
+          "text": "They are the only hydrophilic macromolecules in cells.",
+          "is_correct": false
+        },
+        {
+          "text": "They are the only macromolecules that never appear in membranes.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.20). Lipids (fats, triglycerides, phospholipids, steroids) are hydrophobic and are the only macromolecule class not treated as polymers; they are major membrane components.",
+      "source_page": 20,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.20)",
+      "id": "78a21f"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "What is a glycosidic bond? ((notes, PDF1 p.20))",
+      "options": [
+        {
+          "text": "A covalent bond formed between two or more monosaccharides.",
+          "is_correct": true
+        },
+        {
+          "text": "An ionic bond that holds fatty acids to glycerol.",
+          "is_correct": false
+        },
+        {
+          "text": "A hydrogen bond between complementary nitrogen bases in DNA.",
+          "is_correct": false
+        },
+        {
+          "text": "A peptide bond linking amino acids into a polypeptide.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.20). Disaccharides form when two monosaccharides join by dehydration; the covalent link is a glycosidic bond.",
+      "source_page": 20,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.20)",
+      "id": "ef88e9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "Which pairing correctly describes structural polysaccharides? ((notes, PDF1 p.20))",
+      "options": [
+        {
+          "text": "Cellulose in plants; chitin in arthropods and fungi.",
+          "is_correct": true
+        },
+        {
+          "text": "Glycogen in plants; cellulose in animals.",
+          "is_correct": false
+        },
+        {
+          "text": "Chitin as the main storage polysaccharide in animal muscle.",
+          "is_correct": false
+        },
+        {
+          "text": "Cellulose as the storage polysaccharide that animals deposit in liver.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.20). Structural polysaccharides: cellulose (plants) and chitin (arthropods and fungi). Storage roles belong with glycogen (animals), not cellulose.",
+      "source_page": 20,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.20)",
+      "id": "9153b6"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "Which polysaccharide is correctly paired with its storage role in animals? ((notes, PDF1 p.20))",
+      "options": [
+        {
+          "text": "Glycogen — storage polysaccharide in animals.",
+          "is_correct": true
+        },
+        {
+          "text": "Cellulose — storage polysaccharide in animals.",
+          "is_correct": false
+        },
+        {
+          "text": "Chitin — storage polysaccharide in animals.",
+          "is_correct": false
+        },
+        {
+          "text": "Cholesterol — storage polysaccharide in animals.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.20). Notes list glycogen as the animal storage polysaccharide; cellulose and chitin are structural, not storage.",
+      "source_page": 20,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.20)",
+      "id": "05921c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "Which statement about fats and fatty acids matches the notes? ((notes, PDF1 p.20))",
+      "options": [
+        {
+          "text": "A triglyceride is 1 glycerol + 3 fatty acids; saturated fatty acids lack C–C double bonds and are solid at room temperature.",
+          "is_correct": true
+        },
+        {
+          "text": "A triglyceride is 1 glycerol + 2 fatty acids; saturated fatty acids have many C–C double bonds and are liquid at room temperature.",
+          "is_correct": false
+        },
+        {
+          "text": "A triglyceride is 3 glycerols + 1 fatty acid; unsaturated fatty acids never contain double bonds.",
+          "is_correct": false
+        },
+        {
+          "text": "Fats are hydrophilic polymers of glucose; fatty acids lack carboxyl groups.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.20). Fat/triglyceride = 1 glycerol + 3 fatty acids. Saturated: no C–C double bonds, solid at room temp. Unsaturated: C–C double bonds, liquid at room temp.",
+      "source_page": 20,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.20)",
+      "id": "bff5d1"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "Which description correctly matches a level of protein structure? ((notes, PDF1 p.22))",
+      "options": [
+        {
+          "text": "Secondary structure: hydrogen bonding that forms α helices and β sheets.",
+          "is_correct": true
+        },
+        {
+          "text": "Tertiary structure: only the interaction of helix and pleated sheet with no side-chain role.",
+          "is_correct": false
+        },
+        {
+          "text": "Primary structure: folding of multiple polypeptide subunits into one protein.",
+          "is_correct": false
+        },
+        {
+          "text": "Quaternary structure: the unique linear sequence of amino acids alone.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.22). Primary = unique amino-acid sequence; secondary = H-bonding into α helix and β sheets; quaternary = 2+ polypeptide chains. The notes’ tertiary wording (helix/pleated only) is oversimplified and is not used as correct.",
+      "source_page": 22,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.22)",
+      "id": "4cc7d4"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "macromolecules",
+      "topic": "Macromolecules",
+      "prompt": "Which nitrogen-base statement correctly contrasts DNA and RNA? ((notes, PDF1 p.23))",
+      "options": [
+        {
+          "text": "Thymine occurs only in DNA; uracil occurs only in RNA.",
+          "is_correct": true
+        },
+        {
+          "text": "Uracil occurs only in DNA; thymine occurs only in RNA.",
+          "is_correct": false
+        },
+        {
+          "text": "Adenine is found only in DNA; guanine is found only in RNA.",
+          "is_correct": false
+        },
+        {
+          "text": "Cytosine is found only in RNA; guanine is found only in DNA.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.23). Nitrogen bases include adenine and guanine (purines), cytosine, thymine (DNA only), and uracil (RNA only).",
+      "source_page": 23,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.23)",
+      "id": "d8da0b"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "What is energy coupling? ((notes, PDF1 p.08))",
+      "options": [
+        {
+          "text": "Using the products of an exergonic reaction to help run an endergonic reaction.",
+          "is_correct": true
+        },
+        {
+          "text": "Combining two endergonic reactions so both absorb free energy with no driver.",
+          "is_correct": false
+        },
+        {
+          "text": "Defining an exergonic reaction as one that produces a net gain of free energy.",
+          "is_correct": false
+        },
+        {
+          "text": "Separating anabolic and catabolic pathways so they never share intermediates.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF1 p.08). Energy coupling uses the products of an exergonic reaction to help run an endergonic reaction; ATP hydrolysis of the terminal phosphate releases energy for that coupling.",
+      "source_page": 8,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.08)",
+      "id": "629839"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "What is metabolism, as defined in the notes? ((notes, PDF1 p.07))",
+      "options": [
+        {
+          "text": "The collection of all chemical reactions that occur within an organism.",
+          "is_correct": true
+        },
+        {
+          "text": "Only the reactions that release heat from an ecosystem to space.",
+          "is_correct": false
+        },
+        {
+          "text": "The single reaction that converts ATP into glucose for long-term storage.",
+          "is_correct": false
+        },
+        {
+          "text": "The physical movement of organisms without any chemical change.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.07). Metabolism is the collection of all chemical reactions (rxns) within an organism.",
+      "source_page": 7,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.07)",
+      "id": "6e3431"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "Which statement correctly matches a law of thermodynamics from the notes? ((notes, PDF1 p.07))",
+      "options": [
+        {
+          "text": "Second law: every energy transfer increases the entropy (disorder) of the universe.",
+          "is_correct": true
+        },
+        {
+          "text": "First law: every energy transfer decreases the entropy of the universe.",
+          "is_correct": false
+        },
+        {
+          "text": "Second law: energy can neither be created nor destroyed but can change forms.",
+          "is_correct": false
+        },
+        {
+          "text": "First law: endergonic reactions always increase entropy without energy input.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.07). 1st law: energy neither created nor destroyed (changes form). 2nd law: every energy transfer increases entropy of the universe.",
+      "source_page": 7,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.07)",
+      "id": "5c21e9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "How do enzymes speed up metabolic reactions? ((notes, PDF3 p.08))",
+      "options": [
+        {
+          "text": "By lowering energy barriers.",
+          "is_correct": true
+        },
+        {
+          "text": "By permanently raising the ΔG of every reaction they catalyze.",
+          "is_correct": false
+        },
+        {
+          "text": "By destroying substrates so reactions cannot reverse.",
+          "is_correct": false
+        },
+        {
+          "text": "By adding heat until the cell reaches boiling temperature.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF3 p.08). Enzymes speed up metabolic reactions by lowering energy barriers; regulation of enzyme activity helps control metabolism.",
+      "source_page": 8,
+      "source_pdf": 3,
+      "source_cite": "(notes, PDF3 p.08)",
+      "id": "6ef8bc"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "When the terminal phosphate bond of ATP is broken, what happens? ((notes, PDF1 p.08))",
+      "options": [
+        {
+          "text": "Energy is released and ATP becomes ADP.",
+          "is_correct": true
+        },
+        {
+          "text": "Energy is absorbed and ADP becomes ATP with no phosphorylation step.",
+          "is_correct": false
+        },
+        {
+          "text": "ATP gains a fourth phosphate and stores more free energy.",
+          "is_correct": false
+        },
+        {
+          "text": "ATP converts directly into a polysaccharide without releasing energy.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.08). Breaking ATP’s terminal (last) phosphate bond releases energy; ATP becomes ADP. ADP can later be phosphorylated to reform ATP.",
+      "source_page": 8,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.08)",
+      "id": "9075e9"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "How do temperature and pH affect enzymes, per the notes? ((notes, PDF1 p.24))",
+      "options": [
+        {
+          "text": "Each enzyme has an optimal temperature; large pH shifts can denature the enzyme.",
+          "is_correct": true
+        },
+        {
+          "text": "Enzymes work equally well at every temperature and pH with no optimum.",
+          "is_correct": false
+        },
+        {
+          "text": "Only salt concentration matters; temperature and pH never affect enzyme shape.",
+          "is_correct": false
+        },
+        {
+          "text": "Denaturation requires removing the enzyme’s allosteric site permanently from the gene.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.24). Environmental factors temper enzyme activity: each enzyme has an optimal operating temperature; increases or decreases in pH can denature enzymes.",
+      "source_page": 24,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.24)",
+      "id": "5ad19e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "Which enzyme–action pairing matches the notes’ enzyme table? ((notes, PDF1 p.24))",
+      "options": [
+        {
+          "text": "Kinase — transfers a phosphate group; lipase — breaks down lipids.",
+          "is_correct": true
+        },
+        {
+          "text": "Lipase — transfers a phosphate group; kinase — breaks down lipids.",
+          "is_correct": false
+        },
+        {
+          "text": "Kinase — adds CO2 to form a −COOH group on any molecule.",
+          "is_correct": false
+        },
+        {
+          "text": "Lipase — removes CO2 from any molecule as its only action.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.24). Lipase: substrate lipids, breaks down lipids. Kinase: substrate any molecule, transfers a phosphate group. (Carboxylase wording in the notes is flagged and not used as correct.)",
+      "source_page": 24,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.24)",
+      "id": "71fb7b"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "energy_enzymes",
+      "topic": "Energy & Enzymes",
+      "prompt": "Which pairing of enzyme-regulation ideas matches the notes? ((notes, PDF1 p.24))",
+      "options": [
+        {
+          "text": "Allosteric site: where a regulator binds; feedback inhibition: pathway end product inhibits an enzyme.",
+          "is_correct": true
+        },
+        {
+          "text": "Allosteric site: identical to the active site; feedback inhibition: substrate permanently destroys the enzyme.",
+          "is_correct": false
+        },
+        {
+          "text": "Feedback inhibition: first substrate of a pathway always activates every enzyme; allosteric sites do not bind regulators.",
+          "is_correct": false
+        },
+        {
+          "text": "Allosteric regulation only occurs after the enzyme is fully denatured by extreme pH.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava handwritten notes (notes, PDF1 p.24). Allosteric site: portion of the enzyme where a regulator binds. Feedback inhibition: end product of a biological pathway inhibits the enzyme.",
+      "source_page": 24,
+      "source_pdf": 1,
+      "source_cite": "(notes, PDF1 p.24)",
+      "id": "1dc2b5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "How do the notes calculate total magnification on a light microscope? ((notes, PDF2 p.01))",
+      "options": [
+        {
+          "text": "Total magnification = ocular magnification × objective magnification.",
+          "is_correct": true
+        },
+        {
+          "text": "Total magnification = ocular magnification + objective magnification.",
+          "is_correct": false
+        },
+        {
+          "text": "Total magnification = objective magnification ÷ ocular magnification.",
+          "is_correct": false
+        },
+        {
+          "text": "Total magnification equals only the highest objective lens power.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.01). Ocular lenses are 10× and objectives are 4×, 10×, 40×, or 100×; total magnification is ocular × objective. Cytology is defined on the same page as the structure and function of cells.",
+      "source_page": 1,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.01)",
+      "id": "650e9b"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "Which contrast between light and electron microscopes matches the notes? ((notes, PDF2 p.01))",
+      "options": [
+        {
+          "text": "A light microscope can view prokaryotic and eukaryotic cells but not viruses; an electron microscope uses a beam of electrons for greater magnification and resolution.",
+          "is_correct": true
+        },
+        {
+          "text": "A light microscope can view viruses but not eukaryotic cells; an electron microscope uses ordinary white light only.",
+          "is_correct": false
+        },
+        {
+          "text": "Both light and electron microscopes can resolve viruses equally well; they differ only in cost.",
+          "is_correct": false
+        },
+        {
+          "text": "An electron microscope cannot improve resolution; a light microscope routinely resolves viruses.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.01). Light microscopes view prok/euk cells but not viruses; electron microscopes use an electron beam for greater magnification and resolution.",
+      "source_page": 1,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.01)",
+      "id": "510684"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "What do the notes say about the nucleoid region of a prokaryotic cell? ((notes, PDF2 p.02))",
+      "options": [
+        {
+          "text": "It is devoid of a true nucleus; DNA floats in the cytoplasm.",
+          "is_correct": true
+        },
+        {
+          "text": "It is a double-membrane nucleus that houses linear chromosomes.",
+          "is_correct": false
+        },
+        {
+          "text": "TEM views it as the cell surface; SEM views it as internal organelles.",
+          "is_correct": false
+        },
+        {
+          "text": "It is the site of protein synthesis on membrane-bound ribosomes.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.02). Prokaryotes lack a nucleus; the nucleoid is where DNA floats in the cytoplasm. (Same page: TEM views organelles; SEM views cell surfaces — used here only as a distractor contrast.)",
+      "source_page": 2,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.02)",
+      "id": "3dbe70"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "Which structures do the notes list as present in plant cells but not in animal cells? ((notes, PDF2 p.04))",
+      "options": [
+        {
+          "text": "Cell wall, chloroplast, central vacuole, and plasmodesmata.",
+          "is_correct": true
+        },
+        {
+          "text": "Centrioles, lysosomes, flagella, and intermediate filaments.",
+          "is_correct": false
+        },
+        {
+          "text": "Nucleoid region with DNA floating freely and a sugar capsule only.",
+          "is_correct": false
+        },
+        {
+          "text": "Rough ER, Golgi apparatus, and mitochondria.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.04). Plant-only structures listed are cell wall, chloroplast, central vacuole, and plasmodesmata. Prokaryote nucleoid (no true nucleus; DNA in cytoplasm) is on PDF2 p.02.",
+      "source_page": 4,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.04)",
+      "id": "445f0a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "How do smooth ER and rough ER differ in the notes? ((notes, PDF2 p.14))",
+      "options": [
+        {
+          "text": "Smooth ER lacks ribosomes and synthesizes lipids and carbohydrates (and detoxifies drugs); rough ER has ribosomes and synthesizes proteins and new membranes.",
+          "is_correct": true
+        },
+        {
+          "text": "Smooth ER has ribosomes and makes proteins; rough ER lacks ribosomes and only stores DNA.",
+          "is_correct": false
+        },
+        {
+          "text": "Both smooth and rough ER lack ribosomes and function only in phagocytosis.",
+          "is_correct": false
+        },
+        {
+          "text": "Rough ER detoxifies drugs; smooth ER is the only site of translation.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.14). Smooth ER lacks ribosomes and handles lipids/carbohydrates/detoxification; rough ER has ribosomes and synthesizes proteins and new membranes.",
+      "source_page": 14,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.14)",
+      "id": "bb6ded"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "Which statement about lysosomes matches the notes? ((notes, PDF2 p.15))",
+      "options": [
+        {
+          "text": "They contain hydrolytic enzymes that break down macromolecules and work best at a low pH.",
+          "is_correct": true
+        },
+        {
+          "text": "They synthesize lipids and detoxify drugs and work best at a high pH.",
+          "is_correct": false
+        },
+        {
+          "text": "They stack thylakoids into grana and produce ATP in the light reaction.",
+          "is_correct": false
+        },
+        {
+          "text": "They transfer hydrogen to make H₂O₂ and then use catalase to make water.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.15). Lysosomes hold hydrolytic enzymes for breaking down macromolecules; those enzymes work best at a low pH. (Thylakoid/grana and peroxisome/catalase appear as distractors from nearby organelle notes.)",
+      "source_page": 15,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.15)",
+      "id": "c0cce5"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "Which statement about mitochondria matches the notes? ((notes, PDF2 p.15))",
+      "options": [
+        {
+          "text": "The inner membrane is folded into cristae, and mitochondrial DNA is inherited from mother to child.",
+          "is_correct": true
+        },
+        {
+          "text": "Mitochondria lack their own DNA and inherit all genes only from the father.",
+          "is_correct": false
+        },
+        {
+          "text": "Mitochondria are stacks of thylakoids called grana in the chloroplast.",
+          "is_correct": false
+        },
+        {
+          "text": "Mitochondria are made of alpha and beta tubulin and drive pinocytosis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.15). Inner membrane folded into cristae; mitochondrial inheritance is always mother → child.",
+      "source_page": 15,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.15)",
+      "id": "c46c74"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "cells",
+      "topic": "Cell Structure",
+      "prompt": "Which microtubule-related statement matches the notes? ((notes, PDF2 p.16))",
+      "options": [
+        {
+          "text": "Microtubules are made of alpha and beta tubulin and are involved in mitosis; cilia and flagella have a 9+2 configuration.",
+          "is_correct": true
+        },
+        {
+          "text": "Centrioles have a 9+3 configuration that correctly describes their microtubule arrangement.",
+          "is_correct": false
+        },
+        {
+          "text": "Microtubules are made of actin protein and are used only for pinocytosis.",
+          "is_correct": false
+        },
+        {
+          "text": "Cilia and flagella both have a 9+0 configuration and lack tubulin.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.16). Source: Ava Q1 notes, (notes, PDF2 p.16–17). Microtubules = α/β tubulin and are involved in mitosis; cilia and flagella have a 9+2 configuration. Centriole “9+3” is audit-flagged and used only as a distractor. Prokaryote nucleoid (DNA floating in cytoplasm, no true nucleus) is on PDF2 p.02.",
+      "source_page": 16,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.16)",
+      "id": "37115a"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "How do integral and peripheral membrane proteins differ in the notes? ((notes, PDF2 p.04))",
+      "options": [
+        {
+          "text": "Integral proteins are transmembrane proteins with hydrophobic and hydrophilic portions; peripheral proteins bind to integral proteins on the outside of the membrane.",
+          "is_correct": true
+        },
+        {
+          "text": "Peripheral proteins span the bilayer; integral proteins only float freely in the cytosol.",
+          "is_correct": false
+        },
+        {
+          "text": "Integral proteins bind only to cholesterol; peripheral proteins carry out osmosis alone.",
+          "is_correct": false
+        },
+        {
+          "text": "Both types are identical transmembrane channels that invert across the bilayer.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.04). Integral = transmembrane with hydrophobic and hydrophilic portions; peripheral bind to integral proteins on the outside of the membrane.",
+      "source_page": 4,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.04)",
+      "id": "733b09"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "What is the fluid mosaic model of the cell membrane according to the notes? ((notes, PDF2 p.04))",
+      "options": [
+        {
+          "text": "The membrane is a mosaic of proteins that float around in the phospholipids; membranes are not static and move laterally but never invert.",
+          "is_correct": true
+        },
+        {
+          "text": "The membrane is a rigid sheet of cellulose with proteins locked in fixed positions.",
+          "is_correct": false
+        },
+        {
+          "text": "The membrane is only cholesterol molecules stacked in a static bilayer.",
+          "is_correct": false
+        },
+        {
+          "text": "The membrane is a sugar capsule outside the cell wall with no proteins.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.04). Fluid mosaic: proteins float among phospholipids; membranes move laterally but do not invert.",
+      "source_page": 4,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.04)",
+      "id": "802137"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "What role does cholesterol play in membranes per the notes? ((notes, PDF2 p.04))",
+      "options": [
+        {
+          "text": "Cholesterol is found in membranes and helps the membrane be less fluid.",
+          "is_correct": true
+        },
+        {
+          "text": "Cholesterol is found in membranes and makes the membrane more fluid.",
+          "is_correct": false
+        },
+        {
+          "text": "Cholesterol forms the sugar capsule outside the prokaryotic cell wall.",
+          "is_correct": false
+        },
+        {
+          "text": "Cholesterol is the only molecule that can cross the membrane by osmosis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.04). Cholesterol is present in membranes and assists the membrane in being less fluid.",
+      "source_page": 4,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.04)",
+      "id": "be8842"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "Which molecules do the notes say can cross the membrane with relative ease? ((notes, PDF2 p.05))",
+      "options": [
+        {
+          "text": "Small hydrophobic / nonpolar molecules such as O₂ and CO₂.",
+          "is_correct": true
+        },
+        {
+          "text": "Large charged molecules such as proteins and ions.",
+          "is_correct": false
+        },
+        {
+          "text": "Only water, and only when ATP is hydrolyzed.",
+          "is_correct": false
+        },
+        {
+          "text": "Only sugars, and only through the nuclear pores.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.05). Small hydrophobic/nonpolar molecules such as O₂ and CO₂ cross with relative ease; large and charged molecules face selective permeability.",
+      "source_page": 5,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.05)",
+      "id": "012659"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "How do the notes describe the direction of diffusion of solute relative to tonicity? ((notes, PDF2 p.08))",
+      "options": [
+        {
+          "text": "Solute flows from a hypertonic (concentrated) solution to a hypotonic (dilute) solution — the inverse direction of osmosis.",
+          "is_correct": true
+        },
+        {
+          "text": "Solute flows from a hypotonic solution to a hypertonic solution — the same direction as osmosis.",
+          "is_correct": false
+        },
+        {
+          "text": "Solute only moves when ATP is used; diffusion never follows a concentration difference.",
+          "is_correct": false
+        },
+        {
+          "text": "Solute always moves into the cell in a hypertonic environment and out in a hypotonic one.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.08). Diffusion: solute from hypertonic (concentrated) to hypotonic (dilute); notes mark osmosis and diffusion as inversely related in direction.",
+      "source_page": 8,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.08)",
+      "id": "5eff36"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "In which direction does osmosis move water according to the notes’ tonicity framing? ((notes, PDF2 p.08))",
+      "options": [
+        {
+          "text": "Water flows from a hypotonic solution to a hypertonic solution (iso: even flow; hypo: water in; hyper: water out).",
+          "is_correct": true
+        },
+        {
+          "text": "Water flows from a hypertonic solution to a hypotonic solution only.",
+          "is_correct": false
+        },
+        {
+          "text": "Water never moves; only solute always moves from hypo to hyper.",
+          "is_correct": false
+        },
+        {
+          "text": "Hypotonic means higher solute concentration, so water always leaves a hypotonic side.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.08). Isotonic: water flows evenly; hypo: water flowing in; hyper: water flowing out; osmosis is water from hypotonic → hypertonic. Distractor D echoes the swapped p.05 solute defs and is not treated as correct.",
+      "source_page": 8,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.08)",
+      "id": "ecfc44"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "How do facilitated diffusion and active transport differ in the notes? ((notes, PDF2 p.12))",
+      "options": [
+        {
+          "text": "Facilitated diffusion moves molecules (usually polar) with a transport protein and is passive (no energy); active transport moves against the concentration gradient and requires ATP.",
+          "is_correct": true
+        },
+        {
+          "text": "Facilitated diffusion requires ATP; active transport is always passive and needs no protein.",
+          "is_correct": false
+        },
+        {
+          "text": "Both are identical forms of endocytosis that engulf solids and fluids.",
+          "is_correct": false
+        },
+        {
+          "text": "Facilitated diffusion only moves O₂ and CO₂; active transport only moves water by osmosis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.12). Facilitated diffusion is passive protein-aided movement; active transport moves against the gradient using ATP.",
+      "source_page": 12,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.12)",
+      "id": "b10b8d"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "membranes",
+      "topic": "Membranes & Transport",
+      "prompt": "Which matching of bulk-transport terms matches the notes? ((notes, PDF2 p.12))",
+      "options": [
+        {
+          "text": "Exocytosis secretes materials out by vesicle fusion; endocytosis takes materials in by vesicles; phagocytosis engulfs molecules; pinocytosis is “cell drinking” of fluids or small molecules.",
+          "is_correct": true
+        },
+        {
+          "text": "Exocytosis takes materials in; endocytosis secretes materials out; phagocytosis is cell drinking; pinocytosis engulfs large solids only.",
+          "is_correct": false
+        },
+        {
+          "text": "Phagocytosis and pinocytosis are both forms of active transport that require no vesicles.",
+          "is_correct": false
+        },
+        {
+          "text": "Endocytosis and exocytosis are both types of facilitated diffusion across channel proteins.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 notes, (notes, PDF2 p.12). Exocytosis = vesicle fusion secreting out; endocytosis = taking in via vesicles; phagocytosis = engulfs molecules; pinocytosis = cell drinking of fluids/small molecules.",
+      "source_page": 12,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.12)",
+      "id": "383ab2"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "When light acts as a particle, packets of energy emitted are called what? ((notes, PDF2 p.18))",
+      "options": [
+        {
+          "text": "Photons (packets of light energy).",
+          "is_correct": true
+        },
+        {
+          "text": "Pigments only — colored molecules with no energy packets.",
+          "is_correct": false
+        },
+        {
+          "text": "Grana (stacks of thylakoids), not energy packets.",
+          "is_correct": false
+        },
+        {
+          "text": "Stomata (leaf pores), not energy packets.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.18). When light acts as a particle it emits packets of energy known as photons.",
+      "source_page": 18,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.18)",
+      "id": "cd6d50"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "According to the notes, chlorophyll absorbs which wavelengths and reflects which color that we see? ((notes, PDF2 p.19))",
+      "options": [
+        {
+          "text": "Absorbs red or blue light; reflects green light.",
+          "is_correct": true
+        },
+        {
+          "text": "Absorbs green light; reflects red and blue light.",
+          "is_correct": false
+        },
+        {
+          "text": "Absorbs only yellow light; reflects white light.",
+          "is_correct": false
+        },
+        {
+          "text": "Absorbs all visible wavelengths equally; reflects none.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.19). Chlorophyll absorbs red or blue light but reflects green light (which we see).",
+      "source_page": 19,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.19)",
+      "id": "2a4497"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "How do the notes contrast short-term energy carriers with long-term storage in photosynthesis? ((notes, PDF2 p.19))",
+      "options": [
+        {
+          "text": "ATP and NADPH act like short-term \"taxi cab\" carriers; glucose is long-term storage.",
+          "is_correct": true
+        },
+        {
+          "text": "Glucose is the only short-term carrier; ATP is long-term storage in the stroma.",
+          "is_correct": false
+        },
+        {
+          "text": "Only NADPH stores energy long-term; ATP and glucose are discarded as waste.",
+          "is_correct": false
+        },
+        {
+          "text": "Chlorophyll itself is the long-term carbohydrate store; ATP is never formed.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.19). Energy-storing compounds: ATP and NADPH as \"taxi cab\" carriers; glucose for long-term storage.",
+      "source_page": 19,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.19)",
+      "id": "8acf05"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "What is the main product of the light-independent reaction as framed in the notes? ((notes, PDF2 p.20))",
+      "options": [
+        {
+          "text": "Glucose (longer-term energy storage)",
+          "is_correct": true
+        },
+        {
+          "text": "Oxygen gas released before any carbon fixation",
+          "is_correct": false
+        },
+        {
+          "text": "Only water split at the reaction center",
+          "is_correct": false
+        },
+        {
+          "text": "Bundle-sheath cells that open stomata at night",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.20). The light-independent reaction uses stored energy from ATP/NADPH to produce glucose (longer-term energy storage).",
+      "source_page": 20,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.20)",
+      "id": "ce63ef"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "How is O2 produced during the light reactions according to the notes? ((notes, PDF2 p.21))",
+      "options": [
+        {
+          "text": "Chlorophyll replaces lost electrons by stripping water of H+, releasing O2.",
+          "is_correct": true
+        },
+        {
+          "text": "CO2 is split in the stroma, releasing O2 before carbon fixation.",
+          "is_correct": false
+        },
+        {
+          "text": "Glucose is oxidized in the thylakoid, releasing O2 as a byproduct.",
+          "is_correct": false
+        },
+        {
+          "text": "NADPH donates oxygen atoms that exit through stomata as O2.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.21). To replace electrons that went into NADPH, chlorophyll strips water of H+, releasing O2 into the atmosphere.",
+      "source_page": 21,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.21)",
+      "id": "1426f7"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "Where do the notes say the dark reaction (glucose production using ATP and NADPH) takes place? ((notes, PDF2 p.21))",
+      "options": [
+        {
+          "text": "In the stroma",
+          "is_correct": true
+        },
+        {
+          "text": "In the thylakoid space only",
+          "is_correct": false
+        },
+        {
+          "text": "In the mitochondrial matrix",
+          "is_correct": false
+        },
+        {
+          "text": "In the cytoplasm outside the chloroplast",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.21). The dark reaction uses ATP and NADPH to make glucose and takes place in the stroma.",
+      "source_page": 21,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.21)",
+      "id": "8e39f0"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "How do CAM plants manage stomata and CO2 collection in the notes? ((notes, PDF2 p.23))",
+      "options": [
+        {
+          "text": "Stomata closed during the day; open at night to collect CO2 and store it in vacuoles",
+          "is_correct": true
+        },
+        {
+          "text": "Stomata open only at midday so PEP can bind O2 instead of CO2",
+          "is_correct": false
+        },
+        {
+          "text": "Stomata stay open continuously; CO2 never enters vacuoles",
+          "is_correct": false
+        },
+        {
+          "text": "Stomata close at night; all CO2 fixation occurs only in mitochondria",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.23). CAM plants keep stomata closed during the day and open during the night to collect CO2 and store it in vacuoles.",
+      "source_page": 23,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.23)",
+      "id": "c7372e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "photosynthesis",
+      "topic": "Photosynthesis",
+      "prompt": "Which adaptation do C4 plants use, per the notes, to support the Calvin cycle? ((notes, PDF2 p.23))",
+      "options": [
+        {
+          "text": "Bundle-sheath cells and PEP to increase CO2 for the Calvin cycle",
+          "is_correct": true
+        },
+        {
+          "text": "Keeping stomata closed all night and never fixing CO2",
+          "is_correct": false
+        },
+        {
+          "text": "Storing CO2 only as lactic acid in the cytoplasm",
+          "is_correct": false
+        },
+        {
+          "text": "Running the entire Calvin cycle in the mitochondrial matrix",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.23). C4 plants have bundle-sheath cells and use phosphoenolpyruvate (PEP) to increase CO2 for the Calvin cycle.",
+      "source_page": 23,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.23)",
+      "id": "2e4f0c"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "How do alcoholic and lactic acid fermentation differ in the notes? ((notes, PDF3 p.01))",
+      "options": [
+        {
+          "text": "Alcoholic: ethyl alcohol byproduct (e.g. yeast); lactic acid: lactic acid byproduct (cheese/yogurt; can occur in human cells)",
+          "is_correct": true
+        },
+        {
+          "text": "Alcoholic: lactic acid in muscle; lactic acid: ethyl alcohol in yeast only",
+          "is_correct": false
+        },
+        {
+          "text": "Both produce O2 as the main byproduct and require aerobic ETS",
+          "is_correct": false
+        },
+        {
+          "text": "Neither produces ATP; both only regenerate chlorophyll",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF3 p.01). Alcoholic fermentation produces ATP with ethyl alcohol (yeast; wine/baking); lactic acid fermentation produces ATP with lactic acid (cheese, yogurt; can be used by human cells).",
+      "source_page": 1,
+      "source_pdf": 3,
+      "source_cite": "(notes, PDF3 p.01)",
+      "id": "02f9df"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "Where do the electron transport system and chemiosmosis occur, and which protein is used in chemiosmosis? ((notes, PDF3 p.01))",
+      "options": [
+        {
+          "text": "Inner mitochondrial membrane foldings; ATP synthase",
+          "is_correct": true
+        },
+        {
+          "text": "Cytoplasm only; Rubisco",
+          "is_correct": false
+        },
+        {
+          "text": "Stroma of the chloroplast; PEP carboxylase",
+          "is_correct": false
+        },
+        {
+          "text": "Nuclear envelope; collagen",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF3 p.01). ETS and chemiosmosis (oxidative phosphorylation) take place in the inner mitochondrial membrane folding; ATP synthase is the protein used in chemiosmosis.",
+      "source_page": 1,
+      "source_pdf": 3,
+      "source_cite": "(notes, PDF3 p.01)",
+      "id": "7e6463"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "Which description correctly matches the three junction types in the notes? ((notes, PDF3 p.04))",
+      "options": [
+        {
+          "text": "Tight: join plasma membranes in a sheet; anchoring: link cytoskeletons; communication: allow direct cell-to-cell signaling connections",
+          "is_correct": true
+        },
+        {
+          "text": "Tight: link cytoskeletons only; anchoring: open channels for CO2; communication: seal plasma membranes shut permanently",
+          "is_correct": false
+        },
+        {
+          "text": "Tight: store CO2 in vacuoles; anchoring: run glycolysis; communication: fix carbon with Rubisco",
+          "is_correct": false
+        },
+        {
+          "text": "Tight: ethyl alcohol export; anchoring: lactic acid export; communication: ATP synthase only",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF3 p.04). Tight junctions connect plasma membranes of adjacent cells in a sheet; anchoring junctions connect cytoskeletons; communication junctions allow communication with adjacent cells through direct connections.",
+      "source_page": 4,
+      "source_pdf": 3,
+      "source_cite": "(notes, PDF3 p.04)",
+      "id": "3b22fb"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "In glycolysis, one glucose molecule is broken down into what? ((notes, PDF2 p.24))",
+      "options": [
+        {
+          "text": "Two molecules of pyruvic acid",
+          "is_correct": true
+        },
+        {
+          "text": "Six molecules of CO2 and one ATP only",
+          "is_correct": false
+        },
+        {
+          "text": "One molecule of acetyl-CoA and water",
+          "is_correct": false
+        },
+        {
+          "text": "Two molecules of ethyl alcohol before any redox",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.24). Glycolysis: 1 glucose to 2 molecules of pyruvic acid; glucose is oxidized into pyruvic acid.",
+      "source_page": 24,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.24)",
+      "id": "08d94f"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "What does \"aerobic\" mean in the notes' framing of cell respiration? ((notes, PDF2 p.24))",
+      "options": [
+        {
+          "text": "Oxygen-dependent",
+          "is_correct": true
+        },
+        {
+          "text": "Oxygen-independent fermentation only",
+          "is_correct": false
+        },
+        {
+          "text": "Light-dependent carbon fixation in the stroma",
+          "is_correct": false
+        },
+        {
+          "text": "ATP production exclusively by alcoholic fermentation",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.24). Aerobic = oxygen dependent; the respiration series of reactions are redox.",
+      "source_page": 24,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.24)",
+      "id": "7d83b4"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "What net usable ATP yield do the notes give for glycolysis? ((notes, PDF2 p.24))",
+      "options": [
+        {
+          "text": "2 ATP usable (after requiring 2 ATP to start)",
+          "is_correct": true
+        },
+        {
+          "text": "Exactly 32 ATP with no investment cost",
+          "is_correct": false
+        },
+        {
+          "text": "6 ATP and 2 FADH2 with no NADH",
+          "is_correct": false
+        },
+        {
+          "text": "Zero ATP; only NADPH is produced",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.24). Glycolysis requires 2 ATP and yields 2 ATP usable.",
+      "source_page": 24,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.24)",
+      "id": "dbc27e"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "Where does glycolysis take place according to the notes? ((notes, PDF2 p.24))",
+      "options": [
+        {
+          "text": "In the cytoplasm",
+          "is_correct": true
+        },
+        {
+          "text": "In the mitochondrial matrix",
+          "is_correct": false
+        },
+        {
+          "text": "In the inner mitochondrial membrane",
+          "is_correct": false
+        },
+        {
+          "text": "In the chloroplast stroma",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.24). Glycolysis takes place in the cytoplasm.",
+      "source_page": 24,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.24)",
+      "id": "24b6fe"
+    },
+    {
+      "type": "multiple-choice",
+      "section": "respiration",
+      "topic": "Respiration & Fermentation",
+      "prompt": "Where does the citric acid cycle (Krebs) take place per the notes? ((notes, PDF2 p.24))",
+      "options": [
+        {
+          "text": "In the mitochondrial matrix (\"open space\")",
+          "is_correct": true
+        },
+        {
+          "text": "In the cytoplasm alongside glycolysis",
+          "is_correct": false
+        },
+        {
+          "text": "In the thylakoid lumen of chloroplasts",
+          "is_correct": false
+        },
+        {
+          "text": "Only on the outer mitochondrial membrane surface",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Source: Ava Q1 handwritten notes, (notes, PDF2 p.24). Krebs / citric acid cycle takes place in the mitochondrial matrix (\"open space\").",
+      "source_page": 24,
+      "source_pdf": 2,
+      "source_cite": "(notes, PDF2 p.24)",
+      "id": "e2a719"
+    }
+  ]
+}
