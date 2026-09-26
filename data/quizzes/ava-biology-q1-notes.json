@@ -54,7 +54,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "How do the notes define an organism’s genome? ((notes, PDF1 p.01))",
+      "prompt": "How do the notes define an organism’s genome? (notes, PDF1 p.01)",
       "options": [
         {
           "text": "The entire library of genetic instructions that an organism inherits.",
@@ -83,7 +83,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "In the biological hierarchy from largest to smallest, which sequence is correct? ((notes, PDF1 p.01))",
+      "prompt": "In the biological hierarchy from largest to smallest, which sequence is correct? (notes, PDF1 p.01)",
       "options": [
         {
           "text": "Biosphere → Ecosystem → Communities → Populations → Organisms → Organs → Tissues → Cells → Organelles → Molecules.",
@@ -112,7 +112,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "Which set matches the seven properties of life listed in the notes? ((notes, PDF1 p.01))",
+      "prompt": "Which set matches the seven properties of life listed in the notes? (notes, PDF1 p.01)",
       "options": [
         {
           "text": "Order; energy processing; regulation; growth and development; evolutionary adaptation; response to the environment; reproduction.",
@@ -141,7 +141,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "Along the DNA → protein path in the notes, which step correctly pairs process and product? ((notes, PDF1 p.02))",
+      "prompt": "Along the DNA → protein path in the notes, which step correctly pairs process and product? (notes, PDF1 p.02)",
       "options": [
         {
           "text": "DNA → mRNA is transcription; mRNA → amino acid chain is translation; amino acid chain → protein is folding.",
@@ -170,7 +170,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "According to the notes, what are the three domains of life? ((notes, PDF1 p.04))",
+      "prompt": "According to the notes, what are the three domains of life? (notes, PDF1 p.04)",
       "options": [
         {
           "text": "Bacteria, Archaea, and Eukarya.",
@@ -199,7 +199,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "How do negative and positive feedback differ in regulating biological systems? ((notes, PDF1 p.04))",
+      "prompt": "How do negative and positive feedback differ in regulating biological systems? (notes, PDF1 p.04)",
       "options": [
         {
           "text": "Negative feedback returns the system toward homeostasis (the norm); positive feedback moves the system away from homeostasis.",
@@ -228,7 +228,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "Beyond being an educated guess, what must a scientific hypothesis be? ((notes, PDF1 p.05))",
+      "prompt": "Beyond being an educated guess, what must a scientific hypothesis be? (notes, PDF1 p.05)",
       "options": [
         {
           "text": "It must be specific and testable.",
@@ -257,7 +257,7 @@
       "type": "multiple-choice",
       "section": "themes",
       "topic": "Themes & Scientific Inquiry",
-      "prompt": "In the mimicry bar-graph results, how did attack patterns on artificial snakes change when coral snakes were present versus absent? ((notes, PDF1 p.06))",
+      "prompt": "In the mimicry bar-graph results, how did attack patterns on artificial snakes change when coral snakes were present versus absent? (notes, PDF1 p.06)",
       "options": [
         {
           "text": "When coral snakes were absent, artificial kingsnakes took most attacks (~83%); when coral snakes were present, brown artificial snakes took most attacks (~84%).",
@@ -286,7 +286,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "Which set of elements does the notes summarize as essential for life using the CHONPS mnemonic? ((notes, PDF1 p.09))",
+      "prompt": "Which set of elements does the notes summarize as essential for life using the CHONPS mnemonic? (notes, PDF1 p.09)",
       "options": [
         {
           "text": "Carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur.",
@@ -315,7 +315,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "How do atomic number and mass number differ? ((notes, PDF1 p.10))",
+      "prompt": "How do atomic number and mass number differ? (notes, PDF1 p.10)",
       "options": [
         {
           "text": "Atomic number equals the number of protons; mass number equals the sum of protons and neutrons.",
@@ -344,7 +344,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "What makes isotopes of the same element different from one another? ((notes, PDF1 p.10))",
+      "prompt": "What makes isotopes of the same element different from one another? (notes, PDF1 p.10)",
       "options": [
         {
           "text": "They have a different number of neutrons.",
@@ -373,7 +373,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "In covalent bonding, what is electronegativity? ((notes, PDF1 p.11))",
+      "prompt": "In covalent bonding, what is electronegativity? (notes, PDF1 p.11)",
       "options": [
         {
           "text": "The attraction of a particular atom for the electrons of a covalent bond.",
@@ -402,7 +402,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "How do water molecules interact through hydrogen bonding, per the notes? ((notes, PDF1 p.13))",
+      "prompt": "How do water molecules interact through hydrogen bonding, per the notes? (notes, PDF1 p.13)",
       "options": [
         {
           "text": "Water is polar and forms hydrogen bonds with other molecules; each water molecule can hydrogen-bond to four more water molecules.",
@@ -431,7 +431,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "Which emergent properties of water are listed as contributing to Earth’s suitability for life? ((notes, PDF1 p.13))",
+      "prompt": "Which emergent properties of water are listed as contributing to Earth’s suitability for life? (notes, PDF1 p.13)",
       "options": [
         {
           "text": "Cohesion, adhesion, surface tension, and specific heat.",
@@ -460,7 +460,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "How do acids, bases, and buffers relate to H+/OH− and pH in the notes? ((notes, PDF1 p.15))",
+      "prompt": "How do acids, bases, and buffers relate to H+/OH− and pH in the notes? (notes, PDF1 p.15)",
       "options": [
         {
           "text": "An acid increases H+ in a solution; a base increases OH−; a buffer can absorb H+ or OH− and resist a pH change.",
@@ -489,7 +489,7 @@
       "type": "multiple-choice",
       "section": "chemistry",
       "topic": "Chemistry & Water",
-      "prompt": "What ecological impact of acid rain do the notes emphasize? ((notes, PDF1 p.16))",
+      "prompt": "What ecological impact of acid rain do the notes emphasize? (notes, PDF1 p.16)",
       "options": [
         {
           "text": "Acid rain affects ecosystems such as lakes and forests.",
@@ -518,7 +518,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "In dehydration synthesis, how are polymers assembled? ((notes, PDF1 p.19))",
+      "prompt": "In dehydration synthesis, how are polymers assembled? (notes, PDF1 p.19)",
       "options": [
         {
           "text": "Monomers join into polymers and water is lost in the process.",
@@ -547,7 +547,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "How do lipids differ from the other major macromolecule classes? ((notes, PDF1 p.20))",
+      "prompt": "How do lipids differ from the other major macromolecule classes? (notes, PDF1 p.20)",
       "options": [
         {
           "text": "They are the only class of macromolecules not considered polymers.",
@@ -576,7 +576,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "What is a glycosidic bond? ((notes, PDF1 p.20))",
+      "prompt": "What is a glycosidic bond? (notes, PDF1 p.20)",
       "options": [
         {
           "text": "A covalent bond formed between two or more monosaccharides.",
@@ -605,7 +605,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "Which pairing correctly describes structural polysaccharides? ((notes, PDF1 p.20))",
+      "prompt": "Which pairing correctly describes structural polysaccharides? (notes, PDF1 p.20)",
       "options": [
         {
           "text": "Cellulose in plants; chitin in arthropods and fungi.",
@@ -634,7 +634,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "Which polysaccharide is correctly paired with its storage role in animals? ((notes, PDF1 p.20))",
+      "prompt": "Which polysaccharide is correctly paired with its storage role in animals? (notes, PDF1 p.20)",
       "options": [
         {
           "text": "Glycogen — storage polysaccharide in animals.",
@@ -663,7 +663,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "Which statement about fats and fatty acids matches the notes? ((notes, PDF1 p.20))",
+      "prompt": "Which statement about fats and fatty acids matches the notes? (notes, PDF1 p.20)",
       "options": [
         {
           "text": "A triglyceride is 1 glycerol + 3 fatty acids; saturated fatty acids lack C–C double bonds and are solid at room temperature.",
@@ -692,7 +692,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "Which description correctly matches a level of protein structure? ((notes, PDF1 p.22))",
+      "prompt": "Which description correctly matches a level of protein structure? (notes, PDF1 p.22)",
       "options": [
         {
           "text": "Secondary structure: hydrogen bonding that forms α helices and β sheets.",
@@ -721,7 +721,7 @@
       "type": "multiple-choice",
       "section": "macromolecules",
       "topic": "Macromolecules",
-      "prompt": "Which nitrogen-base statement correctly contrasts DNA and RNA? ((notes, PDF1 p.23))",
+      "prompt": "Which nitrogen-base statement correctly contrasts DNA and RNA? (notes, PDF1 p.23)",
       "options": [
         {
           "text": "Thymine occurs only in DNA; uracil occurs only in RNA.",
@@ -750,7 +750,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "What is energy coupling? ((notes, PDF1 p.08))",
+      "prompt": "What is energy coupling? (notes, PDF1 p.08)",
       "options": [
         {
           "text": "Using the products of an exergonic reaction to help run an endergonic reaction.",
@@ -779,7 +779,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "What is metabolism, as defined in the notes? ((notes, PDF1 p.07))",
+      "prompt": "What is metabolism, as defined in the notes? (notes, PDF1 p.07)",
       "options": [
         {
           "text": "The collection of all chemical reactions that occur within an organism.",
@@ -808,7 +808,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "Which statement correctly matches a law of thermodynamics from the notes? ((notes, PDF1 p.07))",
+      "prompt": "Which statement correctly matches a law of thermodynamics from the notes? (notes, PDF1 p.07)",
       "options": [
         {
           "text": "Second law: every energy transfer increases the entropy (disorder) of the universe.",
@@ -837,7 +837,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "How do enzymes speed up metabolic reactions? ((notes, PDF3 p.08))",
+      "prompt": "How do enzymes speed up metabolic reactions? (notes, PDF3 p.08)",
       "options": [
         {
           "text": "By lowering energy barriers.",
@@ -866,7 +866,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "When the terminal phosphate bond of ATP is broken, what happens? ((notes, PDF1 p.08))",
+      "prompt": "When the terminal phosphate bond of ATP is broken, what happens? (notes, PDF1 p.08)",
       "options": [
         {
           "text": "Energy is released and ATP becomes ADP.",
@@ -895,7 +895,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "How do temperature and pH affect enzymes, per the notes? ((notes, PDF1 p.24))",
+      "prompt": "How do temperature and pH affect enzymes, per the notes? (notes, PDF1 p.24)",
       "options": [
         {
           "text": "Each enzyme has an optimal temperature; large pH shifts can denature the enzyme.",
@@ -924,7 +924,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "Which enzyme–action pairing matches the notes’ enzyme table? ((notes, PDF1 p.24))",
+      "prompt": "Which enzyme–action pairing matches the notes’ enzyme table? (notes, PDF1 p.24)",
       "options": [
         {
           "text": "Kinase — transfers a phosphate group; lipase — breaks down lipids.",
@@ -953,7 +953,7 @@
       "type": "multiple-choice",
       "section": "energy_enzymes",
       "topic": "Energy & Enzymes",
-      "prompt": "Which pairing of enzyme-regulation ideas matches the notes? ((notes, PDF1 p.24))",
+      "prompt": "Which pairing of enzyme-regulation ideas matches the notes? (notes, PDF1 p.24)",
       "options": [
         {
           "text": "Allosteric site: where a regulator binds; feedback inhibition: pathway end product inhibits an enzyme.",
@@ -982,7 +982,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "How do the notes calculate total magnification on a light microscope? ((notes, PDF2 p.01))",
+      "prompt": "How do the notes calculate total magnification on a light microscope? (notes, PDF2 p.01)",
       "options": [
         {
           "text": "Total magnification = ocular magnification × objective magnification.",
@@ -1011,7 +1011,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "Which contrast between light and electron microscopes matches the notes? ((notes, PDF2 p.01))",
+      "prompt": "Which contrast between light and electron microscopes matches the notes? (notes, PDF2 p.01)",
       "options": [
         {
           "text": "A light microscope can view prokaryotic and eukaryotic cells but not viruses; an electron microscope uses a beam of electrons for greater magnification and resolution.",
@@ -1040,7 +1040,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "What do the notes say about the nucleoid region of a prokaryotic cell? ((notes, PDF2 p.02))",
+      "prompt": "What do the notes say about the nucleoid region of a prokaryotic cell? (notes, PDF2 p.02)",
       "options": [
         {
           "text": "It is devoid of a true nucleus; DNA floats in the cytoplasm.",
@@ -1069,7 +1069,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "Which structures do the notes list as present in plant cells but not in animal cells? ((notes, PDF2 p.04))",
+      "prompt": "Which structures do the notes list as present in plant cells but not in animal cells? (notes, PDF2 p.04)",
       "options": [
         {
           "text": "Cell wall, chloroplast, central vacuole, and plasmodesmata.",
@@ -1098,7 +1098,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "How do smooth ER and rough ER differ in the notes? ((notes, PDF2 p.14))",
+      "prompt": "How do smooth ER and rough ER differ in the notes? (notes, PDF2 p.14)",
       "options": [
         {
           "text": "Smooth ER lacks ribosomes and synthesizes lipids and carbohydrates (and detoxifies drugs); rough ER has ribosomes and synthesizes proteins and new membranes.",
@@ -1127,7 +1127,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "Which statement about lysosomes matches the notes? ((notes, PDF2 p.15))",
+      "prompt": "Which statement about lysosomes matches the notes? (notes, PDF2 p.15)",
       "options": [
         {
           "text": "They contain hydrolytic enzymes that break down macromolecules and work best at a low pH.",
@@ -1156,7 +1156,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "Which statement about mitochondria matches the notes? ((notes, PDF2 p.15))",
+      "prompt": "Which statement about mitochondria matches the notes? (notes, PDF2 p.15)",
       "options": [
         {
           "text": "The inner membrane is folded into cristae, and mitochondrial DNA is inherited from mother to child.",
@@ -1185,7 +1185,7 @@
       "type": "multiple-choice",
       "section": "cells",
       "topic": "Cell Structure",
-      "prompt": "Which microtubule-related statement matches the notes? ((notes, PDF2 p.16))",
+      "prompt": "Which microtubule-related statement matches the notes? (notes, PDF2 p.16)",
       "options": [
         {
           "text": "Microtubules are made of alpha and beta tubulin and are involved in mitosis; cilia and flagella have a 9+2 configuration.",
@@ -1214,7 +1214,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "How do integral and peripheral membrane proteins differ in the notes? ((notes, PDF2 p.04))",
+      "prompt": "How do integral and peripheral membrane proteins differ in the notes? (notes, PDF2 p.04)",
       "options": [
         {
           "text": "Integral proteins are transmembrane proteins with hydrophobic and hydrophilic portions; peripheral proteins bind to integral proteins on the outside of the membrane.",
@@ -1243,7 +1243,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "What is the fluid mosaic model of the cell membrane according to the notes? ((notes, PDF2 p.04))",
+      "prompt": "What is the fluid mosaic model of the cell membrane according to the notes? (notes, PDF2 p.04)",
       "options": [
         {
           "text": "The membrane is a mosaic of proteins that float around in the phospholipids; membranes are not static and move laterally but never invert.",
@@ -1272,7 +1272,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "What role does cholesterol play in membranes per the notes? ((notes, PDF2 p.04))",
+      "prompt": "What role does cholesterol play in membranes per the notes? (notes, PDF2 p.04)",
       "options": [
         {
           "text": "Cholesterol is found in membranes and helps the membrane be less fluid.",
@@ -1301,7 +1301,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "Which molecules do the notes say can cross the membrane with relative ease? ((notes, PDF2 p.05))",
+      "prompt": "Which molecules do the notes say can cross the membrane with relative ease? (notes, PDF2 p.05)",
       "options": [
         {
           "text": "Small hydrophobic / nonpolar molecules such as O₂ and CO₂.",
@@ -1330,7 +1330,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "How do the notes describe the direction of diffusion of solute relative to tonicity? ((notes, PDF2 p.08))",
+      "prompt": "How do the notes describe the direction of diffusion of solute relative to tonicity? (notes, PDF2 p.08)",
       "options": [
         {
           "text": "Solute flows from a hypertonic (concentrated) solution to a hypotonic (dilute) solution — the inverse direction of osmosis.",
@@ -1359,7 +1359,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "In which direction does osmosis move water according to the notes’ tonicity framing? ((notes, PDF2 p.08))",
+      "prompt": "In which direction does osmosis move water according to the notes’ tonicity framing? (notes, PDF2 p.08)",
       "options": [
         {
           "text": "Water flows from a hypotonic solution to a hypertonic solution (iso: even flow; hypo: water in; hyper: water out).",
@@ -1388,7 +1388,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "How do facilitated diffusion and active transport differ in the notes? ((notes, PDF2 p.12))",
+      "prompt": "How do facilitated diffusion and active transport differ in the notes? (notes, PDF2 p.12)",
       "options": [
         {
           "text": "Facilitated diffusion moves molecules (usually polar) with a transport protein and is passive (no energy); active transport moves against the concentration gradient and requires ATP.",
@@ -1417,7 +1417,7 @@
       "type": "multiple-choice",
       "section": "membranes",
       "topic": "Membranes & Transport",
-      "prompt": "Which matching of bulk-transport terms matches the notes? ((notes, PDF2 p.12))",
+      "prompt": "Which matching of bulk-transport terms matches the notes? (notes, PDF2 p.12)",
       "options": [
         {
           "text": "Exocytosis secretes materials out by vesicle fusion; endocytosis takes materials in by vesicles; phagocytosis engulfs molecules; pinocytosis is “cell drinking” of fluids or small molecules.",
@@ -1446,7 +1446,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "When light acts as a particle, packets of energy emitted are called what? ((notes, PDF2 p.18))",
+      "prompt": "When light acts as a particle, packets of energy emitted are called what? (notes, PDF2 p.18)",
       "options": [
         {
           "text": "Photons (packets of light energy).",
@@ -1475,7 +1475,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "According to the notes, chlorophyll absorbs which wavelengths and reflects which color that we see? ((notes, PDF2 p.19))",
+      "prompt": "According to the notes, chlorophyll absorbs which wavelengths and reflects which color that we see? (notes, PDF2 p.19)",
       "options": [
         {
           "text": "Absorbs red or blue light; reflects green light.",
@@ -1504,7 +1504,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "How do the notes contrast short-term energy carriers with long-term storage in photosynthesis? ((notes, PDF2 p.19))",
+      "prompt": "How do the notes contrast short-term energy carriers with long-term storage in photosynthesis? (notes, PDF2 p.19)",
       "options": [
         {
           "text": "ATP and NADPH act like short-term \"taxi cab\" carriers; glucose is long-term storage.",
@@ -1533,7 +1533,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "What is the main product of the light-independent reaction as framed in the notes? ((notes, PDF2 p.20))",
+      "prompt": "What is the main product of the light-independent reaction as framed in the notes? (notes, PDF2 p.20)",
       "options": [
         {
           "text": "Glucose (longer-term energy storage)",
@@ -1562,7 +1562,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "How is O2 produced during the light reactions according to the notes? ((notes, PDF2 p.21))",
+      "prompt": "How is O2 produced during the light reactions according to the notes? (notes, PDF2 p.21)",
       "options": [
         {
           "text": "Chlorophyll replaces lost electrons by stripping water of H+, releasing O2.",
@@ -1591,7 +1591,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "Where do the notes say the dark reaction (glucose production using ATP and NADPH) takes place? ((notes, PDF2 p.21))",
+      "prompt": "Where do the notes say the dark reaction (glucose production using ATP and NADPH) takes place? (notes, PDF2 p.21)",
       "options": [
         {
           "text": "In the stroma",
@@ -1620,7 +1620,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "How do CAM plants manage stomata and CO2 collection in the notes? ((notes, PDF2 p.23))",
+      "prompt": "How do CAM plants manage stomata and CO2 collection in the notes? (notes, PDF2 p.23)",
       "options": [
         {
           "text": "Stomata closed during the day; open at night to collect CO2 and store it in vacuoles",
@@ -1649,7 +1649,7 @@
       "type": "multiple-choice",
       "section": "photosynthesis",
       "topic": "Photosynthesis",
-      "prompt": "Which adaptation do C4 plants use, per the notes, to support the Calvin cycle? ((notes, PDF2 p.23))",
+      "prompt": "Which adaptation do C4 plants use, per the notes, to support the Calvin cycle? (notes, PDF2 p.23)",
       "options": [
         {
           "text": "Bundle-sheath cells and PEP to increase CO2 for the Calvin cycle",
@@ -1678,7 +1678,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "How do alcoholic and lactic acid fermentation differ in the notes? ((notes, PDF3 p.01))",
+      "prompt": "How do alcoholic and lactic acid fermentation differ in the notes? (notes, PDF3 p.01)",
       "options": [
         {
           "text": "Alcoholic: ethyl alcohol byproduct (e.g. yeast); lactic acid: lactic acid byproduct (cheese/yogurt; can occur in human cells)",
@@ -1707,7 +1707,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "Where do the electron transport system and chemiosmosis occur, and which protein is used in chemiosmosis? ((notes, PDF3 p.01))",
+      "prompt": "Where do the electron transport system and chemiosmosis occur, and which protein is used in chemiosmosis? (notes, PDF3 p.01)",
       "options": [
         {
           "text": "Inner mitochondrial membrane foldings; ATP synthase",
@@ -1736,7 +1736,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "Which description correctly matches the three junction types in the notes? ((notes, PDF3 p.04))",
+      "prompt": "Which description correctly matches the three junction types in the notes? (notes, PDF3 p.04)",
       "options": [
         {
           "text": "Tight: join plasma membranes in a sheet; anchoring: link cytoskeletons; communication: allow direct cell-to-cell signaling connections",
@@ -1765,7 +1765,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "In glycolysis, one glucose molecule is broken down into what? ((notes, PDF2 p.24))",
+      "prompt": "In glycolysis, one glucose molecule is broken down into what? (notes, PDF2 p.24)",
       "options": [
         {
           "text": "Two molecules of pyruvic acid",
@@ -1794,7 +1794,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "What does \"aerobic\" mean in the notes' framing of cell respiration? ((notes, PDF2 p.24))",
+      "prompt": "What does \"aerobic\" mean in the notes' framing of cell respiration? (notes, PDF2 p.24)",
       "options": [
         {
           "text": "Oxygen-dependent",
@@ -1823,7 +1823,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "What net usable ATP yield do the notes give for glycolysis? ((notes, PDF2 p.24))",
+      "prompt": "What net usable ATP yield do the notes give for glycolysis? (notes, PDF2 p.24)",
       "options": [
         {
           "text": "2 ATP usable (after requiring 2 ATP to start)",
@@ -1852,7 +1852,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "Where does glycolysis take place according to the notes? ((notes, PDF2 p.24))",
+      "prompt": "Where does glycolysis take place according to the notes? (notes, PDF2 p.24)",
       "options": [
         {
           "text": "In the cytoplasm",
@@ -1881,7 +1881,7 @@
       "type": "multiple-choice",
       "section": "respiration",
       "topic": "Respiration & Fermentation",
-      "prompt": "Where does the citric acid cycle (Krebs) take place per the notes? ((notes, PDF2 p.24))",
+      "prompt": "Where does the citric acid cycle (Krebs) take place per the notes? (notes, PDF2 p.24)",
       "options": [
         {
           "text": "In the mitochondrial matrix (\"open space\")",
